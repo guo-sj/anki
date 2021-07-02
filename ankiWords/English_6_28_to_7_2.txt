@@ -1,0 +1,48 @@
+Lines beginning with a hash sign (#) are <b>directives</b> read and interpreted by what is known as the preprocessor.	an official instruction  指示，命令
+Functions will be discussed in detail in a later chapter, but essentially, their definition is introduced with a <b>succession</b> of a type (int), a name (main) and a pair of parentheses (()), optionally including parameters.	a number of people or things that follow each other in time or order  一连串，一系列
+The signature was still <b>legible</b>.	(of written or printed words) clear enough to read  清晰可读的
+ The division of code in different lines serves only to make it more legible and <b>schematic</b> for the humans that may read it, but has no effect on the actual behavior of the program.	according to a fixed plan or pattern   严谨的
+She's extremely well <b>qualified</b> for the jobs.	具备...的学历（资历）
+<b>With this in mind</b>, I forgive you this time.	考虑到这一点
+The whole process described above is a <b>simile</b> of what a computer can do with two variables.	明喻
+Spaces, <b>punctuation</b> marks, and symbols cannot be part of an identifier. 	标点符号
+A highly <b>volatile</b> situation from which riots might develop.	likely to change suddenly; easily becoming dangerous  不稳定的，易恶化的
+The conclusion is that either people are in a big rush to learn about programming, or that programming is somehow <b>fabulously</b> easier to learn than anything else. 	extremely  极其地
+We've been <b>given the nod</b> to expand the business.	to give permission for sth, to agree to sth  允许，对...表示同意
+So the book can only be talking about a superficial <b>familiarity</b>, not a deep understanding.	（表面的）认识
+<b>Epigrams</b> on Programming	a short poem or phrase that expresses an idea in a clever or amusing way  警句
+Researchers have shown it takes about ten years to develop <b>expertise</b> in any of a wide variety of areas, including chess playing, music composition, etc.	espert knowledge or skill in a particular subject, activity or job 专门知识；专门技能
+neuropsychology 	神经心理学
+The Canadian banking <b>topology</b> is relatively flat, with a few barge banks controlling the entire market.	the way the parts of sth are arranged and related  拓扑结构
+ The key is <b>deliberative</b> practice: not just doing it again and again, but challenging yourself with a task that is just beyond your current ability, trying it, analyzing your performance while and after doing it, and correcting any mistakes. Then repeat. And repeat again.	done on purpose rather than by accident  故意的，存心的
+Even Mozart, who was a musical <b>prodigy</b> at age 4, took 13 more years before he began to produce world-class music. 	a young person who is unusually intelligent or skillful for their age.  年轻天才，神童
+In another <b>genre</b>, the Beatles seemed to burst onto the scene with a string of #1 hits and an appearance on the Ed Sullivan show in 1964.	a paticular type or style of literature, art, film or music that you can recognize because of its special features  体裁，类型
+Their latest product is aimed at the <b>mass</b> market.	affecting or involving a large number of people or things  大批的，广泛的
+The Beatles have never really lost their <b>appeal</b>.	a quality that makes sb/sth attractive or interesting  吸引力，魅力
+Henri Cartier-Bresson (1908-2004) had another <b>metric</b>: "Your first 10,000 photographs are your worst."	made or measured using the metric system   用公制测量的，这里指“另一种测量方式”
+We <b>anticipate</b> that sales will rise next year.	to expect sth   预料，预期
+Excellence in any department can be attained only by the <b>labor</b> of a lifetime; it is not to be purchased at a lesser price.	work, especially physical work 劳动
+Hippocrates (c. 400BC) is known for the <b>excerpt</b> "Life is short, [the] craft long, opportunity fleeting, experiment treacherous, judgment difficult."	a short piece of writing, music, film, etc. taken from a longer whole  摘录，节选
+A <b>fleeting</b> moment of happiness	lasting only a short time  短暂的
+The Italian phrase can be <b>rendered</b> as 'I did my best'.	translate 翻译
+ The 10,000 hour number just gives you a sense that we're talking years of 10 to 20 hours a week which those who some people would argue are the most <b>innately</b> talented individuals still need to get to the highest level.	(of a quality, feeling, etc) that you have when you are born  天生的，先天的  这里是副词形式
+<b>Cognition</b> in Practice: Mind, Mathematics and Culture in Everyday Life (Learning in Doing)	the process by which knowledge and understanding is developed in the mind  认知，感知
+graduate school	研究生院
+He has all the <b>credentials</b> for the job.	the qualities, training or experience that make you suitable to do sth  资格，资历
+Before my first child was born, I read all the How To books, and still felt like a clueless <b>novice</b>. 	a person who is new and has little experience in a skill, job, or situation  新手
+They tried to <b>reassure</b> her, but she still felt anxious.	to say or do sth that makes sb less frightened or worried  使安心
+Assign a career <b>mentor</b> to be responsible for the development of the prospect and carefully keep a career file.	an experienced person who advises and helps sb with less experience over a period of time  导师
+Provide opportunities for growing designers to interact and <b>stimulate</b> each other.	to make sth develop or become more active; to encourage sth  促进，激励
+This assumes that some people already have the qualities necessary for being a great designer; the job is to properly <b>coax</b> them along.	to persuade sb to do sth by talking to them in a kind and gentle way  哄劝，劝诱
+Keep your answers as <b>succinct</b> as possible.	expressed clearly and in a few words简明的；言简意赅的
+Everyone can be taught to <b>sculpt</b>: Michelangelo would have had to be taught how not to. So it is with the great programmers.	雕刻
+Perlis is saying that the greats have some internal quality that <b>transcends</b> their training. 	to be or go beyond the usual limits of sth  超越
+She shows great <b>diligence</b> in her schoolwork.	careful and thorough work or effort. 勤勉，勤奋
+The book is challenging and will <b>weed out</b> some people who perhaps could be successful with another approach.	to remove or get rid of people or things from a group because they are not wanted or are less good than the rest 清除，剔除
+The results of the survey fell into two <b>distinct</b> groups.	clearly different or of a different kind  不同种类的
+C++ supports a wide variety of types based on the fundamental types discussed above; these other types are known as <b>compound</b> data types, and are one of the main strengths of the C++ language.	formed of two or more parts  复合的
+They are all equivalent and are </b>reminiscent<b> of the evolution of the language over the years.	reminding you of sb/sth  使回忆起...
+He arrived at the solution by a simple process of deduction.	the process of using information you have in order to understand a particular situation or to find the answer to a problem  演绎，推理
+A few stray hairs	separated from other things or people of the same kind  孤立的，零星的
+An unfortunate concurrence of event.	an example of two or more things happening at the same time  同时发生，同时进行
+parallel process (parallelism)	the division of a process into different parts, which are performed at the same time by different processors in a computer.	并行（处理）
