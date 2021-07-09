@@ -48,7 +48,7 @@ The new software will prove a <b>boon</b> to Internet users.	sth that is very he
 She has been <b>harried</b> by the press all week.	to annoy or upset sb by continuously asking them questions or for sth  不断的烦扰	LongTermLearning
 <b>obsolete</b> technology	过时的，淘汰的	LongTermLearning
 In this document, the words that are used to define the significance of each particular requirement are <b>capitalized</b>.	大写的	LongTermLearning
-A daemon is a type of program on Unix-like operating systems that runs <b>unobtrusively</b> in the background, rather than under the direct control of a user, waiting to be activated by the occurance of a specific event or condition.    not attracting unnecessary attention  不张扬的，这里是副词，“不张扬地”	LongTermLearning
+A daemon is a type of program on Unix-like operating systems that runs <b>unobtrusively</b> in the background, rather than under the direct control of a user, waiting to be activated by the occurance of a specific event or condition.	not attracting unnecessary attention  不张扬的，这里是副词，“不张扬地”	LongTermLearning
 The <b>perpetrator</b> of the crime.	a person who commits a crime or does sth that is wrong or evil  作案者，犯案者	LongTermLearning
 Batch process	批处理进程	LongTermLearning
 A campaign to encourage childless couples to <b>adopt</b>.	LongTermLearning
