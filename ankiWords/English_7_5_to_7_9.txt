@@ -1,0 +1,77 @@
+Conditional <b>ternary</b> operator ( ? )	consisting of three parts 三元	LongTermLearning
+I am 18 years old and my <b>zipcode</b> is 90064.	邮政编码	LongTermLearning
+<b>Bear in mind</b> that a flushing operation incurs a certain overhead, and on some devices it may produce a delay.	记住	LongTermLearning
+Extractions on cin can also be chained to request more than one <b>datum</b> in a single statement:	a fact or piece of information  数据，资料	LongTermLearning
+The job is great <b>in terms of</b> salary, but it has its disadvantages.	谈及，就...而言	LongTermLearning
+But programs are not limited to a <b>linear</b> sequence of statements. 	线性的	LongTermLearning
+During its process, a program may repeat segments of code, or take decisions and <b>bifurcate</b>.	(of roads, rivers, etc.) to divide into two swparate parts 分叉，分支	LongTermLearning
+Note that the complexity of this loop is <b>trivial</b> for a computer, and so the whole countdown is performed instantly, without any practical delay between elements of the count. 	the state of being unimportant or dealing with unimportant things  微不足道的事情	LongTermLearning
+They represent the <b>consensus</b> of a large body of technical experience and wisdom, contributed by the members of the Internet research and vendor communities.	an opinion that all members of a groups agree with  一致的意见	LongTermLearning
+Internet hosts <b>span</b> a wide range of size, speed, and function.	to include a large area or a lot of things  包括，涵盖	LongTermLearning
+we are already <b>acquainted</b> with at least one kind of range: strings, which are sequences of characters.	to make sb/yourself familiar with or aware of sth  使熟悉	LongTermLearning
+The document was signed <b>in the presence of</b> two witnesses. 	with sb in the same place  在...面前，有...在场	LongTermLearning
+The evening was <b>deemed</b> a great success.	to have a particular opinion about sth  认为；视为	LongTermLearning
+The war was a <b>paradigm</b> of the destructive side of human nature.	a typical example or pattern of sth  典范，榜样	LongTermLearning
+The parameters in the function declaration have a clear <b>correspondence</b> to the arguments passed in the function call.	a connection between two things  相关性	LongTermLearning
+Note, that thanks to the <b>commutative</b> property of additions, the above can also be written as: z = substraction(x, y) + 4;	交换的，这里是指加法交换律	LongTermLearning
+On the flip side, functions with reference parameters are generally <b>perceived</b> as functions that modify the arguments passed, because that is why reference parameters are actually for.	to understand or think of sb/sth in a particular way  将...视为，将...理解为	LongTermLearning
+In C++, optimization is a task <b>delegated</b> to the compiler, which is free to generate any code for as long as the resulting behavior is the one specified by the code.	to give part of your work, power or authority to sb in a lower position than you  把（工作）委托给下级	LongTermLearning
+As a result, redundant paths can be exploited to provide robust service in spite of failures of <b>intervening</b> gateways and networks.	coming or exiting between two events, dates, objects, etc.  介于其间的	LongTermLearning
+They went swimming <b>in spite of</b> all the danger signs.	despite 尽管	LongTermLearning
+An important objective is to <b>insulate</b> host software from changes caused by the inevitable evolution of the Internet routing architecture.	to protect sb/sth from unpleasant experiences or influences  使免受...影响	LongTermLearning
+The main <b>objective</b> of this meeting is to give more information on our plans.	something that you are trying to achieve  目标	LongTermLearning
+For example, the LAN environment is typically much more <b>benign</b> than the Internet as a whole;	kind and gentle; not hurting anybody  善良的，友好的	LongTermLearning
+How can they <b>justify</b> paying such huge salary?	to show that sb/sth is right or reasonable  证明...正确	LongTermLearning
+To communicate using the Internet system, a host must implement the layered set of protocols <b>comprising</b> the Internet protocol suite.	to have sb/sth as parts or members  包括，包含	LongTermLearning
+A companion <b>volume</b> is soon to be published.	one of a pair of things that go together or can be used together  成对的	LongTermLearning
+The IP protocol includes <b>provision</b> for addressing, type-of-service specification, fragmentation and reassembly, and security information.	preparations that you make for sth that might or will happen in future  为(未来)做的准备	LongTermLearning
+ICMP provides error reporting, <b>congestion</b> reporting, and first-hop gateway redirection.	the state of being crowded and full of traffic  交通堵塞	LongTermLearning
+The two groups were similar <b>with respect to</b> income and status.	concerning  就...而言	LongTermLearning
+In all <b>overlapping</b> cases, the two specifications should be in agreement.	重叠的	LongTermLearning
+We need to develop a <b>coordinated</b> approach to the problem.	to organize the different parts of an activity and the people involved in it so that it works well.  使协调，这里是形容词，“协调的”	LongTermLearning
+There is considerable <b>merit</b> in both of these viewpoints. 	a good feature that deserves praise, reward or admiration  优点	LongTermLearning
+Experience has shown that knowledge of deficiencies in vendor software <b>propagates</b> quickly through the Internet technical community.	to spread an idea, a belief or a piece of information among many people  传播，宣传	LongTermLearning
+Be liberal in what you accept, and <b>conservative</b> in what you send".	保守的	LongTermLearning
+Software should be written to deal with every <b>conceivable</b> error.	that you can imagine or believe  可能的，可想象的	LongTermLearning
+He had become separated from his parents in the <b>ensuing</b> panic.	to happen after or as a result of another event  接着发生的，因而产生的	LongTermLearning
+In general, it is best to assume that the network is filled with <b>malevolent</b> entities that will send in packets designed to have the worst possible effect.	having or showing a desire to harm other people  有恶意的，有坏心肠的	LongTermLearning
+She was given the <b>unenviable</b> task of informing the loser.	difficult or unpleasant; that you would not want to have  艰难的，讨厌的	LongTermLearning
+He sent the letter <b>out of malice</b>.	出于恶意	LongTermLearning
+A <b>devious</b> politician	behaving in a dishonest or a indirect way, or tricking people, in order to get sth 不诚实的	LongTermLearning
+The announcement <b>provoked</b> a storm of protest.	to cause a particular reaction or have a particular effect  引起，激起	LongTermLearning
+We can <b>deduce</b> a lot from what people choose to buy.	to form an opinion about sth based on the information or evidence that is available  推断，推理	LongTermLearning
+Eggs are easy to cook, and are an extremely <b>versatile</b> food.	having many different uses  多用途的	LongTermLearning
+A <b>corollary</b> of this is "watch out for misbehaving hosts";	a situation, an argument or a fact that is the natural and direct result of another one  必然的结果	LongTermLearning
+Silicon valley	硅谷	LongTermLearning
+There is still an <b>immense</b> amount of work to be done.	extremely large or great  极大的，最大的	LongTermLearning
+The new software will prove a <b>boon</b> to Internet users.	sth that is very helpful and makes life easier for you  非常有用的东西	LongTermLearning
+She has been <b>harried</b> by the press all week.	to annoy or upset sb by continuously asking them questions or for sth  不断的烦扰	LongTermLearning
+<b>obsolete</b> technology	过时的，淘汰的	LongTermLearning
+In this document, the words that are used to define the significance of each particular requirement are <b>capitalized</b>.	大写的	LongTermLearning
+A daemon is a type of program on Unix-like operating systems that runs <b>unobtrusively</b> in the background, rather than under the direct control of a user, waiting to be activated by the occurance of a specific event or condition.    not attracting unnecessary attention  不张扬的，这里是副词，“不张扬地”	LongTermLearning
+The <b>perpetrator</b> of the crime.	a person who commits a crime or does sth that is wrong or evil  作案者，犯案者	LongTermLearning
+Batch process	批处理进程	LongTermLearning
+A campaign to encourage childless couples to <b>adopt</b>.	LongTermLearning
+The school was used as a hospital for the <b>duration</b> of the war.	the length of time that sth lasts or continues  期间	LongTermLearning
+Old stories about gods and <b>mortals</b>	human beings  凡人	LongTermLearning
+He also claimed that his daemon exhibited greater accuracy than any of the forms of <b>divination</b> practiced at the time.	the act of finding out and saying what will happen in the future  预言	LongTermLearning
+thermodynamics	热力学	LongTermLearning
+molecule	分子	LongTermLearning
+He worked <b>tirelessly</b> to earn money for the family.	in an energetic and continuous way    持续的	LongTermLearning
+Daemon was then used to describe background processes which worked tirelessly to perform system <b>chores</b>.	a task that you do regularly  日常事务，例行工作	LongTermLearning
+After the term was adopted for computer use, it was <b>rationalized</b> as an acronym for Disk And Execution MONitor.	对...进行理性的解释	LongTermLearning
+All three teams <b>adopted</b> different approaches to the problem.	to start to use a particular method or to show a particular attitude towards sb/sth  采用...方法	LongTermLearning
+After the term was adopted for computer use, it was rationalized as an <b>acronym</b> for Disk And Execution MONitor.	首字母缩略词	LongTermLearning
+Although the term daemon is now sometimes being used <b>with regard to</b> Windows system as well.	concerning to 关于	LongTermLearning
+The <i>inline</i> keyword must be applied to the first declaration of the namespace in a <b>compilation</b> unit.	a collection of items, especially pieces of music or writing, taken from different places and put together  收集。这句话意思是：inline 必须用于一个namespace的第一个声明。	LongTermLearning
+The following example shows two versions of an interface, each in a <b>nested</b> namespace.	to put types of information together, or inside each other, so that they form a single unit  嵌套	LongTermLearning
+I seem to have <b>accumulated</b> a lot of books.	to gradually get more and more of sth over a period of time  积累，积攒	LongTermLearning
+The money was donated by a local businessman who wishes to remain <b>anonymous</b>.	with a name that is not known or that is not made public  匿名的	LongTermLearning
+<b>Time slice</b> is the length of time that each process is permitted to run in the CPU until it is preempted (i.e., replaced) by another process in a time sharing operating system.	时间片	LongTermLearning
+quantum	a very small quantity of ELECTROMAGNETIC energy  量子	LongTermLearning
+A single user can <b>likewise</b> simultaneously run seven instances of vi, or some other program. 	in a similar way 同样的，类似的	LongTermLearning
+While a process is running, it can <b>spawn</b> (i.e., give birth to) other processes.	to lay eggs  产卵	LongTermLearning
+The first step in spawning a new process is for an existing process to create an identical copy of itself. This copy is then transformed into the new process, and it, in turn, can create additional processes, <b>thereby</b> resulting in multiple generations of processes.	used to introduce the result of the action or situation mentioned 因此	LongTermLearning
+She had once worked for the Traveller hotel chain (now <b>defunct</b>).	no longer existing, operating or being used.  已经灭绝的，不再使用的	LongTermLearning
+the <b>lethal</b> weapon	causing or able to cause death 致命的	LongTermLearning
+Another reason that a user might want to control processes is to make use of job control, a feature of the shell that <b>facilitates</b> the handling of multiple processes. 	to make an action or a process possible or easier  促进，促使，使便利	LongTermLearning
