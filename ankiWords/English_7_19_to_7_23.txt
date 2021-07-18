@@ -1,0 +1,9 @@
+Quick sort is a highly efficient sorting algorithm and is based on <b>partitioning</b> of array of data into smaller arrays.	to divide sth into parts  分割，使分裂
+A large array is partitioned into two arrays one of which holds values smaller than the specified value, say <b>pivot</b>, based on which the partition is made and another array holds values greater than the pivot value.	the central point, pin, or column on which sth turns or balances  支点，枢轴
+Quick Sort Pivot <b>Pseudocode</b>	伪代码
+An <b>inventory</b> of the museum's contents	a written list of all the objects, furniture, etc. 清单
+Algorithms are generally created independent of <b>underlying</b> languages, i.e. an algorithm can be implemented in more than one programming language.	隐含的，下层的
+There are three cases which are usually used to compare various data structure's execution time in a relative <b>manner</b>.	the way that sth is done or happens  方式，方法
+This is the scenario <b>depicting</b> the average execution time of an operation of a data structure.	to describe sth in words  描述，刻画
+A <b>Priori</b> Analysis	happening or existing before sth else or before a particular time  先前的
+A <b>Posterior</b> Analysis	located behind st or at the back of sth   在后面的，在后部的
