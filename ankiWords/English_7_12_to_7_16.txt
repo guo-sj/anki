@@ -1,0 +1,19 @@
+<b>Decaying</b> standards of morality	to become less powerful and lose influence over people, society, etc. (力量，影响等) 衰落，衰退	LongTermLearning
+You can throw away any <b>excess</b>.	more than is necesary, reasonable or acceptable  多余的东西	LongTermLearning
+A <b>tireless</b> campaigner for human rights	不知疲倦的	LongTermLearning
+In some cases, trailers improve the <b>throughput</b> of higher layer protocols by reducing the amount of data copying within the operating system.	生产量	LongTermLearning
+What <b>sort of</b> music do you like?	a group or type of people or things that are similar in a particular way  种类	LongTermLearning
+The situation has changed <b>somewhat</b> since we last met.	to some degree 有点，有几分	LongTermLearning
+Here is an example a little bit more <b>elaborated</b>.	very complicated and detailed; carefully prepared and organized  复杂的，详尽的	LongTermLearning
+The years <b>preceding</b> the war	to happen before sth or come before sth in order  先于，在...之前	LongTermLearning
+She disliked him <b>intensely</b>.	非常地，强烈地	LongTermLearning
+There is a <b>substantial</b> difference between declaring a normal array and allocating dynamic memory for a block of memory using new. 	large in amount, value or importance  重大的	LongTermLearning
+Memory is allocated to the program and <b>reclaimed</b> by the OS in fixed-size chunks called pages.	to obtain materials from waste products so that they can be used again  回收	LongTermLearning
+<b>Barring</b> accidents, we should arrive on time.	except for 除了...	LongTermLearning
+ It's possible and common to <b>intermix</b> push and pop operations.	to mix things together  使混合	LongTermLearning
+Nevertheless, stacks are somewhat <b>rigid</b> in that they only allow access at the top.	very strict and difficult to change  死板的	LongTermLearning
+When two blocks of allocated memory are freed, they are <b>coalesced</b> to form a single block to better meet demand for larger blocks of memory. 	to come together to form one larger group, substance, etc. 合并，结合	LongTermLearning
+Our farm land was <b>adjacent</b> to the river.	next to or near sth  ...毗连的，邻近的	LongTermLearning
+But a heap also has advantages that <b>justify</b> the increased overhead. 	to show sb/sth is right or reasonable  证明...正确，有道理	LongTermLearning
+What <b>percentage</b> of the population is overweight?	百分比	LongTermLearning
+The garbage collector <b>sweeps</b> up all of the allocated memory that is still marked as garbage and returns it to the heap.	to remove sth from a surface using a brush, your hand, etc.  扫去，清除	LongTermLearning
