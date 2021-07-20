@@ -17,3 +17,14 @@ Our farm land was <b>adjacent</b> to the river.	next to or near sth  ...毗连�
 But a heap also has advantages that <b>justify</b> the increased overhead. 	to show sb/sth is right or reasonable  证明...正确，有道理	LongTermLearning
 What <b>percentage</b> of the population is overweight?	百分比	LongTermLearning
 The garbage collector <b>sweeps</b> up all of the allocated memory that is still marked as garbage and returns it to the heap.	to remove sth from a surface using a brush, your hand, etc.  扫去，清除	LongTermLearning
+Have you <b>observed</b> any changes lately?	to see or notice sb  观察到	LongTermLearning
+<b>Asymptotic</b> analysis of an algorithm refers to defining the mathematical boundation/frame of its run-time performance.  	渐近线	LongTermLearning
+A picture <b>frame</b>	（图画，门，玻璃等）框架	LongTermLearning
+One of the <b>highlights</b> of the trip was seeing the Taj Mahal.	the best, most interesting or most exciting part of sth  最好的部分	LongTermLearning
+On the other hand, if the CPU’s work grows <b>proportionally</b> to the input array size, you have a linear runtime O(n).	成比例的	LongTermLearning
+If we <b>plot</b> the most common Big O notation examples, we would have graph like this:	to mark sth on the map  标出，画出(增加图片)	LongTermLearning
+Another <b>prevalent</b> scenario is loops like for-loops or while-loops.	that exists or is very common at a particular time or in a particular place  普遍存在的，流行的	LongTermLearning
+We make a guess for the solution and then we use mathematical <b>induction</b> to prove the guess is correct or incorrect. 	a method of discovering general rules and principles from particular facts and examples  归纳法	LongTermLearning
+The pattern is typically a arithmetic or <b>geometric</b> series. 	几何学的	LongTermLearning
+The <b>polynomial</b> <i>x^2 + y + 1<\i>	多项式	LongTermLearning
+The firm has achieved a <b>dominant</b> position in the world market.	more important, powerful or noticeable than things  首要的，占支配地位的	LongTermLearning
