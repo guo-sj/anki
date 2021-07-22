@@ -7,3 +7,6 @@ There are three cases which are usually used to compare various data structure's
 This is the scenario <b>depicting</b> the average execution time of an operation of a data structure.	to describe sth in words  描述，刻画
 A <b>Priori</b> Analysis	happening or existing before sth else or before a particular time  先前的
 A <b>Posterior</b> Analysis	located behind st or at the back of sth   在后面的，在后部的
+The film’s <b>locale</b> is Venice in the summer of 1957.	a place where sth happens  发生地点
+<b>Whilst</b> you could use a relative path for the interpreter, most of the time you are going to want to use an absolute path.	while 尽管
+How do you deal with <b>persistent</b> salesmen who won't take no for an answer?	determined to do sth despite difficulties, especially when other people are against you and think that you are being annoying or unreasonable  执着的
