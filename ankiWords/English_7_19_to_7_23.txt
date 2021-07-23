@@ -10,3 +10,16 @@ A <b>Posterior</b> Analysis	located behind st or at the back of sth   在后面�
 The film’s <b>locale</b> is Venice in the summer of 1957.	a place where sth happens  发生地点
 <b>Whilst</b> you could use a relative path for the interpreter, most of the time you are going to want to use an absolute path.	while 尽管
 How do you deal with <b>persistent</b> salesmen who won't take no for an answer?	determined to do sth despite difficulties, especially when other people are against you and think that you are being annoying or unreasonable  执着的
+CMake is the <b>de facto</b> standard for building C++ projects.	existing as a fact although it may not be legally accepted as existing  实际上存在的（不一定合法）
+CMake is a mature and well tested with a broad developer community, it has <b>undergone</b> continuous improvement since 2000.	to experience sth, especially a change or sth unpleasant  经历，经受
+For graphical user interfaces that may be used <b>in place of</b> cmake, see ccmake  and  cmake-gui.	instead of  代替
+In order to avoid maintaining multiple such buildsystems, a project may specify its buildsystem <b>abstractly</b> using files written in the CMake language.	based on general ideas and not on any particular real person, thing or situation.  纯理论的，抽象的 
+From  these files  CMake generates a preferred buildsystem locally for each user through a <b>backend</b> called a generator.	not used directly by a user, but used by a program or a computer  后端的（程序）
+These elements can be combined in a <b>multitude</b> of different ways.	an extremely large number of things or people  大量的
+The lib "gobject" signifies library and libraries may be provided by a <b>generic</b> package that could be named gobject-xyz.	shared by, including or typical of a whole group of things; not specific  一般的，通用的
+You can give it a hit and <b>trial</b>.	to test the ability, quality or performance of sth to see if it will be effective or successful  测试，试验
+Error while loading shared libraries: the <b>dreaded</b> error that every Linux user will sooner or later run into.	causing fear  令人害怕的
+The term library is more often used in Linux circles and is the preferred <b>lingo</b> among professionals, although shared object (and shared library) are both technically correct.	expressions used by a particular group of people  行话，术语
+The difference between statically and dynamically compiled binaries is simple but has far-reaching <b>consequences</b>.		a result of sth that has happened  结果
+His first act as leader was to <b>purge</b> the extremists from the party.	to remove people from an organization, often violently, because their opinions or activities are unacceptable to the people in power  清除，清洗
+His first act as leader was to purge the <b>extremists</b> from the party.	极端分子
