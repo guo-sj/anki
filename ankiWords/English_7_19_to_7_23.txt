@@ -20,6 +20,6 @@ The lib "gobject" signifies library and libraries may be provided by a <b>generi
 You can give it a hit and <b>trial</b>.	to test the ability, quality or performance of sth to see if it will be effective or successful  测试，试验	LongTermLearning
 Error while loading shared libraries: the <b>dreaded</b> error that every Linux user will sooner or later run into.	causing fear  令人害怕的	LongTermLearning
 The term library is more often used in Linux circles and is the preferred <b>lingo</b> among professionals, although shared object (and shared library) are both technically correct.	expressions used by a particular group of people  行话，术语	LongTermLearning
-The difference between statically and dynamically compiled binaries is simple but has far-reaching <b>consequences</b>.		a result of sth that has happened  结果	LongTermLearning
+The difference between statically and dynamically compiled binaries is simple but has far-reaching <b>consequences</b>.	a result of sth that has happened  结果	LongTermLearning
 His first act as leader was to <b>purge</b> the extremists from the party.	to remove people from an organization, often violently, because their opinions or activities are unacceptable to the people in power  清除，清洗	LongTermLearning
 His first act as leader was to purge the <b>extremists</b> from the party.	极端分子	LongTermLearning
