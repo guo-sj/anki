@@ -1,0 +1,11 @@
+<b>Somehow</b>, I don't feel I can trust him.	for a reason that you do not know or understand 不知怎么地
+If you cancel now, you will <b>mess up</b> all my arrangements.	to spoil sth or do it badly  把...弄糟
+<b>At times</b>, it’s even quite possible to completely break an operating system installation due to moving a too-important library, etc.	sometimes  有时
+assuming that no such symlink or file with the same name existed <b>beforehand</b>.	earlier; before sth else happens or is done  事先，预先
+At this point, you will also want to read "how to use dkpg" to fix apt, as it shows you a more <b>granular</b> way to manage packages (Although be careful, as more control comes with more responsibility!).	颗粒度的，这里应该是“可以提供更加细粒度的方式”的意思
+<b>In extremis</b>, you might also be able to find a library in a neighboring Linux operating system.	极端情况下
+<b>Fine-grained</b> library management is a skill that takes a lifetime to learn.	质地细的
+That just about <b>wraps it up</b> for today.	to complete sth such as an agreement or a meeting in an acceptable way  圆满结束
+This article has provided the basic information/know-how and tools to use and has listed some more advanced troubleshooting suggestions for when things become <b>murky</b>.	not clear  模糊的
+The statement was carefully <b>polished</b> and checked before release.	to make changes to sth in order to improve it  修改，润色
+
