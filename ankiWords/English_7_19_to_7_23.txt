@@ -1,25 +1,25 @@
-Quick sort is a highly efficient sorting algorithm and is based on <b>partitioning</b> of array of data into smaller arrays.	to divide sth into parts  分割，使分裂
-A large array is partitioned into two arrays one of which holds values smaller than the specified value, say <b>pivot</b>, based on which the partition is made and another array holds values greater than the pivot value.	the central point, pin, or column on which sth turns or balances  支点，枢轴
-Quick Sort Pivot <b>Pseudocode</b>	伪代码
-An <b>inventory</b> of the museum's contents	a written list of all the objects, furniture, etc. 清单
-Algorithms are generally created independent of <b>underlying</b> languages, i.e. an algorithm can be implemented in more than one programming language.	隐含的，下层的
-There are three cases which are usually used to compare various data structure's execution time in a relative <b>manner</b>.	the way that sth is done or happens  方式，方法
-This is the scenario <b>depicting</b> the average execution time of an operation of a data structure.	to describe sth in words  描述，刻画
-A <b>Priori</b> Analysis	happening or existing before sth else or before a particular time  先前的
-A <b>Posterior</b> Analysis	located behind st or at the back of sth   在后面的，在后部的
-The film’s <b>locale</b> is Venice in the summer of 1957.	a place where sth happens  发生地点
-<b>Whilst</b> you could use a relative path for the interpreter, most of the time you are going to want to use an absolute path.	while 尽管
-How do you deal with <b>persistent</b> salesmen who won't take no for an answer?	determined to do sth despite difficulties, especially when other people are against you and think that you are being annoying or unreasonable  执着的
-CMake is the <b>de facto</b> standard for building C++ projects.	existing as a fact although it may not be legally accepted as existing  实际上存在的（不一定合法）
-CMake is a mature and well tested with a broad developer community, it has <b>undergone</b> continuous improvement since 2000.	to experience sth, especially a change or sth unpleasant  经历，经受
-For graphical user interfaces that may be used <b>in place of</b> cmake, see ccmake  and  cmake-gui.	instead of  代替
-In order to avoid maintaining multiple such buildsystems, a project may specify its buildsystem <b>abstractly</b> using files written in the CMake language.	based on general ideas and not on any particular real person, thing or situation.  纯理论的，抽象的 
-From  these files  CMake generates a preferred buildsystem locally for each user through a <b>backend</b> called a generator.	not used directly by a user, but used by a program or a computer  后端的（程序）
-These elements can be combined in a <b>multitude</b> of different ways.	an extremely large number of things or people  大量的
-The lib "gobject" signifies library and libraries may be provided by a <b>generic</b> package that could be named gobject-xyz.	shared by, including or typical of a whole group of things; not specific  一般的，通用的
-You can give it a hit and <b>trial</b>.	to test the ability, quality or performance of sth to see if it will be effective or successful  测试，试验
-Error while loading shared libraries: the <b>dreaded</b> error that every Linux user will sooner or later run into.	causing fear  令人害怕的
-The term library is more often used in Linux circles and is the preferred <b>lingo</b> among professionals, although shared object (and shared library) are both technically correct.	expressions used by a particular group of people  行话，术语
-The difference between statically and dynamically compiled binaries is simple but has far-reaching <b>consequences</b>.		a result of sth that has happened  结果
-His first act as leader was to <b>purge</b> the extremists from the party.	to remove people from an organization, often violently, because their opinions or activities are unacceptable to the people in power  清除，清洗
-His first act as leader was to purge the <b>extremists</b> from the party.	极端分子
+Quick sort is a highly efficient sorting algorithm and is based on <b>partitioning</b> of array of data into smaller arrays.	to divide sth into parts  分割，使分裂	LongTermLearning
+A large array is partitioned into two arrays one of which holds values smaller than the specified value, say <b>pivot</b>, based on which the partition is made and another array holds values greater than the pivot value.	the central point, pin, or column on which sth turns or balances  支点，枢轴	LongTermLearning
+Quick Sort Pivot <b>Pseudocode</b>	伪代码	LongTermLearning
+An <b>inventory</b> of the museum's contents	a written list of all the objects, furniture, etc. 清单	LongTermLearning
+Algorithms are generally created independent of <b>underlying</b> languages, i.e. an algorithm can be implemented in more than one programming language.	隐含的，下层的	LongTermLearning
+There are three cases which are usually used to compare various data structure's execution time in a relative <b>manner</b>.	the way that sth is done or happens  方式，方法	LongTermLearning
+This is the scenario <b>depicting</b> the average execution time of an operation of a data structure.	to describe sth in words  描述，刻画	LongTermLearning
+A <b>Priori</b> Analysis	happening or existing before sth else or before a particular time  先前的	LongTermLearning
+A <b>Posterior</b> Analysis	located behind st or at the back of sth   在后面的，在后部的	LongTermLearning
+The film’s <b>locale</b> is Venice in the summer of 1957.	a place where sth happens  发生地点	LongTermLearning
+<b>Whilst</b> you could use a relative path for the interpreter, most of the time you are going to want to use an absolute path.	while 尽管	LongTermLearning
+How do you deal with <b>persistent</b> salesmen who won't take no for an answer?	determined to do sth despite difficulties, especially when other people are against you and think that you are being annoying or unreasonable  执着的	LongTermLearning
+CMake is the <b>de facto</b> standard for building C++ projects.	existing as a fact although it may not be legally accepted as existing  实际上存在的（不一定合法）	LongTermLearning
+CMake is a mature and well tested with a broad developer community, it has <b>undergone</b> continuous improvement since 2000.	to experience sth, especially a change or sth unpleasant  经历，经受	LongTermLearning
+For graphical user interfaces that may be used <b>in place of</b> cmake, see ccmake  and  cmake-gui.	instead of  代替	LongTermLearning
+In order to avoid maintaining multiple such buildsystems, a project may specify its buildsystem <b>abstractly</b> using files written in the CMake language.	based on general ideas and not on any particular real person, thing or situation.  纯理论的，抽象的 	LongTermLearning
+From  these files  CMake generates a preferred buildsystem locally for each user through a <b>backend</b> called a generator.	not used directly by a user, but used by a program or a computer  后端的（程序）	LongTermLearning
+These elements can be combined in a <b>multitude</b> of different ways.	an extremely large number of things or people  大量的	LongTermLearning
+The lib "gobject" signifies library and libraries may be provided by a <b>generic</b> package that could be named gobject-xyz.	shared by, including or typical of a whole group of things; not specific  一般的，通用的	LongTermLearning
+You can give it a hit and <b>trial</b>.	to test the ability, quality or performance of sth to see if it will be effective or successful  测试，试验	LongTermLearning
+Error while loading shared libraries: the <b>dreaded</b> error that every Linux user will sooner or later run into.	causing fear  令人害怕的	LongTermLearning
+The term library is more often used in Linux circles and is the preferred <b>lingo</b> among professionals, although shared object (and shared library) are both technically correct.	expressions used by a particular group of people  行话，术语	LongTermLearning
+The difference between statically and dynamically compiled binaries is simple but has far-reaching <b>consequences</b>.		a result of sth that has happened  结果	LongTermLearning
+His first act as leader was to <b>purge</b> the extremists from the party.	to remove people from an organization, often violently, because their opinions or activities are unacceptable to the people in power  清除，清洗	LongTermLearning
+His first act as leader was to purge the <b>extremists</b> from the party.	极端分子	LongTermLearning
