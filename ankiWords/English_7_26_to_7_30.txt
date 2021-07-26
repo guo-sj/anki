@@ -8,4 +8,7 @@ At this point, you will also want to read "how to use dkpg" to fix apt, as it sh
 That just about <b>wraps it up</b> for today.	to complete sth such as an agreement or a meeting in an acceptable way  圆满结束
 This article has provided the basic information/know-how and tools to use and has listed some more advanced troubleshooting suggestions for when things become <b>murky</b>.	not clear  模糊的
 The statement was carefully <b>polished</b> and checked before release.	to make changes to sth in order to improve it  修改，润色
+An insurance <b>agent</b>	经纪人，代理商
+This site is HTML <b>compliant</b>.	in agreement with a set of rules  符合的，一致的 这句话的意思是：这个网站支持HTML协议。
+The team needs players who <b>complement</b> each other.	to add to sth in a way that improves it or makes it more attractive  补足，补充
 
