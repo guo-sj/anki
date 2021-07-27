@@ -11,4 +11,7 @@ The statement was carefully <b>polished</b> and checked before release.	to make 
 An insurance <b>agent</b>	经纪人，代理商
 This site is HTML <b>compliant</b>.	in agreement with a set of rules  符合的，一致的 这句话的意思是：这个网站支持HTML协议。
 The team needs players who <b>complement</b> each other.	to add to sth in a way that improves it or makes it more attractive  补足，补充
+It's possible to use the --target or --source options to avoid <b>ambivalent</b> interpretation of the given argument.	having or showing both good and bad feelings about sb/sth  矛盾情绪的
+<b>portable</b> software	可移植的
+An <b>intimate</b> knowledge of the English countryside	very detailed  透彻的
 
