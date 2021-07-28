@@ -14,4 +14,16 @@ The team needs players who <b>complement</b> each other.	to add to sth in a way 
 It's possible to use the --target or --source options to avoid <b>ambivalent</b> interpretation of the given argument.	having or showing both good and bad feelings about sb/sth  矛盾情绪的
 <b>portable</b> software	可移植的
 An <b>intimate</b> knowledge of the English countryside	very detailed  透彻的
-
+Build your own site <b>from scratch</b> or generate one for your project.	without any previous preparation or knowledge  从头开始
+Your branch and 'origin/master' have <b>diverged</b>, and have 1 and 1 different commits each, respectively.	to separate and go in different directions  分叉，岔开
+<b>semiconductor</b>	半导体
+<b>subset</b>	小组，子集
+software <b>vendor</b>	a company that sells a particular product  销售公司
+In the original concept and still the most common scenario, the equipment provides a single SECS <b>interface</b> for exclusive use by a single host.	an electrical circuit, connection or program that joins one device or system to another  接口
+Her story was a complete <b>farbrication</b> from start to finish.	to make or produce goods, equipment, etc. from various different materials  组装，制造，编造  这里是名词“farbrication”
+It's like a <b>furnace</b> in here!	熔炉
+They appointed a new manager to <b>coordinate</b> the work of the team.	to organize the different parts of an activity and the people involved in so that it works well  （使）协调
+We caught him <b>eavesdropping</b> outside the window.	to listen secretly to what other people are saying 偷听，窃听
+The <b>intent</b> of this guide	what you intend to do; intention  意图，目的 
+Most of the house remains <b>intact</b> even after two hundred years.	complete and not damaged  完好无损的
+A <b>secondary</b> effect	happening as a result of sth else  间接引发的 
