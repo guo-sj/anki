@@ -27,3 +27,8 @@ We caught him <b>eavesdropping</b> outside the window.	to listen secretly to wha
 The <b>intent</b> of this guide	what you intend to do; intention  意图，目的 
 Most of the house remains <b>intact</b> even after two hundred years.	complete and not damaged  完好无损的
 A <b>secondary</b> effect	happening as a result of sth else  间接引发的 
+<b>ploygon</b>	多边形
+The Chart Controls make it amazingly simple to <b>serialize</b> and deserialize chart data.	封装（数据）
+The Chart Controls make it amazingly simple to serialize and <b>deserialize</b> chart data.	解封装（数据）
+It will be published with <b>annotations</b> and an index.	注释
+When a constructor is used to initialize other members, these other members can be initialized directly, without <b>resorting</b> to statements in its body.	to make use of sth, especially sth bad, as a means of achieving sth, often because there is no other possible solution  依靠，求助于
