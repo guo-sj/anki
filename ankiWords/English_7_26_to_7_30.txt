@@ -33,4 +33,7 @@ The Chart Controls make it amazingly simple to serialize and <b>deserialize</b> 
 It will be published with <b>annotations</b> and an index.	注释
 When a constructor is used to initialize other members, these other members can be initialized directly, without <b>resorting</b> to statements in its body.	to make use of sth, especially sth bad, as a means of achieving sth, often because there is no other possible solution  依靠，求助于
 Password authentication is temporarily disabled as part of a <b>brownout</b>.	a period of time when the amount of electrical power that is supplied to an area is reduced  电力减弱
-
+He was unable to contact Blake by <b>radio</b>.	the process of sending and receiving messages through the air using ELECTROMAGNETIC waves  无线电信号
+The forum is open to all, but is by request only to keep the <b>spammers</b> down.	滥发电子邮件的人
+That was a pretty <b>dumb</b> thing to do.	stupid 愚蠢的
+<b>fuzzy logic</b>	a type of logic that is used to try to make computers behave like the human brain  模糊逻辑  （尝试用计算机模拟人脑）
