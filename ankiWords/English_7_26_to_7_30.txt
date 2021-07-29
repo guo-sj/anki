@@ -32,3 +32,5 @@ The Chart Controls make it amazingly simple to <b>serialize</b> and deserialize 
 The Chart Controls make it amazingly simple to serialize and <b>deserialize</b> chart data.	解封装（数据）
 It will be published with <b>annotations</b> and an index.	注释
 When a constructor is used to initialize other members, these other members can be initialized directly, without <b>resorting</b> to statements in its body.	to make use of sth, especially sth bad, as a means of achieving sth, often because there is no other possible solution  依靠，求助于
+Password authentication is temporarily disabled as part of a <b>brownout</b>.	a period of time when the amount of electrical power that is supplied to an area is reduced  电力减弱
+
