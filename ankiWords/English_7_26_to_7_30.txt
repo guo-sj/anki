@@ -37,3 +37,6 @@ He was unable to contact Blake by <b>radio</b>.	the process of sending and recei
 The forum is open to all, but is by request only to keep the <b>spammers</b> down.	滥发电子邮件的人
 That was a pretty <b>dumb</b> thing to do.	stupid 愚蠢的
 <b>fuzzy logic</b>	a type of logic that is used to try to make computers behave like the human brain  模糊逻辑  （尝试用计算机模拟人脑）
+A highly <b>subjective</b> point of view	主观的
+<i>signal()</i> sets  the  <b>disposition</b>  of  the  signal <i>signum</i> to <i>handler</i>, which is either SIG_IGN, SIG_DFL, or the address of a programmer-defined function (a "signal handler").	the way sth is placed or arranged  排列，布置
+Goods are <b>dispatched</b> within 24 hours of your order reaching us.	to send a letter, package or message somewhere  发送，发出
