@@ -1,0 +1,11 @@
+It's difficult to <b>assess</b> the effects of these changes.	to make a judgement about the nature or quality of sb/sth  评估
+Text can be <b>scaled</b> from 4 point to 108 point without any loss of quality.	to change the size of sth  改变大小
+By the end of it, you would be able to <b>eyeball</b> different implementations and know which one will perform better without running the code!	to look at sb/sth in a way that is very direct and not always polite or friendly  盯住，这里是“看出”的意思
+So, this is <b>paramount</b> to know how to measure algorithms’ performance.	more important than anything else  首要的
+Let me <b>recap</b> on what we've decided so far.	is equal to recapitulate, which means to repeat or give a summary of what has already been said, decided, etc.  重述，概述
+<i>tmux</i> is a terminal <b>multiplexer</b>.	a piece of electronic equipment that can send more than one electrical signal using only one connection
+This means it will disappear, but we don't care because building the library is easy and the out of tree build directory can be anywhere after you <b>get the hang of</b> it.	to learn how to do or to use sth; to understand sth  掌握...的要领
+A <b>deprecating</b> comment	to feel and express strong disapproval of sth  强烈反对
+A lack of oxygen may <b>inhibit</b> brain development in the unborn child.	to prevent sth from happening or make it happen more slowly or less frequently than normal  阻止
+But <i>watchpoints</i> may still be worth it, to catch errors where you have no clue what part of your program is the <b>culprit</b>.	a person or thing responsible for causing a problem  肇事者，引起问题的事物
+The bigger girl used to chase me <b>and</b> <b>tickle</b> me.	to move your fingers on a sensitive part of sb's body in a way that makes them laugh  呵痒
