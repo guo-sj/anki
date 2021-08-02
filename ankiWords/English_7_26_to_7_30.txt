@@ -1,42 +1,42 @@
-<b>Somehow</b>, I don't feel I can trust him.	for a reason that you do not know or understand 不知怎么地
-If you cancel now, you will <b>mess up</b> all my arrangements.	to spoil sth or do it badly  把...弄糟
-<b>At times</b>, it’s even quite possible to completely break an operating system installation due to moving a too-important library, etc.	sometimes  有时
-assuming that no such symlink or file with the same name existed <b>beforehand</b>.	earlier; before sth else happens or is done  事先，预先
-At this point, you will also want to read "how to use dkpg" to fix apt, as it shows you a more <b>granular</b> way to manage packages (Although be careful, as more control comes with more responsibility!).	颗粒度的，这里应该是“可以提供更加细粒度的方式”的意思
-<b>In extremis</b>, you might also be able to find a library in a neighboring Linux operating system.	极端情况下
-<b>Fine-grained</b> library management is a skill that takes a lifetime to learn.	质地细的
-That just about <b>wraps it up</b> for today.	to complete sth such as an agreement or a meeting in an acceptable way  圆满结束
-This article has provided the basic information/know-how and tools to use and has listed some more advanced troubleshooting suggestions for when things become <b>murky</b>.	not clear  模糊的
-The statement was carefully <b>polished</b> and checked before release.	to make changes to sth in order to improve it  修改，润色
-An insurance <b>agent</b>	经纪人，代理商
-This site is HTML <b>compliant</b>.	in agreement with a set of rules  符合的，一致的 这句话的意思是：这个网站支持HTML协议。
-The team needs players who <b>complement</b> each other.	to add to sth in a way that improves it or makes it more attractive  补足，补充
-It's possible to use the --target or --source options to avoid <b>ambivalent</b> interpretation of the given argument.	having or showing both good and bad feelings about sb/sth  矛盾情绪的
-<b>portable</b> software	可移植的
-An <b>intimate</b> knowledge of the English countryside	very detailed  透彻的
-Build your own site <b>from scratch</b> or generate one for your project.	without any previous preparation or knowledge  从头开始
-Your branch and 'origin/master' have <b>diverged</b>, and have 1 and 1 different commits each, respectively.	to separate and go in different directions  分叉，岔开
-<b>semiconductor</b>	半导体
-<b>subset</b>	小组，子集
-software <b>vendor</b>	a company that sells a particular product  销售公司
-In the original concept and still the most common scenario, the equipment provides a single SECS <b>interface</b> for exclusive use by a single host.	an electrical circuit, connection or program that joins one device or system to another  接口
-Her story was a complete <b>farbrication</b> from start to finish.	to make or produce goods, equipment, etc. from various different materials  组装，制造，编造  这里是名词“farbrication”
-It's like a <b>furnace</b> in here!	熔炉
-They appointed a new manager to <b>coordinate</b> the work of the team.	to organize the different parts of an activity and the people involved in so that it works well  （使）协调
-We caught him <b>eavesdropping</b> outside the window.	to listen secretly to what other people are saying 偷听，窃听
-The <b>intent</b> of this guide	what you intend to do; intention  意图，目的 
-Most of the house remains <b>intact</b> even after two hundred years.	complete and not damaged  完好无损的
-A <b>secondary</b> effect	happening as a result of sth else  间接引发的 
-<b>ploygon</b>	多边形
-The Chart Controls make it amazingly simple to <b>serialize</b> and deserialize chart data.	封装（数据）
-The Chart Controls make it amazingly simple to serialize and <b>deserialize</b> chart data.	解封装（数据）
-It will be published with <b>annotations</b> and an index.	注释
-When a constructor is used to initialize other members, these other members can be initialized directly, without <b>resorting</b> to statements in its body.	to make use of sth, especially sth bad, as a means of achieving sth, often because there is no other possible solution  依靠，求助于
-Password authentication is temporarily disabled as part of a <b>brownout</b>.	a period of time when the amount of electrical power that is supplied to an area is reduced  电力减弱
-He was unable to contact Blake by <b>radio</b>.	the process of sending and receiving messages through the air using ELECTROMAGNETIC waves  无线电信号
-The forum is open to all, but is by request only to keep the <b>spammers</b> down.	滥发电子邮件的人
-That was a pretty <b>dumb</b> thing to do.	stupid 愚蠢的
-<b>fuzzy logic</b>	a type of logic that is used to try to make computers behave like the human brain  模糊逻辑  （尝试用计算机模拟人脑）
-A highly <b>subjective</b> point of view	主观的
-<i>signal()</i> sets  the  <b>disposition</b>  of  the  signal <i>signum</i> to <i>handler</i>, which is either SIG_IGN, SIG_DFL, or the address of a programmer-defined function (a "signal handler").	the way sth is placed or arranged  排列，布置
-Goods are <b>dispatched</b> within 24 hours of your order reaching us.	to send a letter, package or message somewhere  发送，发出
+<b>Somehow</b>, I don't feel I can trust him.	for a reason that you do not know or understand 不知怎么地	LongTermLearning
+If you cancel now, you will <b>mess up</b> all my arrangements.	to spoil sth or do it badly  把...弄糟	LongTermLearning
+<b>At times</b>, it’s even quite possible to completely break an operating system installation due to moving a too-important library, etc.	sometimes  有时	LongTermLearning
+assuming that no such symlink or file with the same name existed <b>beforehand</b>.	earlier; before sth else happens or is done  事先，预先	LongTermLearning
+At this point, you will also want to read "how to use dkpg" to fix apt, as it shows you a more <b>granular</b> way to manage packages (Although be careful, as more control comes with more responsibility!).	颗粒度的，这里应该是“可以提供更加细粒度的方式”的意思	LongTermLearning
+<b>In extremis</b>, you might also be able to find a library in a neighboring Linux operating system.	极端情况下	LongTermLearning
+<b>Fine-grained</b> library management is a skill that takes a lifetime to learn.	质地细的	LongTermLearning
+That just about <b>wraps it up</b> for today.	to complete sth such as an agreement or a meeting in an acceptable way  圆满结束	LongTermLearning
+This article has provided the basic information/know-how and tools to use and has listed some more advanced troubleshooting suggestions for when things become <b>murky</b>.	not clear  模糊的	LongTermLearning
+The statement was carefully <b>polished</b> and checked before release.	to make changes to sth in order to improve it  修改，润色	LongTermLearning
+An insurance <b>agent</b>	经纪人，代理商	LongTermLearning
+This site is HTML <b>compliant</b>.	in agreement with a set of rules  符合的，一致的 这句话的意思是：这个网站支持HTML协议。	LongTermLearning
+The team needs players who <b>complement</b> each other.	to add to sth in a way that improves it or makes it more attractive  补足，补充	LongTermLearning
+It's possible to use the --target or --source options to avoid <b>ambivalent</b> interpretation of the given argument.	having or showing both good and bad feelings about sb/sth  矛盾情绪的	LongTermLearning
+<b>portable</b> software	可移植的	LongTermLearning
+An <b>intimate</b> knowledge of the English countryside	very detailed  透彻的	LongTermLearning
+Build your own site <b>from scratch</b> or generate one for your project.	without any previous preparation or knowledge  从头开始	LongTermLearning
+Your branch and 'origin/master' have <b>diverged</b>, and have 1 and 1 different commits each, respectively.	to separate and go in different directions  分叉，岔开	LongTermLearning
+<b>semiconductor</b>	半导体	LongTermLearning
+<b>subset</b>	小组，子集	LongTermLearning
+software <b>vendor</b>	a company that sells a particular product  销售公司	LongTermLearning
+In the original concept and still the most common scenario, the equipment provides a single SECS <b>interface</b> for exclusive use by a single host.	an electrical circuit, connection or program that joins one device or system to another  接口	LongTermLearning
+Her story was a complete <b>farbrication</b> from start to finish.	to make or produce goods, equipment, etc. from various different materials  组装，制造，编造  这里是名词“farbrication”	LongTermLearning
+It's like a <b>furnace</b> in here!	熔炉	LongTermLearning
+They appointed a new manager to <b>coordinate</b> the work of the team.	to organize the different parts of an activity and the people involved in so that it works well  （使）协调	LongTermLearning
+We caught him <b>eavesdropping</b> outside the window.	to listen secretly to what other people are saying 偷听，窃听	LongTermLearning
+The <b>intent</b> of this guide	what you intend to do; intention  意图，目的 	LongTermLearning
+Most of the house remains <b>intact</b> even after two hundred years.	complete and not damaged  完好无损的	LongTermLearning
+A <b>secondary</b> effect	happening as a result of sth else  间接引发的 	LongTermLearning
+<b>ploygon</b>	多边形	LongTermLearning
+The Chart Controls make it amazingly simple to <b>serialize</b> and deserialize chart data.	封装（数据）	LongTermLearning
+The Chart Controls make it amazingly simple to serialize and <b>deserialize</b> chart data.	解封装（数据）	LongTermLearning
+It will be published with <b>annotations</b> and an index.	注释	LongTermLearning
+When a constructor is used to initialize other members, these other members can be initialized directly, without <b>resorting</b> to statements in its body.	to make use of sth, especially sth bad, as a means of achieving sth, often because there is no other possible solution  依靠，求助于	LongTermLearning
+Password authentication is temporarily disabled as part of a <b>brownout</b>.	a period of time when the amount of electrical power that is supplied to an area is reduced  电力减弱	LongTermLearning
+He was unable to contact Blake by <b>radio</b>.	the process of sending and receiving messages through the air using ELECTROMAGNETIC waves  无线电信号	LongTermLearning
+The forum is open to all, but is by request only to keep the <b>spammers</b> down.	滥发电子邮件的人	LongTermLearning
+That was a pretty <b>dumb</b> thing to do.	stupid 愚蠢的	LongTermLearning
+<b>fuzzy logic</b>	a type of logic that is used to try to make computers behave like the human brain  模糊逻辑  （尝试用计算机模拟人脑）	LongTermLearning
+A highly <b>subjective</b> point of view	主观的	LongTermLearning
+<i>signal()</i> sets  the  <b>disposition</b>  of  the  signal <i>signum</i> to <i>handler</i>, which is either SIG_IGN, SIG_DFL, or the address of a programmer-defined function (a "signal handler").	the way sth is placed or arranged  排列，布置	LongTermLearning
+Goods are <b>dispatched</b> within 24 hours of your order reaching us.	to send a letter, package or message somewhere  发送，发出	LongTermLearning
