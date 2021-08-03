@@ -9,3 +9,6 @@ A <b>deprecating</b> comment	to feel and express strong disapproval of sth  强�
 A lack of oxygen may <b>inhibit</b> brain development in the unborn child.	to prevent sth from happening or make it happen more slowly or less frequently than normal  阻止
 But <i>watchpoints</i> may still be worth it, to catch errors where you have no clue what part of your program is the <b>culprit</b>.	a person or thing responsible for causing a problem  肇事者，引起问题的事物
 The bigger girl used to chase me <b>and</b> <b>tickle</b> me.	to move your fingers on a sensitive part of sb's body in a way that makes them laugh  呵痒
+They set <b>forth</b> at dawn.	away from a place; out  离去，外出
+They set forth at <b>dawn</b>.	黎明
+This has the advantage that the characters go to the program’s output device, so they can recorded in redirects to files and <b>so forth</b>.	等等
