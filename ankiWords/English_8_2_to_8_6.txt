@@ -13,3 +13,4 @@ They set <b>forth</b> at dawn.	away from a place; out  离去，外出
 They set forth at <b>dawn</b>.	黎明
 This has the advantage that the characters go to the program’s output device, so they can recorded in redirects to files and <b>so forth</b>.	等等
 The <b>plural</b> of 'child' is 'children'.	复数形式
+Many years elapsed before they met again.	if a period of time elapses, it passes  流逝
