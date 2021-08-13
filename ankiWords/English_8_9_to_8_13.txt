@@ -1,2 +1,11 @@
 She showed a natural <b>aptitude</b> for the work.	natural ability or skill at doing sth  天资，才能
 How do you manage to stay so <b>slim</b>?	thin, in a way that is attractive 苗条，纤细
+We observe in algorithm that Bubble Sort compares each pair of array element unless the whole array is completely sorted in an <b>ascending</b> order.	to rise, to climb up 上升 
+I'm still working on the <b>slides</b> for my presentation.	投影片，幻灯片
+Please read the entire post very <b>thoroughly</b> before beginning the quiz.	done completely; with great attention to detail  彻底的，完全的
+Please read the entire post very thoroughly before beginning the <b>quiz</b>.	an informal test given to students  小测验
+<b>amortize</b>	to pay back a debt by making small regular payments over a period of time 分期偿还
+The operation, which spanned nine countries, resulted in 200 arrests.	to include a large area or a lot of things  包括（广大地区），涵盖（多项内容）
+<b>canvas</b> shoes	帆布
+The article was <b>condensed</b> into two pages.	to put sth such as a piece of writing into few words; to put a lot of information into a small space  简缩，压缩（文字、信息等）
+It is a movie that <b>engages</b> both the mind and the eye.	to succeed in attracting and keeping sb's attention and interest  吸引住（注意力、兴趣）
