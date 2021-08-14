@@ -9,3 +9,18 @@ The operation, which spanned nine countries, resulted in 200 arrests.	to include
 <b>canvas</b> shoes	帆布
 The article was <b>condensed</b> into two pages.	to put sth such as a piece of writing into few words; to put a lot of information into a small space  简缩，压缩（文字、信息等）
 It is a movie that <b>engages</b> both the mind and the eye.	to succeed in attracting and keeping sb's attention and interest  吸引住（注意力、兴趣）
+Many years <b>elapsed</b> before they met again.	if a period of time elapses, it passes  流逝	LongTermLearning
+Linux is a <b>flavour</b> of UNIX.	a particular type of sth, especially computer software  衍生系统
+The <b>majority</b> of people interviewed prefer TV to radio.	the largest part of a group of people or thing  大部分，大多数
+Birds <b>grubbing</b> for worms.	to look for sth, especially by digging or by looking through or under other things  翻找，搜寻
+How can we integrate new technology with our <b>legacy</b> system?	used to describe a computer system or product that is no longer available to buy but is still used because it would be too difficult or expensive to replace it （计算机系统或产品）已停产的，老化的
+The MBR is also <b>susceptible</b> to boot sector viruses that corrupt or remove the MBR, which can leave the hard drive unusable and prevent the computer from booting up.	very likely to be influenced, harmed or affected by sb/sth  易受影响的（伤害的）
+The MBR is also susceptible to boot sector viruses that <b>corrupt</b> or remove the MBR, which can leave the hard drive unusable and prevent the computer from booting up.	to cause mistakes to appear in a computer file, etc. with the result that the information in it is no longer correct 引起（计算机文件等的）错误，破坏
+To respect the territorial <b>integrity</b> of the nation	the state of being whole and not divided 完整，完好
+In <b>idle</b> moments, he carved wooden figures.	(of time) not spent doing work or sth particular  空闲的
+<b>Symposium</b> on Language Design and Programming Methodology in Sydney.	a meeting at which experts have discussions about a particular subject; a small conference.  专题讨论会
+Symposium on Language Design and Programming <b>Methodology</b> in Sydney.	a set of methods and principles used to perform a particular activity  （从事某一活动的）方法，原则
+The UNIX file system <b>adapts</b> some ideas from the MULTICS file system.	改写，改编
+The main point we want to make is that you can accomplish a lot without much hard work, and certainly without resorting to programming in a <b>conventional</b> language like C, if you know how to use the shell.	following what is traditional or the way sth has been done for a long time  传统的，习惯的
+This chapter goes one step beyond the necessities covered in Chapter 1 to some <b>fancier</b> but commonly used shell features.	unusual complicated, often in an unnecessary way  异常复杂的，太花哨的。这里应该表示“复杂的”意思。
+It is intended for writing serious shell programs, ones that are <b>bullet-proofed</b> for use by others.	防弹的，这里的意思是“可靠的”。
