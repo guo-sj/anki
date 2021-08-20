@@ -1,80 +1,80 @@
-This view is held by the <b>generality</b> of leading scholars.	most of a group of people or things; majority  主体
-She sat down to <b>conceal</b> the fact that she was trembling.	to hide sb/sth  隐藏，隐瞒
-Its purpose is to hold programs and data that are currently in use and thereby serve as a high speed <b>intermediary</b> between the CPU (central processing unit) and the much slower storage, which most commonly consists of one or more hard disk drives (HDDs).	中间人
-Television is an effective <b>means</b> of communication.	an action, an object or a system by which a result is achieved.  方法，途径
-<b>mice</b>	mouse 鼠标
-The kernel is a program that <b>constitutes</b> the central core of a computer operating system.	to be considered to be sth  被看作是，被认为是
-If such program is a critical to the operation of the kernel, the entire computer could <b>stall</b> or shut down.	to stop suddenly because of a lack of power or speed 熄火，抛锚 
- The BIOS is an independent program stored in a chip on the motherboard (the main <b>circuit board</b> of a computer) that is used during the booting process for such tasks as initializing the hardware and loading the kernel into memory.	电路板
- Whereas the BIOS always remains in the computer and is <b>specific</b> to its particular hardware, the kernel can be easily replaced or upgraded by changing or upgrading the operating system or, in the case of Linux, by adding a newer kernel or modifying an existing kernel.	existing only in one place or limited to one thing 特定的
-Linux is far more flexible in that there are numerous versions of the Linux kernel, and each of these can be modified in innumerable ways by an <b>informed</b> user.	having or showing a lot of knowledge about a particular subject or situation 有学问的，有学识的
-Linux is far more flexible in that there are numerous versions of the Linux kernel, and each of these can be modified in <b>innumerable</b> ways by an informed user.	too many to be counted  多得数不清的
-The Mach Operating System was developed at Carnegie-Mellon University as a <b>compatible</b> extension of the UNIX 1 operating system providing advanced operating system features, such as threads and support for multi-processors.	(of machine, especially computers) able to be used together 兼容的
-Each has its own <b>advocates</b> and detractors.	a person who supports or speaks in favour of sb or of a public plan or action  拥护者，支持者
-Each has its own advocates and <b>detractors</b>.	a person who tries to make sb/sth less good or valuable by criticizing it 诋毁者，贬低者
-<b>Monolithic</b> kernels	巨大的
-Hybrid kernels are similar to microkernels, except that they include additional code in kernel space so that such code can run more <b>swiftly</b> than it would were it in user space.	happening or done quickly and immediately 快速的，迅速的  这里是副词，意思是“快速地”
-A major advantage of exokernel-based systems is that they can <b>incorporate</b> multiple library operating systems, each exporting a different API (application programming interface), such as one for Linux and one for Microsoft Windows, thus making it possible to simultaneously run both Linux and Windows applications.	to include sth so that it forms a part of sth 将...包括在内，吸收，使并入
-<b>Proponents</b> of microkernels point out that monolithic kernels have the disadvantage that an error in the kernel can cause the entire system to crash.	支持者
-This ability to <b>miniaturize</b> its kernel has also led to a rapid growth in the use of Linux in embedded systems (i.e., computer circuitry built into other products).	to make a much smaller version of sth  使微型化
-Although microkernels are very small by themselves, in combination with all their required <b>auxiliary</b> code they are, in fact, often larger than monolithic kernels.	giving help or support  辅助的
-Advocates of monolithic kernels also point out that the two-<b>tiered</b> structure of microkernel systems, in which most of the operating system does not interact directly with the hardware, creates a not-insignificant cost in terms of system efficiency.	(in compounds) having the number of tiers （构成复合词）... 层的 这里“two-tiered”是“两层的”意思
-The seating is arranged in <b>tiers</b>.	a row or layer of sth that has several rows or layers placed one above the other  级，阶，层
-Advocates of monolithic kernels also point out that the two-tiered structure of microkernel systems, in which most of the operating system does not interact directly with the hardware, creates a not-insignificant cost <b>in terms of</b> system efficiency.	used to show what aspect of a subject you are talking about or how you are thinking about it  谈及，就...而言
-Data flowing through a pipe can be <b>tapped</b> and placed in a file (but not another pipe) with the <i>tee</i> command, which is not part of the shell, but is nonetheless handy for manipulating pipes.	to put sth into machine  输入
-Data flowing through a pipe can be tapped and placed in a file (but not another pipe) with the <i>tee</i> command, which is not part of the shell, but is <b>nonetheless</b> handy for manipulating pipes.	nevertheless  尽管如此
-The <b>neutral</b> wire in a plug.	having neither a positive nor a negative electrical charge  中性的，不带电的
-The <b>senate</b> of Harvard University.	the group of people who control a university  （某些国家的）大学理事会
-As a result of my <b>occupation</b>, I think I know a bit about where operating systems are going in the next decade or so.	a job or profession  工作，职业
-Two aspects <b>stand out</b>.	to be easily seen; to be noticeable  显眼，突出
-While I could go into a long story here about the relative merits of the two designs, <b>suffice it to say</b> that among the people who actually design operating systems, the debate is essentially over.  Microkernels have won.	used to suggest that although you could say more, what you do say will be enough to explain what you mean  无须多说，只需说...就够了
-<b>Once upon a time</b> there was the 4004 CPU.	used, especially at the beginning of stories, to mean 'a long time in the past' （用于故事的开头）从前，很久之前
-Then 4004 CPU underwent <b>plastic surgery</b> and became the 8080.	medical operations to repair injury to a person's skin, or to improve a person's appearance 整形外科，这里指的是“芯片的整形手术，只是表面变动，并没有发生根本的变化”
-8008 CPU <b>begat</b> the 8086, which begat the 8088, which begat the 80286, which begat the 80386, which begat the 80486, and so on unto the N-th generation.	to become the father of a child 成为...之父， 这里是指“8008 又产生了 8086, 8086 又产生了 80286...”
-These things are not going to suddenly <b>vanish</b>.	to disapper suddenly and/or in a way that you cannot explain  （莫明其妙的）突然消失
-I think it is a <b>gross</b> error to design an OS for any specific architecture, since that is not going to be around all that long.	very obvious and unacceptable  严重的
-The fish took the <b>bait</b>.	鱼饵
-Time for some serious <b>flamefesting</b>!	an angry or insulting message sent to sb by email or on the Internet  火药味电邮。 -fest 是“大会，联欢会”的意思，所以这里“flamefesting”就是“网络论战”的意思。
-Make minix freely available, and one of my biggest <b>gripes</b> with it will disappear.	a complaint about sth   抱怨，怨言
-From a theoretical (and <b>aesthetical</b>) standpoint linux looses.	concerned with beauty and art and the understanding of beautiful things  美学的
-If this was the only <b>criterion</b> for the "goodness" of a kernel, you'd be right.	a standard or principle by which sth is judged, or with the help of which a decision is made  （评判或作决定的）标准，准则
-If I had made an OS that had problems with a multithreading filesystem, I wouldn't be so fast to <b>condemn</b> others:	to express very strong disapproval of sb/sth, usually for moral reasons  （通常因道义上的原因而）谴责，指责
-In fact, I'd <b>do my damndest</b> to make others forget about the fiasco.	to try as hard as you can  全力以赴
-In fact, I'd do my damndest to make others forget about the <b>fiasco</b>.	something that does not succeed, often in a way that causes embarrassment  惨败，可耻
-With tongue in <b>cheek</b>.	either side of the face below the eyes  脸颊
-I apologise for sometimes sounding too <b>harsh</b>: minix is nice enough if you have nothing else.	unpleasant to listen to  刺耳的；难听的
- I don't usually get into flames, but I'm <b>touchy</b> when it comes to linux :)	easily upset or offended  易烦恼的，易怒的
-Today, Torvalds remains the <b>spiritual</b> leader of the Linux movement, and he still coordinates the development of the Linux kernel.	connected with the human spirit, rather than the body or physical things  精神的
-A vast <b>array</b> of bottles of different shapes and sizes.	a group or collection of things or people, often one that is large or impressive  大堆，大量
-Well <b>in excess of</b> a hundred (and possibly more than two hundred) Linux distributions have been developed by a diverse range of companies, non-commercial organizations and individuals.	超过
-Well in excess of a hundred (and possibly more than two hundred) Linux distributions have been developed by a <b>diverse</b> range of companies, non-commercial organizations and individuals.	very different from each other and of various kinds  不同的，形形色色的
-Linux is a clone of UNIX; that is, it was developed to <b>mimic</b> the form and function of UNIX but its source code was written completely independently (i.e., none of it was copied from UNIX source code)	imitate  模仿
-Linux <b>incorporates</b> all of the features that have made Unix-like systems the longest-lived.	to include sth so that it forms a part of sth  将...包括在内
-As is the case with most of the Unix-like operating systems, Linux is a highly mature (and very sophisticated) work of engineering that has been skillfully crafted by the <b>collective</b> efforts of thousands of the best minds in computer science.	done or shared by all members of a group of people  集体的，共同的
- Linux has been developed virtually since its <b>inception</b> by an informal, world-wide network of unpaid (but highly skilled and motivated) volunteers who communicate via the Internet.	the start of an institution, an organization, etc.  （机构，组织等的）开端，创始
-Free software means that it is free both in a <b>monetary</b> sense and with regard to use.	connected with money, especially all the money in a country  货币的
-She's broken her <b>wrist</b>.	腕骨，手腕
-<b>wristwatch</b>	腕表
- There are several others, most <b>notably</b> the BSD (Berkeley Software Distribution) systems, which descended from work done on UNIX at UCB.	used for giving a good or the most important example of sth  尤其；特别
-However, the number of users of Linux is much greater than that of the BSDs, mainly because it is easier to use, particularly for the less technically <b>proficient</b>.	able to do sth well because of training and practice  熟练的，娴熟的
-She had a <b>disruptive</b> influence on the rest of the class.	causing problems, noise, etc. so that sth cannot continue normally  引起混乱的，破坏性的
-Whereas upgrading to newer versions of Microsoft Windows generally requires costly <b>outlays</b> for new hardware, it is often possible to upgrade to newer versions of Linux without buying any new equipment.	the money that you have to spend in order to start a new project  （启动新项目的）开支，费用
-The availability of the source code for Linux can also offer <b>substantial</b> benefits to users as compared with the closed (i.e., secret) source code for the Microsoft Windows operating systems.	large in amount, value or importance  大量的，重大的
-I love listening to his <b>tales</b> of life at sea.	an exciting spoken description of an event, which may not be completely true  讲述，叙述
-He was <b>named after</b> Linus Pauling.	以...的名字命名
-The Torvalds family belongs to the Swedish-speaking <b>minority</b> in Finland, which numbers about 300,000 in a total population of roughly five million.	少数民族
-His parents, Nils and Anna Torvalds, were both <b>radicals</b> at the University of Helsinki during the 1960s.	激进分子
-It was his <b>maternal</b> grandfather, Leo Toerngvist, a professor of statistics at the University of Helsinki, who had the greatest influence on the young Linus.	related through the mother's side of the family  母系的，母亲方面的
-His father's efforts to interest him in sports, girls and other social activities were in <b>vain</b>, and Torvalds does not hesitate to admit that he had little talent for or interest in such pursuits.	without success  徒劳的，白费力气
-In 1988 Torvalds followed in the footsteps of his parents and <b>enrolled</b> in the University of Helsinki, the premier institution of higher education in Finland.	to arrange for yourself or for sb else to officially join a course, school, etc.  （使）加入，注册
-In 1988 Torvalds followed in the footsteps of his parents and enrolled in the University of Helsinki, the <b>premier</b> institution of higher education in Finland.	most important, famous or successful 首要的，最著名的
-By that time he was already an <b>accomplished</b> programmer, and, naturally, he majored in computer science.	very good at a particular thing; having a lot of skills  才华横溢的
-This processor greatly appealed to him because it represented a <b>tremendous</b> improvement over earlier Intel chips.	extremely good 了不起的，极好的
-As <b>intrigued</b> as he was with the hardware, however, Torvalds was disappointed with the MS-DOS operating system that came with it.	very interested in sth/sb and wanting to know more about it/them  着迷，很感兴趣
-That operating system had not advanced sufficiently to even begin to take advantage of the vastly improved capabilities of the 386 chip, and he thus strongly preferred the much more powerful and stable UNIX operating system that he had become <b>accustomed</b> to using on the university's computers.	familiar with sth and accepting it as normal or usual  习惯于
-It is unlikely that he was fully aware of the tremendous amount of work that would be necessary, and it is even far less likely that he could have <b>envisioned</b> the effects that his decision would have both on his life and on the rest of the world.	to imagine what a situation will be like in the future, especially a situation you intend to work towards  展望
-This has been <b>brewing</b> since april, and is starting to get ready.	to make beer  酿制啤酒，这里是“酝酿”的意思
-I'd like any feedback on things people like/dislike in minix, as my OS <b>resembles</b> it somewhat (same physical layout of the file-sytem due to practical reasons)among other things.	to look like or be similar to another person or thing  看上去像，像
-I've currently <b>ported</b> bash (1.08) an gcc (1.40), and things seem to work.	to copy software from one system or machine to another  移植软件
-On September 17 of the same year, after a period of self-imposed isolation and intense concentration, he completed a <b>crude</b> version (0.01) of his new operating system.	simply made, not showing much skill or attention to detail  粗制的，粗略的
-Don't be so <b>idiotic</b>.	very stupid  十分愚蠢的
+This view is held by the <b>generality</b> of leading scholars.	most of a group of people or things; majority  主体	LongTermLearning
+She sat down to <b>conceal</b> the fact that she was trembling.	to hide sb/sth  隐藏，隐瞒	LongTermLearning
+Its purpose is to hold programs and data that are currently in use and thereby serve as a high speed <b>intermediary</b> between the CPU (central processing unit) and the much slower storage, which most commonly consists of one or more hard disk drives (HDDs).	中间人	LongTermLearning
+Television is an effective <b>means</b> of communication.	an action, an object or a system by which a result is achieved.  方法，途径	LongTermLearning
+<b>mice</b>	mouse 鼠标	LongTermLearning
+The kernel is a program that <b>constitutes</b> the central core of a computer operating system.	to be considered to be sth  被看作是，被认为是	LongTermLearning
+If such program is a critical to the operation of the kernel, the entire computer could <b>stall</b> or shut down.	to stop suddenly because of a lack of power or speed 熄火，抛锚 	LongTermLearning
+ The BIOS is an independent program stored in a chip on the motherboard (the main <b>circuit board</b> of a computer) that is used during the booting process for such tasks as initializing the hardware and loading the kernel into memory.	电路板	LongTermLearning
+ Whereas the BIOS always remains in the computer and is <b>specific</b> to its particular hardware, the kernel can be easily replaced or upgraded by changing or upgrading the operating system or, in the case of Linux, by adding a newer kernel or modifying an existing kernel.	existing only in one place or limited to one thing 特定的	LongTermLearning
+Linux is far more flexible in that there are numerous versions of the Linux kernel, and each of these can be modified in innumerable ways by an <b>informed</b> user.	having or showing a lot of knowledge about a particular subject or situation 有学问的，有学识的	LongTermLearning
+Linux is far more flexible in that there are numerous versions of the Linux kernel, and each of these can be modified in <b>innumerable</b> ways by an informed user.	too many to be counted  多得数不清的	LongTermLearning
+The Mach Operating System was developed at Carnegie-Mellon University as a <b>compatible</b> extension of the UNIX 1 operating system providing advanced operating system features, such as threads and support for multi-processors.	(of machine, especially computers) able to be used together 兼容的	LongTermLearning
+Each has its own <b>advocates</b> and detractors.	a person who supports or speaks in favour of sb or of a public plan or action  拥护者，支持者	LongTermLearning
+Each has its own advocates and <b>detractors</b>.	a person who tries to make sb/sth less good or valuable by criticizing it 诋毁者，贬低者	LongTermLearning
+<b>Monolithic</b> kernels	巨大的	LongTermLearning
+Hybrid kernels are similar to microkernels, except that they include additional code in kernel space so that such code can run more <b>swiftly</b> than it would were it in user space.	happening or done quickly and immediately 快速的，迅速的  这里是副词，意思是“快速地”	LongTermLearning
+A major advantage of exokernel-based systems is that they can <b>incorporate</b> multiple library operating systems, each exporting a different API (application programming interface), such as one for Linux and one for Microsoft Windows, thus making it possible to simultaneously run both Linux and Windows applications.	to include sth so that it forms a part of sth 将...包括在内，吸收，使并入	LongTermLearning
+<b>Proponents</b> of microkernels point out that monolithic kernels have the disadvantage that an error in the kernel can cause the entire system to crash.	支持者	LongTermLearning
+This ability to <b>miniaturize</b> its kernel has also led to a rapid growth in the use of Linux in embedded systems (i.e., computer circuitry built into other products).	to make a much smaller version of sth  使微型化	LongTermLearning
+Although microkernels are very small by themselves, in combination with all their required <b>auxiliary</b> code they are, in fact, often larger than monolithic kernels.	giving help or support  辅助的	LongTermLearning
+Advocates of monolithic kernels also point out that the two-<b>tiered</b> structure of microkernel systems, in which most of the operating system does not interact directly with the hardware, creates a not-insignificant cost in terms of system efficiency.	(in compounds) having the number of tiers （构成复合词）... 层的 这里“two-tiered”是“两层的”意思	LongTermLearning
+The seating is arranged in <b>tiers</b>.	a row or layer of sth that has several rows or layers placed one above the other  级，阶，层	LongTermLearning
+Advocates of monolithic kernels also point out that the two-tiered structure of microkernel systems, in which most of the operating system does not interact directly with the hardware, creates a not-insignificant cost <b>in terms of</b> system efficiency.	used to show what aspect of a subject you are talking about or how you are thinking about it  谈及，就...而言	LongTermLearning
+Data flowing through a pipe can be <b>tapped</b> and placed in a file (but not another pipe) with the <i>tee</i> command, which is not part of the shell, but is nonetheless handy for manipulating pipes.	to put sth into machine  输入	LongTermLearning
+Data flowing through a pipe can be tapped and placed in a file (but not another pipe) with the <i>tee</i> command, which is not part of the shell, but is <b>nonetheless</b> handy for manipulating pipes.	nevertheless  尽管如此	LongTermLearning
+The <b>neutral</b> wire in a plug.	having neither a positive nor a negative electrical charge  中性的，不带电的	LongTermLearning
+The <b>senate</b> of Harvard University.	the group of people who control a university  （某些国家的）大学理事会	LongTermLearning
+As a result of my <b>occupation</b>, I think I know a bit about where operating systems are going in the next decade or so.	a job or profession  工作，职业	LongTermLearning
+Two aspects <b>stand out</b>.	to be easily seen; to be noticeable  显眼，突出	LongTermLearning
+While I could go into a long story here about the relative merits of the two designs, <b>suffice it to say</b> that among the people who actually design operating systems, the debate is essentially over.  Microkernels have won.	used to suggest that although you could say more, what you do say will be enough to explain what you mean  无须多说，只需说...就够了	LongTermLearning
+<b>Once upon a time</b> there was the 4004 CPU.	used, especially at the beginning of stories, to mean 'a long time in the past' （用于故事的开头）从前，很久之前	LongTermLearning
+Then 4004 CPU underwent <b>plastic surgery</b> and became the 8080.	medical operations to repair injury to a person's skin, or to improve a person's appearance 整形外科，这里指的是“芯片的整形手术，只是表面变动，并没有发生根本的变化”	LongTermLearning
+8008 CPU <b>begat</b> the 8086, which begat the 8088, which begat the 80286, which begat the 80386, which begat the 80486, and so on unto the N-th generation.	to become the father of a child 成为...之父， 这里是指“8008 又产生了 8086, 8086 又产生了 80286...”	LongTermLearning
+These things are not going to suddenly <b>vanish</b>.	to disapper suddenly and/or in a way that you cannot explain  （莫明其妙的）突然消失	LongTermLearning
+I think it is a <b>gross</b> error to design an OS for any specific architecture, since that is not going to be around all that long.	very obvious and unacceptable  严重的	LongTermLearning
+The fish took the <b>bait</b>.	鱼饵	LongTermLearning
+Time for some serious <b>flamefesting</b>!	an angry or insulting message sent to sb by email or on the Internet  火药味电邮。 -fest 是“大会，联欢会”的意思，所以这里“flamefesting”就是“网络论战”的意思。	LongTermLearning
+Make minix freely available, and one of my biggest <b>gripes</b> with it will disappear.	a complaint about sth   抱怨，怨言	LongTermLearning
+From a theoretical (and <b>aesthetical</b>) standpoint linux looses.	concerned with beauty and art and the understanding of beautiful things  美学的	LongTermLearning
+If this was the only <b>criterion</b> for the "goodness" of a kernel, you'd be right.	a standard or principle by which sth is judged, or with the help of which a decision is made  （评判或作决定的）标准，准则	LongTermLearning
+If I had made an OS that had problems with a multithreading filesystem, I wouldn't be so fast to <b>condemn</b> others:	to express very strong disapproval of sb/sth, usually for moral reasons  （通常因道义上的原因而）谴责，指责	LongTermLearning
+In fact, I'd <b>do my damndest</b> to make others forget about the fiasco.	to try as hard as you can  全力以赴	LongTermLearning
+In fact, I'd do my damndest to make others forget about the <b>fiasco</b>.	something that does not succeed, often in a way that causes embarrassment  惨败，可耻	LongTermLearning
+With tongue in <b>cheek</b>.	either side of the face below the eyes  脸颊	LongTermLearning
+I apologise for sometimes sounding too <b>harsh</b>: minix is nice enough if you have nothing else.	unpleasant to listen to  刺耳的；难听的	LongTermLearning
+ I don't usually get into flames, but I'm <b>touchy</b> when it comes to linux :)	easily upset or offended  易烦恼的，易怒的	LongTermLearning
+Today, Torvalds remains the <b>spiritual</b> leader of the Linux movement, and he still coordinates the development of the Linux kernel.	connected with the human spirit, rather than the body or physical things  精神的	LongTermLearning
+A vast <b>array</b> of bottles of different shapes and sizes.	a group or collection of things or people, often one that is large or impressive  大堆，大量	LongTermLearning
+Well <b>in excess of</b> a hundred (and possibly more than two hundred) Linux distributions have been developed by a diverse range of companies, non-commercial organizations and individuals.	超过	LongTermLearning
+Well in excess of a hundred (and possibly more than two hundred) Linux distributions have been developed by a <b>diverse</b> range of companies, non-commercial organizations and individuals.	very different from each other and of various kinds  不同的，形形色色的	LongTermLearning
+Linux is a clone of UNIX; that is, it was developed to <b>mimic</b> the form and function of UNIX but its source code was written completely independently (i.e., none of it was copied from UNIX source code)	imitate  模仿	LongTermLearning
+Linux <b>incorporates</b> all of the features that have made Unix-like systems the longest-lived.	to include sth so that it forms a part of sth  将...包括在内	LongTermLearning
+As is the case with most of the Unix-like operating systems, Linux is a highly mature (and very sophisticated) work of engineering that has been skillfully crafted by the <b>collective</b> efforts of thousands of the best minds in computer science.	done or shared by all members of a group of people  集体的，共同的	LongTermLearning
+ Linux has been developed virtually since its <b>inception</b> by an informal, world-wide network of unpaid (but highly skilled and motivated) volunteers who communicate via the Internet.	the start of an institution, an organization, etc.  （机构，组织等的）开端，创始	LongTermLearning
+Free software means that it is free both in a <b>monetary</b> sense and with regard to use.	connected with money, especially all the money in a country  货币的	LongTermLearning
+She's broken her <b>wrist</b>.	腕骨，手腕	LongTermLearning
+<b>wristwatch</b>	腕表	LongTermLearning
+ There are several others, most <b>notably</b> the BSD (Berkeley Software Distribution) systems, which descended from work done on UNIX at UCB.	used for giving a good or the most important example of sth  尤其；特别	LongTermLearning
+However, the number of users of Linux is much greater than that of the BSDs, mainly because it is easier to use, particularly for the less technically <b>proficient</b>.	able to do sth well because of training and practice  熟练的，娴熟的	LongTermLearning
+She had a <b>disruptive</b> influence on the rest of the class.	causing problems, noise, etc. so that sth cannot continue normally  引起混乱的，破坏性的	LongTermLearning
+Whereas upgrading to newer versions of Microsoft Windows generally requires costly <b>outlays</b> for new hardware, it is often possible to upgrade to newer versions of Linux without buying any new equipment.	the money that you have to spend in order to start a new project  （启动新项目的）开支，费用	LongTermLearning
+The availability of the source code for Linux can also offer <b>substantial</b> benefits to users as compared with the closed (i.e., secret) source code for the Microsoft Windows operating systems.	large in amount, value or importance  大量的，重大的	LongTermLearning
+I love listening to his <b>tales</b> of life at sea.	an exciting spoken description of an event, which may not be completely true  讲述，叙述	LongTermLearning
+He was <b>named after</b> Linus Pauling.	以...的名字命名	LongTermLearning
+The Torvalds family belongs to the Swedish-speaking <b>minority</b> in Finland, which numbers about 300,000 in a total population of roughly five million.	少数民族	LongTermLearning
+His parents, Nils and Anna Torvalds, were both <b>radicals</b> at the University of Helsinki during the 1960s.	激进分子	LongTermLearning
+It was his <b>maternal</b> grandfather, Leo Toerngvist, a professor of statistics at the University of Helsinki, who had the greatest influence on the young Linus.	related through the mother's side of the family  母系的，母亲方面的	LongTermLearning
+His father's efforts to interest him in sports, girls and other social activities were in <b>vain</b>, and Torvalds does not hesitate to admit that he had little talent for or interest in such pursuits.	without success  徒劳的，白费力气	LongTermLearning
+In 1988 Torvalds followed in the footsteps of his parents and <b>enrolled</b> in the University of Helsinki, the premier institution of higher education in Finland.	to arrange for yourself or for sb else to officially join a course, school, etc.  （使）加入，注册	LongTermLearning
+In 1988 Torvalds followed in the footsteps of his parents and enrolled in the University of Helsinki, the <b>premier</b> institution of higher education in Finland.	most important, famous or successful 首要的，最著名的	LongTermLearning
+By that time he was already an <b>accomplished</b> programmer, and, naturally, he majored in computer science.	very good at a particular thing; having a lot of skills  才华横溢的	LongTermLearning
+This processor greatly appealed to him because it represented a <b>tremendous</b> improvement over earlier Intel chips.	extremely good 了不起的，极好的	LongTermLearning
+As <b>intrigued</b> as he was with the hardware, however, Torvalds was disappointed with the MS-DOS operating system that came with it.	very interested in sth/sb and wanting to know more about it/them  着迷，很感兴趣	LongTermLearning
+That operating system had not advanced sufficiently to even begin to take advantage of the vastly improved capabilities of the 386 chip, and he thus strongly preferred the much more powerful and stable UNIX operating system that he had become <b>accustomed</b> to using on the university's computers.	familiar with sth and accepting it as normal or usual  习惯于	LongTermLearning
+It is unlikely that he was fully aware of the tremendous amount of work that would be necessary, and it is even far less likely that he could have <b>envisioned</b> the effects that his decision would have both on his life and on the rest of the world.	to imagine what a situation will be like in the future, especially a situation you intend to work towards  展望	LongTermLearning
+This has been <b>brewing</b> since april, and is starting to get ready.	to make beer  酿制啤酒，这里是“酝酿”的意思	LongTermLearning
+I'd like any feedback on things people like/dislike in minix, as my OS <b>resembles</b> it somewhat (same physical layout of the file-sytem due to practical reasons)among other things.	to look like or be similar to another person or thing  看上去像，像	LongTermLearning
+I've currently <b>ported</b> bash (1.08) an gcc (1.40), and things seem to work.	to copy software from one system or machine to another  移植软件	LongTermLearning
+On September 17 of the same year, after a period of self-imposed isolation and intense concentration, he completed a <b>crude</b> version (0.01) of his new operating system.	simply made, not showing much skill or attention to detail  粗制的，粗略的	LongTermLearning
+Don't be so <b>idiotic</b>.	very stupid  十分愚蠢的	LongTermLearning
