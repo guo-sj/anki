@@ -60,3 +60,21 @@ However, the number of users of Linux is much greater than that of the BSDs, mai
 She had a <b>disruptive</b> influence on the rest of the class.	causing problems, noise, etc. so that sth cannot continue normally  引起混乱的，破坏性的
 Whereas upgrading to newer versions of Microsoft Windows generally requires costly <b>outlays</b> for new hardware, it is often possible to upgrade to newer versions of Linux without buying any new equipment.	the money that you have to spend in order to start a new project  （启动新项目的）开支，费用
 The availability of the source code for Linux can also offer <b>substantial</b> benefits to users as compared with the closed (i.e., secret) source code for the Microsoft Windows operating systems.	large in amount, value or importance  大量的，重大的
+I love listening to his <b>tales</b> of life at sea.	an exciting spoken description of an event, which may not be completely true  讲述，叙述
+He was <b>named after</b> Linus Pauling.	以...的名字命名
+The Torvalds family belongs to the Swedish-speaking <b>minority</b> in Finland, which numbers about 300,000 in a total population of roughly five million.	少数民族
+His parents, Nils and Anna Torvalds, were both <b>radicals</b> at the University of Helsinki during the 1960s.	激进分子
+It was his <b>maternal</b> grandfather, Leo Toerngvist, a professor of statistics at the University of Helsinki, who had the greatest influence on the young Linus.	related through the mother's side of the family  母系的，母亲方面的
+His father's efforts to interest him in sports, girls and other social activities were in <b>vain</b>, and Torvalds does not hesitate to admit that he had little talent for or interest in such pursuits.	without success  徒劳的，白费力气
+In 1988 Torvalds followed in the footsteps of his parents and <b>enrolled</b> in the University of Helsinki, the premier institution of higher education in Finland.	to arrange for yourself or for sb else to officially join a course, school, etc.  （使）加入，注册
+In 1988 Torvalds followed in the footsteps of his parents and enrolled in the University of Helsinki, the <b>premier</b> institution of higher education in Finland.	most important, famous or successful 首要的，最著名的
+By that time he was already an <b>accomplished</b> programmer, and, naturally, he majored in computer science.	very good at a particular thing; having a lot of skills  才华横溢的
+This processor greatly appealed to him because it represented a <b>tremendous</b> improvement over earlier Intel chips.	extremely good 了不起的，极好的
+As <b>intrigued</b> as he was with the hardware, however, Torvalds was disappointed with the MS-DOS operating system that came with it.	very interested in sth/sb and wanting to know more about it/them  着迷，很感兴趣
+That operating system had not advanced sufficiently to even begin to take advantage of the vastly improved capabilities of the 386 chip, and he thus strongly preferred the much more powerful and stable UNIX operating system that he had become <b>accustomed</b> to using on the university's computers.	familiar with sth and accepting it as normal or usual  习惯于
+It is unlikely that he was fully aware of the tremendous amount of work that would be necessary, and it is even far less likely that he could have <b>envisioned</b> the effects that his decision would have both on his life and on the rest of the world.	to imagine what a situation will be like in the future, especially a situation you intend to work towards  展望
+This has been <b>brewing</b> since april, and is starting to get ready.	to make beer  酿制啤酒，这里是“酝酿”的意思
+I'd like any feedback on things people like/dislike in minix, as my OS <b>resembles</b> it somewhat (same physical layout of the file-sytem due to practical reasons)among other things.	to look like or be similar to another person or thing  看上去像，像
+I've currently <b>ported</b> bash (1.08) an gcc (1.40), and things seem to work.	to copy software from one system or machine to another  移植软件
+On September 17 of the same year, after a period of self-imposed isolation and intense concentration, he completed a <b>crude</b> version (0.01) of his new operating system.	simply made, not showing much skill or attention to detail  粗制的，粗略的
+Don't be so <b>idiotic</b>.	very stupid  十分愚蠢的
