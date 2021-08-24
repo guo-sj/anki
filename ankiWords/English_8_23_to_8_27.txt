@@ -1,0 +1,20 @@
+<i>$ echo *</i> is a poor <b>facsimile</b> of <i>ls</i>.	an exact copy  摹本 
+A <b>judicious</b> <i>echo</i> or two will clarify what happens.	careful and sensible, showing good judgement 审慎而明智的，有见地的
+It's also possible to use the double quotes "...", but the shell actually <b>peeks</b> inside these quotes to look for $, '...', and \, so don't use "..." unless you intend some processing of the quoted string.	to look at sth quickly and secretly, because you should not be looking at it  窥视，偷看
+Do you <b>pine for</b> the nice days of minix-1.1, when men were men and wrote their own device drivers?	to want and miss sb/sth very much  思念，怀念
+Are you without a nice project and just dying to <b>cut your teeth</b> on a OS you can try to modify for your needs?	to gain experience of sth  获得经验
+Are you without a nice project and just <b>dying to</b> cut your teeth on a OS you can try to modify for your needs?	to want sth or want to do sth very much   渴望
+There's some <b>nifty</b> guitar work on his latest CD.	skilful and accurate  有技巧的，精确的
+Ari Lemmke encouraged him to upload his source code to a network so it would be readily available for study and <b>refinement</b> by other programmers, a common practice then as it is now.	a small change to sth that improves it  （精细的）改良，改进
+However, he thought the name was too <b>egotistical</b> and thus planned to call it Freax.	self-centered  以自我为中心的
+A <b>fitness</b> freak	a person with a very strong interest in a particular subject  狂热爱好者
+Richard Stallman, a <b>notable</b> programmer and a leading advocate of free software.	deserving to be noticed or to receive attention; important  重要的
+In large part a consequence of this very liberal licensing, many programmers from around the world quickly became enthusiastic about helping Torvalds develop his still <b>embryonic</b> operating system.	in an early stage of development  萌芽期的，胚胎期的
+This decision could have serious <b>consequenses</b> for the industry.	a result of sth that has happened  结果，后果
+Linux <b>takes off</b>.	(of an idea, a product, etc.) to become successful or popular very quickly or suddenly  突然大受欢迎
+For example, in 1994 a usable ext2 filesystem (i.e., a system for organizing data on computer disks), which featured a large increase in speed over its <b>predecessor</b>, the ext, was added to the kernel.	a thing such as a machine, that has been followed or replaced by sth else  原先的东西，被替代的事物
+And its initially weak networking capability was improved <b>substantially</b>.	very much, a lot 非常，大大的
+His theories have been <b>debunked</b> by recent research.	to show that an idea, a belief, etc. is false; to show that sth is not as good as people think it is.  批判，驳斥
+Nonetheless, <b>from time to time</b> it is valuable, as in the following function <i>itoa</i>, which converts a number to a character string (the inverse of <i>atoi</i>).	sometimes  有时候
+We also used braces around the single statement that makes up the body of the <i>do-while</i>, even though they are unnecessary, so the <b>hasty</b> reader will not mistake the <i>while</i> part for the <i>beginning</i> of a while <i>loop</i>.	acting or deciding too quickly, without enough thought  仓促行事，草率作出决定
+We also used braces around the single statement that makes up the body of the <i>do-while</i>, even though they are unnecessary, so the hasty reader will not <b>mistake</b> the <i>while</i> part <b>for</b> the <i>beginning</i> of a while <i>loop</i>	to think wrongly that sb/sth is sb/sth else 把...错当成...
