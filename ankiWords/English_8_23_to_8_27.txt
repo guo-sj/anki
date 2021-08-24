@@ -18,3 +18,6 @@ His theories have been <b>debunked</b> by recent research.	to show that an idea,
 Nonetheless, <b>from time to time</b> it is valuable, as in the following function <i>itoa</i>, which converts a number to a character string (the inverse of <i>atoi</i>).	sometimes  有时候
 We also used braces around the single statement that makes up the body of the <i>do-while</i>, even though they are unnecessary, so the <b>hasty</b> reader will not mistake the <i>while</i> part for the <i>beginning</i> of a while <i>loop</i>.	acting or deciding too quickly, without enough thought  仓促行事，草率作出决定
 We also used braces around the single statement that makes up the body of the <i>do-while</i>, even though they are unnecessary, so the hasty reader will not <b>mistake</b> the <i>while</i> part <b>for</b> the <i>beginning</i> of a while <i>loop</i>	to think wrongly that sb/sth is sb/sth else 把...错当成...
+After several <b>digressions</b>, he finally got to the point.	to start to talk about sth that is not connected with the main point of what you are saying  离题，偏离主题 ，这里的名词，意思是“题外话”。
+To <b>impart</b> the bad news.	to pass information, knowledge, etc. to other people  通知，传授
+Eastern <b>mysticism</b>	神秘主义
