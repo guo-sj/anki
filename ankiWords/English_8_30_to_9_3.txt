@@ -3,3 +3,4 @@ He hit his head as he stood up and <b>cursed</b> loudly.	to swear 诅咒，咒�
 <b>entrepreneurship</b>	skill in starting new businesses, especially when this involves seeing new opportunities  创业技能
  It is run by Paul Graham's investment fund and startup <b>incubator</b>, Y Combinator.	a machine like a box where eggs are kept warm until the young birds are born  孵化器
  In general, content that can be submitted is defined as "anything that <b>gratifies</b> one's intellectual curiosity."	to satisfy a wish, need, etc.  满足（愿望，需要等）
+In simpler words, the shell will <b>interpret</b> the enclosed text within single quotes literally and will not interpolate anything including variables, backticks, certain \ escapes, etc. No character in the single quote has special meaning.	to add sth to a piece of writing   （在文章中）插入，添加内容
