@@ -1,0 +1,13 @@
+to drop <b>anchor</b>	锚
+These properties are <b>artifacts</b> of the finite nature of computer arithmetric.	an object that is made by a person, especially sth of historical or culture interest  人工制品，手工艺品 （尤其指有历史或文化价值的）
+Understanding the <b>nuances</b> of computer arithmetic can help programmers write more reliable code.	a very slight difference in meaning, sound, colour or sb's feelings that is not usually very obvious	（意义，声音，颜色，感情等方面）细微差别
+<b>inflation</b>	通货膨胀，通胀率
+More commonly, pro-gramming languages support fixed-size arithmetic, and hence operations such as “addition” and “multiplication” differ from their <b>counterpart</b> operations over integers.	对应的，相应的
+to copy some of the data maintained by the operating system kernel to a <b>designated</b> region of memory accessible to the user.	to say officially that sb/sth in a particular character or name, to describe sb/sth in a particular way 命名，指定。这里是形容词，意思为“指定的”
+a tornado <b>advisory</b>	an official warning that sth bad is going to happen  警报
+a <b>tornado</b> advisory	龙卷风
+a word of Greek <b>derivation</b>	the origin or development of sth, especially a word   （尤指词语的）起源，由来
+<b>commutative</b>	可交换的（排列次序不影响结果的）e.g. a + b = b + a
+<b>associative</b>	结合的 e.g. (a*b)*c = a*(b*c)
+food <b>additive</b>	a substance that is added in small amounts to sth, especially food, in order to improve it, give it colour, make it last longer 食品添加剂
+Activities that are <b>characterized</b> as 'male' or 'female' work.	to describe or show the qualities of sb/sth in a particular way  描述，刻画，表现（...的特征，特点）
