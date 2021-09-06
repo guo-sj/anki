@@ -1,36 +1,36 @@
-To access it, you need to get a user/password by becoming my <b>patron</b>.	a person who gives money and support to artists and writers  (艺术家，作家的)赞助人，赞助者
-He hit his head as he stood up and <b>cursed</b> loudly.	to swear 诅咒，咒骂
-<b>entrepreneurship</b>	skill in starting new businesses, especially when this involves seeing new opportunities  创业技能
- It is run by Paul Graham's investment fund and startup <b>incubator</b>, Y Combinator.	a machine like a box where eggs are kept warm until the young birds are born  孵化器
- In general, content that can be submitted is defined as "anything that <b>gratifies</b> one's intellectual curiosity."	to satisfy a wish, need, etc.  满足（愿望，需要等）
-In simpler words, the shell will <b>interpret</b> the enclosed text within single quotes literally and will not interpolate anything including variables, backticks, certain \ escapes, etc. No character in the single quote has special meaning.	to add sth to a piece of writing   （在文章中）插入，添加内容
-fruits <b>blend</b>	a mixture of different types of the same thing (同一事物中不同类型的)混合品，混合物
-If you use UNIX, this should be directly helpful, for it is sometimes necessary to <b>employ</b> system callsfor maximum efficiency, or to access some facility that is not in the library.	to use sth such as a skill, method, etc. for a particular use  应用，运用，使用
-If you use UNIX, this should be directly helpful, for it is sometimes necessary to employ system callsfor maximum efficiency, or to access some <b>facility</b> that is not in the library.	a special feature of a machine, service, etc. that makes it possible to do sth extra (机器等的)特别装置，服务，这里是“服务”的意思。
-Even if you use C on a different operatingsystem, however, you should be able to <b>glean</b> insight into C programming <b>from</b> studying these examples.	to obtain information, knowledge, etc. sometimes with difficult and often from various different places  费力地收集信息
-Even if you use C on a different operatingsystem, however, you should be able to glean <b>insight into</b> C programming from studying these examples.	an understanding of what sth is like  洞悉，了解，理解
-This means that a single <b>homogeneous</b> interface handles all communicationbetween a program and peripheral devices.	consisting of things or people that are all the same or all of the same type  由同类事物（或人）组成的，同种类的
-A file descriptor is <b>analogous</b> to the file pointer used by thestandard library, or to the file handle of MS-DOS.	a thing that is similar to another thing  相似的，类似事物
-The most common values are 1, which means one character at a time(‘‘unbuffered’’), and a number like 1024 or 4096 that <b>corresponds to</b> a physical block size on a peripheral device.	to be the same as or match sth  相一致，符合
-<i>open</i> is <b>rather</b> like the <i>fopen</i> discussed in Chapter 7, except that instead of returning a file pointer, it returns a file descriptor, which is just an <i>int</i>.	used with a verb to make a statement sound less strong  （与动词连用以减弱语气）有点，稍微
-When a user mode process (i.e., a process currently in user mode) wants to <b>utilize</b> a service provided by the kernel (i.e., access system resources other than the limited memory space that is allocated to the user program), it must switch temporarily into kernel mode, also called system mode, by means of a system call.	to use sth, especially for a practical purpose  使用，运用
-When a user mode process (i.e., a process currently in user mode) wants to utilize a service provided by the kernel (i.e., access system resources other than the limited memory space that is allocated to the user program), it must switch temporarily into kernel mode, also called system mode, <b>by means of</b> a system call.	with help of sth  借助...手段，依靠...方法
-When the kernel has satisfied the request made by a process, it <b>restores</b> that process to user mode.	to bring back a situation or feeling that existed before  恢复（某种情况或感受）
-An active process is a process that is currently <b>advancing</b> in the CPU (as opposed to processes that are awaiting their turns for use of the CPU).	to move forward to a later part of sth; to move sth to forward to a later part  向前推（至下一步）
-An active process is a process that is currently advancing in the CPU (as opposed to processes that are <b>awaiting</b> their turns for use of the CPU).	to wait for sb/sth  等候，等待，期待
-<b>renowned</b> author	famous and respected  有名的，闻名的
-a drama <b>workshop</b>	a period of discussion and practical work on a particular subject, in which a group of people share their knowledge and experience  研讨会
-<b>intimate</b> friends	having a close and friendly relationship  亲密的
-Their political careers had become closely <b>intertwined</b>.	to be or become closely connected with sth/sb  紧密相联
-Everyone was surprised at her <b>omission</b> from the squad.	the act of not including sb/sth or not doing sth; the fact of not being included/done  省略，删除
-Everyone was surprised at her omission from the <b>squad</b>.	a group of players, from which a team is chosen for a particular game or match  运动（代表）队
-<b>rainbow</b>	彩虹
-The term x86 was <b>coined</b> as a result of the original Intel 8086 chip ending with the number 86.	to invent a new word or phrase that other people then begin to use  创造（新词语）
-The x86 processor had additional segment registers for accessing multiple data segments <b>at the same interval</b>.	with time between  每隔相同的时间
-<b>scalability</b>	可扩展性
-a heavy <b>workload</b>	工作量
-In many cases, the <b>perceived</b> difference between the same brand of a 32-bit and 64-bit computer can be negligible.	to notice or become aware of sth  注意到，意识到。这里是形容词，意思为“可注意到的”
-In many cases, the perceived difference between the same brand of a 32-bit and 64-bit computer can be <b>negligible</b>.	very little importance or size and not worth considering  微不足道的，不值一提的
-Projects tends to <b>rot</b> if you leave it alone for a few years, and it takes effort for someone to deal with it again.	to decay, or make sth decay, naturally and gradually  （使）腐烂，腐败变质
-I wrote this code a long, long time ago, and there are plenty of things that seem <b>downright</b> silly in retrospect.	used as a way of emphasizing sth negative or unpleasant  （强调负面的或令人不愉快的事物）彻头彻尾的，十足的，完全的
-I wrote this code a long, long time ago, and there are plenty of things that seem downright silly <b>in retrospect</b>.	thinking about a past event or situation, often with a different opinion of it from the one you had at the time  回顾，回想
+To access it, you need to get a user/password by becoming my <b>patron</b>.	a person who gives money and support to artists and writers  (艺术家，作家的)赞助人，赞助者	LongTermLearning
+He hit his head as he stood up and <b>cursed</b> loudly.	to swear 诅咒，咒骂	LongTermLearning
+<b>entrepreneurship</b>	skill in starting new businesses, especially when this involves seeing new opportunities  创业技能	LongTermLearning
+ It is run by Paul Graham's investment fund and startup <b>incubator</b>, Y Combinator.	a machine like a box where eggs are kept warm until the young birds are born  孵化器	LongTermLearning
+ In general, content that can be submitted is defined as "anything that <b>gratifies</b> one's intellectual curiosity."	to satisfy a wish, need, etc.  满足（愿望，需要等）	LongTermLearning
+In simpler words, the shell will <b>interpret</b> the enclosed text within single quotes literally and will not interpolate anything including variables, backticks, certain \ escapes, etc. No character in the single quote has special meaning.	to add sth to a piece of writing   （在文章中）插入，添加内容	LongTermLearning
+fruits <b>blend</b>	a mixture of different types of the same thing (同一事物中不同类型的)混合品，混合物	LongTermLearning
+If you use UNIX, this should be directly helpful, for it is sometimes necessary to <b>employ</b> system callsfor maximum efficiency, or to access some facility that is not in the library.	to use sth such as a skill, method, etc. for a particular use  应用，运用，使用	LongTermLearning
+If you use UNIX, this should be directly helpful, for it is sometimes necessary to employ system callsfor maximum efficiency, or to access some <b>facility</b> that is not in the library.	a special feature of a machine, service, etc. that makes it possible to do sth extra (机器等的)特别装置，服务，这里是“服务”的意思。	LongTermLearning
+Even if you use C on a different operatingsystem, however, you should be able to <b>glean</b> insight into C programming <b>from</b> studying these examples.	to obtain information, knowledge, etc. sometimes with difficult and often from various different places  费力地收集信息	LongTermLearning
+Even if you use C on a different operatingsystem, however, you should be able to glean <b>insight into</b> C programming from studying these examples.	an understanding of what sth is like  洞悉，了解，理解	LongTermLearning
+This means that a single <b>homogeneous</b> interface handles all communicationbetween a program and peripheral devices.	consisting of things or people that are all the same or all of the same type  由同类事物（或人）组成的，同种类的	LongTermLearning
+A file descriptor is <b>analogous</b> to the file pointer used by thestandard library, or to the file handle of MS-DOS.	a thing that is similar to another thing  相似的，类似事物	LongTermLearning
+The most common values are 1, which means one character at a time(‘‘unbuffered’’), and a number like 1024 or 4096 that <b>corresponds to</b> a physical block size on a peripheral device.	to be the same as or match sth  相一致，符合	LongTermLearning
+<i>open</i> is <b>rather</b> like the <i>fopen</i> discussed in Chapter 7, except that instead of returning a file pointer, it returns a file descriptor, which is just an <i>int</i>.	used with a verb to make a statement sound less strong  （与动词连用以减弱语气）有点，稍微	LongTermLearning
+When a user mode process (i.e., a process currently in user mode) wants to <b>utilize</b> a service provided by the kernel (i.e., access system resources other than the limited memory space that is allocated to the user program), it must switch temporarily into kernel mode, also called system mode, by means of a system call.	to use sth, especially for a practical purpose  使用，运用	LongTermLearning
+When a user mode process (i.e., a process currently in user mode) wants to utilize a service provided by the kernel (i.e., access system resources other than the limited memory space that is allocated to the user program), it must switch temporarily into kernel mode, also called system mode, <b>by means of</b> a system call.	with help of sth  借助...手段，依靠...方法	LongTermLearning
+When the kernel has satisfied the request made by a process, it <b>restores</b> that process to user mode.	to bring back a situation or feeling that existed before  恢复（某种情况或感受）	LongTermLearning
+An active process is a process that is currently <b>advancing</b> in the CPU (as opposed to processes that are awaiting their turns for use of the CPU).	to move forward to a later part of sth; to move sth to forward to a later part  向前推（至下一步）	LongTermLearning
+An active process is a process that is currently advancing in the CPU (as opposed to processes that are <b>awaiting</b> their turns for use of the CPU).	to wait for sb/sth  等候，等待，期待	LongTermLearning
+<b>renowned</b> author	famous and respected  有名的，闻名的	LongTermLearning
+a drama <b>workshop</b>	a period of discussion and practical work on a particular subject, in which a group of people share their knowledge and experience  研讨会	LongTermLearning
+<b>intimate</b> friends	having a close and friendly relationship  亲密的	LongTermLearning
+Their political careers had become closely <b>intertwined</b>.	to be or become closely connected with sth/sb  紧密相联	LongTermLearning
+Everyone was surprised at her <b>omission</b> from the squad.	the act of not including sb/sth or not doing sth; the fact of not being included/done  省略，删除	LongTermLearning
+Everyone was surprised at her omission from the <b>squad</b>.	a group of players, from which a team is chosen for a particular game or match  运动（代表）队	LongTermLearning
+<b>rainbow</b>	彩虹	LongTermLearning
+The term x86 was <b>coined</b> as a result of the original Intel 8086 chip ending with the number 86.	to invent a new word or phrase that other people then begin to use  创造（新词语）	LongTermLearning
+The x86 processor had additional segment registers for accessing multiple data segments <b>at the same interval</b>.	with time between  每隔相同的时间	LongTermLearning
+<b>scalability</b>	可扩展性	LongTermLearning
+a heavy <b>workload</b>	工作量	LongTermLearning
+In many cases, the <b>perceived</b> difference between the same brand of a 32-bit and 64-bit computer can be negligible.	to notice or become aware of sth  注意到，意识到。这里是形容词，意思为“可注意到的”	LongTermLearning
+In many cases, the perceived difference between the same brand of a 32-bit and 64-bit computer can be <b>negligible</b>.	very little importance or size and not worth considering  微不足道的，不值一提的	LongTermLearning
+Projects tends to <b>rot</b> if you leave it alone for a few years, and it takes effort for someone to deal with it again.	to decay, or make sth decay, naturally and gradually  （使）腐烂，腐败变质	LongTermLearning
+I wrote this code a long, long time ago, and there are plenty of things that seem <b>downright</b> silly in retrospect.	used as a way of emphasizing sth negative or unpleasant  （强调负面的或令人不愉快的事物）彻头彻尾的，十足的，完全的	LongTermLearning
+I wrote this code a long, long time ago, and there are plenty of things that seem downright silly <b>in retrospect</b>.	thinking about a past event or situation, often with a different opinion of it from the one you had at the time  回顾，回想	LongTermLearning
