@@ -1,78 +1,78 @@
-to drop <b>anchor</b>	锚
-These properties are <b>artifacts</b> of the finite nature of computer arithmetric.	an object that is made by a person, especially sth of historical or culture interest  人工制品，手工艺品 （尤其指有历史或文化价值的）
-Understanding the <b>nuances</b> of computer arithmetic can help programmers write more reliable code.	a very slight difference in meaning, sound, colour or sb's feelings that is not usually very obvious	（意义，声音，颜色，感情等方面）细微差别
-<b>inflation</b>	通货膨胀，通胀率
-More commonly, pro-gramming languages support fixed-size arithmetic, and hence operations such as “addition” and “multiplication” differ from their <b>counterpart</b> operations over integers.	对应的，相应的
-to copy some of the data maintained by the operating system kernel to a <b>designated</b> region of memory accessible to the user.	to say officially that sb/sth in a particular character or name, to describe sb/sth in a particular way 命名，指定。这里是形容词，意思为“指定的”
-a tornado <b>advisory</b>	an official warning that sth bad is going to happen  警报
-a <b>tornado</b> advisory	龙卷风
-a word of Greek <b>derivation</b>	the origin or development of sth, especially a word   （尤指词语的）起源，由来
-<b>commutative</b>	可交换的（排列次序不影响结果的）e.g. a + b = b + a
-<b>associative</b>	结合的 e.g. (a*b)*c = a*(b*c)
-food <b>additive</b>	a substance that is added in small amounts to sth, especially food, in order to improve it, give it colour, make it last longer 食品添加剂
-Activities that are <b>characterized</b> as 'male' or 'female' work.	to describe or show the qualities of sb/sth in a particular way  描述，刻画，表现（...的特征，特点）
-As a result of his skills and accomplishments, Torvalds was appointed to the <b>post</b> of instructor at the University of Helsinki, a position which allowed him to simultaneously continue his development of Linux.		a job, especially an important one in a large organization 职位，（尤指）要职
-<b>karate</b>	空手道
-Although the arrival of his first daughter <b>coincided</b> <b>with</b> minor disruptions in the development of the Linux kernel, he was able to release version 2.0 by December 1996.		(of two or more events) to take place at the same time  （两件或更多的事情）同时发生
-Although the arrival of his first daughter coincided with minor <b>disruptions</b> in the development of the Linux kernel, he was able to release version 2.0 by December 1996.		to make it difficult for sth to continue in the normal way  扰乱，使中断  这里是名词，意思为“中断”
-This milestone version represented a major improvement in performance through its addition of support for additional processors and for <b>symmetric</b> multiprocessing (SMP), which lets multiple processors access and be equally close to all RAM locations.	对称
-Two years later this had <b>soared</b> to in excess of seven million.	rise very quickly  急升，猛增
-Despite the <b>relentless</b> successes of Linux and the great popularity of Torvalds, his activities were not entirely without controversy, even within the free software community.	not stopping or getting less strong  不停的，持续强烈的，不减弱的
-The <b>senery</b> is magnificent.	the natural features of an area, such as mountains, valleys, rivers and forests, when you are thinking about them being attractive to look at  风景，景色
-Needless to say, there was no <b>shortage</b> of opportunities available to him.	a situation when there is not enough of the people or things that are needed  不足，缺少，短缺
-Thus, in 1997 he moved to sunny Santa Clara in California's <b>fabled</b> Silicon Valley to accept a position with Transmeta Corporation.	famous and often talked about, but rarely seen  传说中的
-His job there was to help develop commercial software to <b>facilitate</b> communication between operating systems and that company's microprocessors.	to make an action or a process possible or easier  促进，促使
-Linux <b>devotees</b> were initially concerned not only about his move to a for-profit business but also about the fact that it was funded in part by Microsoft co-founder Paul Allen.	a person who admires and is very enthusiastic about sb/sth  （狂热的）崇拜者，爱好者
-a dance festival <b>funded</b> by the Arts Council	to provide money for sth, usually sth official  为...提供资金
-She was <b>reluctant</b> to admit she was wrong.	hesitating before doing sth because you do not want to do it or because you are not sure that it is the right thing to do  不情愿的，勉强的
-Many countries <b>favour</b> a presidential system of government.	to prefer one system, plan, way of doing sth, etc. to another  较喜欢
-This was, in fact, a clever <b>publicity</b> move on the part of Transmeta, which benefited not only by receiving the services of an extremely talented and motivated engineer but also by having someone on their staff who brought them exceptional media attention.	the business of attracting the attention of the public to sth/sb; the things that are done to attract attention  广告宣传工作，传播工作
-Torvalds arrived in Silicon Valley when Microsoft was <b>decimating</b> Netscape in the browser war and when many people in the U.S. and elsewhere were hoping for a new, and more robust, challenger to the Microsoft monopoly.	to severely damage sth or make sth weaker   严重破坏，大大削弱
-<b>fanatical</b> computer programmers	a person who is extremely enthusiatic about sth 狂热的（热爱某事）
-He was <b>subsisting</b> only on an average programmer's salary, and he and his family were living in a modest duplex in an ordinary neighborhood.	to manage to stay alive, especially with limited food or money  （尤其是指靠有限的食物或钱）维持生活
-He was subsisting only on an average programmer's salary, and he and his family were living in a modest <b>duplex</b> in an ordinary neighborhood.	a building divided into two separate homes  二层小楼
-Actually, Torvalds was never really interested in accumulating wealth or power, and he has <b>contended</b> all along that what counts most for the best programmers is the joy of programming and being creative.	to say that sth is true, especially in an argument  （尤其是指在争论中）声称，认为
-Torvalds suddenly became a millionaire when Red Hat <b>went</b> <b>public</b>.	上市
-<b>Corporate</b> Acceptance of Linux	connected with a corporation  公司的
- Contributing to this <b>surge</b> in popularity was the fact that Apache, the extremely successful free web server (which now hosts more than 64 percent of websites worldwide) was first written for Linux.	a sudden increase in the amount or number of sth; a large amount of sth  （数量的）急剧上升，激增
-<b>Contributing</b> <b>to</b> this surge in popularity was the fact that Apache, the extremely successful free web server (which now hosts more than 64 percent of websites worldwide) was first written for Linux.	to be one of the causes of sth  是...原因之一
- Contributing to this surge in <b>popularity</b> was the fact that Apache, the extremely successful free web server (which now hosts more than 64 percent of websites worldwide) was first written for Linux.	the state of being liked, enjoyed, or supported by a large number of people 受欢迎，普及
-I worked with him over a <b>span</b> of six years.	the length of time that sth lasts or is able to continue 持续时间
-Perhaps the biggest force for Linux's adoption in the corporate world has been IBM's official <b>blessing</b> and massive support.	approval of or permission for sth  支持，赞同
-This included a 2001 announcement of a <b>commitment</b> of a billion dollars for Linux research, development and promotion.	a promise to do sth or to behave in a particular way; 承诺，许诺
-The company was faced with the growing <b>burden</b> of having to support its own collection of proprietary (i.e., owned by an individual or a company) operating systems.	a duty, responsibility, etc. that causes worry, difficulty or hard work  （义务，责任等）重担，负担
-It realized that despite Linux's obvious <b>shortcomings</b> at that time, such as a very limited ability to run heavy-duty server applications and a lack of quality GUI applications, Linux had strong technical underpinnings and great potential for improvement.	a fault in sb's character, a plan, a system, etc.  缺点
-It realized that despite Linux's obvious shortcomings at that time, such as a very limited ability to run heavy-duty server applications and a lack of quality GUI applications, Linux had strong technical <b>underpinnings</b> and great potential for improvement.	基础
-to be paid <b>handsomely</b>	generous  可观地
-the <b>centralized</b> <b>computers</b>	集群计算机
-Particularly impressive has been its growing <b>share</b> in the market for servers, the centralized computers that power corporate networks and the Internet.	市场份额
-Many industry experts are convinced that it is only <b>a matter of</b> just a few years before Linux replaces the proprietary UNIXs as the dominant operating system in the world's largest corporate data centers.	a matter of (time):  used to say that sth will definitely happen, although you are not sure when  早晚的事，只是时间问题
-Equally impressive has been the growth at the opposite end of the applications <b>spectrum</b>, i.e., for use in embedded systems.	a complete or wide range of related qualities, ideas, etc.  范围
- The conditions in the early 1990s were <b>ripe</b> for the emergence of a free, high performance operating system such as Linux.	ready or suitable for sth to happen  时机成熟的，适宜的
-We need to concentrate on our target audience, <b>namely</b> women aged between 20 and 30.	used to introduce more exact and detailed information about sth that you have just mentioned  即，也就是
-The arrival of the Internet for <b>instantaneous</b> and free communication among programmers scattered around the planet.	happening immediately  立即的，即时的
-The arrival of the Internet for instantaneous and free communication among programmers <b>scattered</b> around the planet	spread far apart over a wide area or over a long period of time   分散的，零散的
-Founded in 2000 and supported by a global <b>consortium</b> of computer companies, including IBM.	a group of people, countries, companies, etc. who are working together on a particular project  （合作进行某项工程的）财团，联营企业
-Newton's law of <b>gravity</b>	重力，万有引力
-The police are keeping the suspects under constant <b>surveillance</b>.	the act of carefully watching a person suspected of a crime or a place where a crime may be committed  （对犯罪嫌疑人或可能发生犯罪的地方的）监视
-Red <b>Roulette</b>	轮盘赌
-He swore vengeance on his child's killer.	the act of punishing or harming sb in return for what they have done on you, your family or friends  复仇，报复
-However, he makes the final decisions regarding which of the many proposed modifications and <b>additions</b> will be incorporated into it.		a things that is added to sth else  增加物，添加物
-What <b>criteria</b> are used for assessing a student's ability?	criterion:  a standard or principle by which sth is judged, or with the help of which a decision is made  （评判或作决定的）标准，准则  criteria 是 criterion 的复数形式
-The next item on the <b>agenda</b> is the publicity budget.	a list of items to be discussed at a meeting  （会议的）议程表，议事议程
-<b>Abuse</b> of power	the use of sth in a way that is wrong of harmful  滥用，这句话的意思是“滥用职权”
-Torvalds maintains a low <b>profile</b> and attempts to avoid debates that are not closely related to the Linux kernel, and he generally avoids commenting on competing software products.	the general impression that sb/sth gives to the public and the amount of attention they receive  印象，形象  a low/high profile  低调/高调的形象
-In fact, his public <b>stance</b> is so neutral that it has even been criticized by other free software advocates.	the opinions that sb has about sth and expresses publicly  （公开表明的）观点，态度，立场
-Yet, Torvalds has occasionally reacted with strong responses to anti-Linux (and anti-free software) <b>tactics</b> employed by some proprietary software companies.	the art of moving soldiers and military equipment around during a battle or war in order to use them in the most effective way  战术，策略，兵法
-They might be considered <b>leftist</b> in the U.S.	a person who supports LEFT-WING political parties and they ideas   左派人士
-Torvalds originally began his work with the OSDL by <b>commuting</b> from his home in sunny Silicon Valley.		to travel regularly by bus, train, car, etc. between you place of work and your home  （乘公共汽车，火车，汽车等）上下班往返，经常往返（于两地）
-They live in the <b>suburb</b>.	an area where people live that is outside the centre of a city  郊区
- However, in June 2004 he revealed that he would finally be moving with his family to Portland to <b>oversee</b> the OSDL.	to watch sb/sth and make sure that a job or an activity is done correctly  监督，监视
-We want to be somewhere calmer and <b>saner</b>. Silicon Valley is a bit crazy.	having a normal healthy mind; not mentally ill  精神健全的，神志正常的
-Perhaps he should have also mentioned that Portland would be a bit more like his native Helsinki: i.e., a very pleasant and livable city with <b>abundant</b> parks and a growing tram network, and one that has less sunshine and somewhat longer, colder and darker winters than Silicon Valley.	exsiting in large quantities; more than enough  大量的，丰盛的
-Perhaps he should have also mentioned that Portland would be a bit more like his native Helsinki: i.e., a very pleasant and livable city with abundant parks and a growing <b>tram</b> network, and one that has less sunshine and somewhat longer, colder and darker winters than Silicon Valley.	a vehicle driven by electricity, that runs on rails along the streets of a town and carries passengers.  有轨电车
-Linux is still young and <b>poised</b> for its greatest growth, and it still needs him.	completely ready for sth or to do sth  有充分准备，蓄势待发
-They were arrested during a dawn <b>raid</b>.	a surprise visit by the police looking for criminals or for illegal goods or drugs  突击检查，突然搜查
-Although understanding this issue requires us to delve into one of the <b>murkier</b> corners of the C language standards, it will helpus appreciate some of the subtleties of integer data types and representations.	dark and unpleasant because of smoke  昏暗的，阴暗的
-Although understanding this issue requires us to delve into one of the murkier corners of the C language standards, it will helpus appreciate some of the <b>subtleties</b> of integer data types and representations.	the small but important details or aspects of sth  细小但重要的地方，微妙之处
-To convert a decimal number x to hexadecimal, we can repeatedly divide x by 16, giving a <b>quotient</b> q and a remainder r, such that x=q*16+r.	a number which is the result when one number is divided by another  商（除法所得的结果）
+to drop <b>anchor</b>	锚	LongTermLearning
+These properties are <b>artifacts</b> of the finite nature of computer arithmetric.	an object that is made by a person, especially sth of historical or culture interest  人工制品，手工艺品 （尤其指有历史或文化价值的）	LongTermLearning
+Understanding the <b>nuances</b> of computer arithmetic can help programmers write more reliable code.	a very slight difference in meaning, sound, colour or sb's feelings that is not usually very obvious	（意义，声音，颜色，感情等方面）细微差别LongTermLearning
+<b>inflation</b>	通货膨胀，通胀率	LongTermLearning
+More commonly, pro-gramming languages support fixed-size arithmetic, and hence operations such as “addition” and “multiplication” differ from their <b>counterpart</b> operations over integers.	对应的，相应的	LongTermLearning
+to copy some of the data maintained by the operating system kernel to a <b>designated</b> region of memory accessible to the user.	to say officially that sb/sth in a particular character or name, to describe sb/sth in a particular way 命名，指定。这里是形容词，意思为“指定的”	LongTermLearning
+a tornado <b>advisory</b>	an official warning that sth bad is going to happen  警报	LongTermLearning
+a <b>tornado</b> advisory	龙卷风	LongTermLearning
+a word of Greek <b>derivation</b>	the origin or development of sth, especially a word   （尤指词语的）起源，由来	LongTermLearning
+<b>commutative</b>	可交换的（排列次序不影响结果的）e.g. a + b = b + a	LongTermLearning
+<b>associative</b>	结合的 e.g. (a*b)*c = a*(b*c)	LongTermLearning
+food <b>additive</b>	a substance that is added in small amounts to sth, especially food, in order to improve it, give it colour, make it last longer 食品添加剂	LongTermLearning
+Activities that are <b>characterized</b> as 'male' or 'female' work.	to describe or show the qualities of sb/sth in a particular way  描述，刻画，表现（...的特征，特点）	LongTermLearning
+As a result of his skills and accomplishments, Torvalds was appointed to the <b>post</b> of instructor at the University of Helsinki, a position which allowed him to simultaneously continue his development of Linux.	a job, especially an important one in a large organization 职位，（尤指）要职	LongTermLearning
+<b>karate</b>	空手道	LongTermLearning
+Although the arrival of his first daughter <b>coincided</b> <b>with</b> minor disruptions in the development of the Linux kernel, he was able to release version 2.0 by December 1996.	(of two or more events) to take place at the same time  （两件或更多的事情）同时发生	LongTermLearning
+Although the arrival of his first daughter coincided with minor <b>disruptions</b> in the development of the Linux kernel, he was able to release version 2.0 by December 1996.	to make it difficult for sth to continue in the normal way  扰乱，使中断  这里是名词，意思为“中断”	LongTermLearning
+This milestone version represented a major improvement in performance through its addition of support for additional processors and for <b>symmetric</b> multiprocessing (SMP), which lets multiple processors access and be equally close to all RAM locations.	对称	LongTermLearning
+Two years later this had <b>soared</b> to in excess of seven million.	rise very quickly  急升，猛增	LongTermLearning
+Despite the <b>relentless</b> successes of Linux and the great popularity of Torvalds, his activities were not entirely without controversy, even within the free software community.	not stopping or getting less strong  不停的，持续强烈的，不减弱的	LongTermLearning
+The <b>senery</b> is magnificent.	the natural features of an area, such as mountains, valleys, rivers and forests, when you are thinking about them being attractive to look at  风景，景色	LongTermLearning
+Needless to say, there was no <b>shortage</b> of opportunities available to him.	a situation when there is not enough of the people or things that are needed  不足，缺少，短缺	LongTermLearning
+Thus, in 1997 he moved to sunny Santa Clara in California's <b>fabled</b> Silicon Valley to accept a position with Transmeta Corporation.	famous and often talked about, but rarely seen  传说中的	LongTermLearning
+His job there was to help develop commercial software to <b>facilitate</b> communication between operating systems and that company's microprocessors.	to make an action or a process possible or easier  促进，促使	LongTermLearning
+Linux <b>devotees</b> were initially concerned not only about his move to a for-profit business but also about the fact that it was funded in part by Microsoft co-founder Paul Allen.	a person who admires and is very enthusiastic about sb/sth  （狂热的）崇拜者，爱好者	LongTermLearning
+a dance festival <b>funded</b> by the Arts Council	to provide money for sth, usually sth official  为...提供资金	LongTermLearning
+She was <b>reluctant</b> to admit she was wrong.	hesitating before doing sth because you do not want to do it or because you are not sure that it is the right thing to do  不情愿的，勉强的	LongTermLearning
+Many countries <b>favour</b> a presidential system of government.	to prefer one system, plan, way of doing sth, etc. to another  较喜欢	LongTermLearning
+This was, in fact, a clever <b>publicity</b> move on the part of Transmeta, which benefited not only by receiving the services of an extremely talented and motivated engineer but also by having someone on their staff who brought them exceptional media attention.	the business of attracting the attention of the public to sth/sb; the things that are done to attract attention  广告宣传工作，传播工作	LongTermLearning
+Torvalds arrived in Silicon Valley when Microsoft was <b>decimating</b> Netscape in the browser war and when many people in the U.S. and elsewhere were hoping for a new, and more robust, challenger to the Microsoft monopoly.	to severely damage sth or make sth weaker   严重破坏，大大削弱	LongTermLearning
+<b>fanatical</b> computer programmers	a person who is extremely enthusiatic about sth 狂热的（热爱某事）	LongTermLearning
+He was <b>subsisting</b> only on an average programmer's salary, and he and his family were living in a modest duplex in an ordinary neighborhood.	to manage to stay alive, especially with limited food or money  （尤其是指靠有限的食物或钱）维持生活	LongTermLearning
+He was subsisting only on an average programmer's salary, and he and his family were living in a modest <b>duplex</b> in an ordinary neighborhood.	a building divided into two separate homes  二层小楼	LongTermLearning
+Actually, Torvalds was never really interested in accumulating wealth or power, and he has <b>contended</b> all along that what counts most for the best programmers is the joy of programming and being creative.	to say that sth is true, especially in an argument  （尤其是指在争论中）声称，认为	LongTermLearning
+Torvalds suddenly became a millionaire when Red Hat <b>went</b> <b>public</b>.	上市	LongTermLearning
+<b>Corporate</b> Acceptance of Linux	connected with a corporation  公司的	LongTermLearning
+ Contributing to this <b>surge</b> in popularity was the fact that Apache, the extremely successful free web server (which now hosts more than 64 percent of websites worldwide) was first written for Linux.	a sudden increase in the amount or number of sth; a large amount of sth  （数量的）急剧上升，激增	LongTermLearning
+<b>Contributing</b> <b>to</b> this surge in popularity was the fact that Apache, the extremely successful free web server (which now hosts more than 64 percent of websites worldwide) was first written for Linux.	to be one of the causes of sth  是...原因之一	LongTermLearning
+ Contributing to this surge in <b>popularity</b> was the fact that Apache, the extremely successful free web server (which now hosts more than 64 percent of websites worldwide) was first written for Linux.	the state of being liked, enjoyed, or supported by a large number of people 受欢迎，普及	LongTermLearning
+I worked with him over a <b>span</b> of six years.	the length of time that sth lasts or is able to continue 持续时间	LongTermLearning
+Perhaps the biggest force for Linux's adoption in the corporate world has been IBM's official <b>blessing</b> and massive support.	approval of or permission for sth  支持，赞同	LongTermLearning
+This included a 2001 announcement of a <b>commitment</b> of a billion dollars for Linux research, development and promotion.	a promise to do sth or to behave in a particular way; 承诺，许诺	LongTermLearning
+The company was faced with the growing <b>burden</b> of having to support its own collection of proprietary (i.e., owned by an individual or a company) operating systems.	a duty, responsibility, etc. that causes worry, difficulty or hard work  （义务，责任等）重担，负担	LongTermLearning
+It realized that despite Linux's obvious <b>shortcomings</b> at that time, such as a very limited ability to run heavy-duty server applications and a lack of quality GUI applications, Linux had strong technical underpinnings and great potential for improvement.	a fault in sb's character, a plan, a system, etc.  缺点	LongTermLearning
+It realized that despite Linux's obvious shortcomings at that time, such as a very limited ability to run heavy-duty server applications and a lack of quality GUI applications, Linux had strong technical <b>underpinnings</b> and great potential for improvement.	基础	LongTermLearning
+to be paid <b>handsomely</b>	generous  可观地	LongTermLearning
+the <b>centralized</b> <b>computers</b>	集群计算机	LongTermLearning
+Particularly impressive has been its growing <b>share</b> in the market for servers, the centralized computers that power corporate networks and the Internet.	市场份额	LongTermLearning
+Many industry experts are convinced that it is only <b>a matter of</b> just a few years before Linux replaces the proprietary UNIXs as the dominant operating system in the world's largest corporate data centers.	a matter of (time):  used to say that sth will definitely happen, although you are not sure when  早晚的事，只是时间问题	LongTermLearning
+Equally impressive has been the growth at the opposite end of the applications <b>spectrum</b>, i.e., for use in embedded systems.	a complete or wide range of related qualities, ideas, etc.  范围	LongTermLearning
+ The conditions in the early 1990s were <b>ripe</b> for the emergence of a free, high performance operating system such as Linux.	ready or suitable for sth to happen  时机成熟的，适宜的	LongTermLearning
+We need to concentrate on our target audience, <b>namely</b> women aged between 20 and 30.	used to introduce more exact and detailed information about sth that you have just mentioned  即，也就是	LongTermLearning
+The arrival of the Internet for <b>instantaneous</b> and free communication among programmers scattered around the planet.	happening immediately  立即的，即时的	LongTermLearning
+The arrival of the Internet for instantaneous and free communication among programmers <b>scattered</b> around the planet	spread far apart over a wide area or over a long period of time   分散的，零散的	LongTermLearning
+Founded in 2000 and supported by a global <b>consortium</b> of computer companies, including IBM.	a group of people, countries, companies, etc. who are working together on a particular project  （合作进行某项工程的）财团，联营企业	LongTermLearning
+Newton's law of <b>gravity</b>	重力，万有引力	LongTermLearning
+The police are keeping the suspects under constant <b>surveillance</b>.	the act of carefully watching a person suspected of a crime or a place where a crime may be committed  （对犯罪嫌疑人或可能发生犯罪的地方的）监视	LongTermLearning
+Red <b>Roulette</b>	轮盘赌	LongTermLearning
+He swore vengeance on his child's killer.	the act of punishing or harming sb in return for what they have done on you, your family or friends  复仇，报复	LongTermLearning
+However, he makes the final decisions regarding which of the many proposed modifications and <b>additions</b> will be incorporated into it.	a things that is added to sth else  增加物，添加物	LongTermLearning
+What <b>criteria</b> are used for assessing a student's ability?	criterion:  a standard or principle by which sth is judged, or with the help of which a decision is made  （评判或作决定的）标准，准则  criteria 是 criterion 的复数形式	LongTermLearning
+The next item on the <b>agenda</b> is the publicity budget.	a list of items to be discussed at a meeting  （会议的）议程表，议事议程	LongTermLearning
+<b>Abuse</b> of power	the use of sth in a way that is wrong of harmful  滥用，这句话的意思是“滥用职权”	LongTermLearning
+Torvalds maintains a low <b>profile</b> and attempts to avoid debates that are not closely related to the Linux kernel, and he generally avoids commenting on competing software products.	the general impression that sb/sth gives to the public and the amount of attention they receive  印象，形象  a low/high profile  低调/高调的形象	LongTermLearning
+In fact, his public <b>stance</b> is so neutral that it has even been criticized by other free software advocates.	the opinions that sb has about sth and expresses publicly  （公开表明的）观点，态度，立场	LongTermLearning
+Yet, Torvalds has occasionally reacted with strong responses to anti-Linux (and anti-free software) <b>tactics</b> employed by some proprietary software companies.	the art of moving soldiers and military equipment around during a battle or war in order to use them in the most effective way  战术，策略，兵法	LongTermLearning
+They might be considered <b>leftist</b> in the U.S.	a person who supports LEFT-WING political parties and they ideas   左派人士	LongTermLearning
+Torvalds originally began his work with the OSDL by <b>commuting</b> from his home in sunny Silicon Valley.	to travel regularly by bus, train, car, etc. between you place of work and your home  （乘公共汽车，火车，汽车等）上下班往返，经常往返（于两地）	LongTermLearning
+They live in the <b>suburb</b>.	an area where people live that is outside the centre of a city  郊区	LongTermLearning
+ However, in June 2004 he revealed that he would finally be moving with his family to Portland to <b>oversee</b> the OSDL.	to watch sb/sth and make sure that a job or an activity is done correctly  监督，监视	LongTermLearning
+We want to be somewhere calmer and <b>saner</b>. Silicon Valley is a bit crazy.	having a normal healthy mind; not mentally ill  精神健全的，神志正常的	LongTermLearning
+Perhaps he should have also mentioned that Portland would be a bit more like his native Helsinki: i.e., a very pleasant and livable city with <b>abundant</b> parks and a growing tram network, and one that has less sunshine and somewhat longer, colder and darker winters than Silicon Valley.	exsiting in large quantities; more than enough  大量的，丰盛的	LongTermLearning
+Perhaps he should have also mentioned that Portland would be a bit more like his native Helsinki: i.e., a very pleasant and livable city with abundant parks and a growing <b>tram</b> network, and one that has less sunshine and somewhat longer, colder and darker winters than Silicon Valley.	a vehicle driven by electricity, that runs on rails along the streets of a town and carries passengers.  有轨电车	LongTermLearning
+Linux is still young and <b>poised</b> for its greatest growth, and it still needs him.	completely ready for sth or to do sth  有充分准备，蓄势待发	LongTermLearning
+They were arrested during a dawn <b>raid</b>.	a surprise visit by the police looking for criminals or for illegal goods or drugs  突击检查，突然搜查	LongTermLearning
+Although understanding this issue requires us to delve into one of the <b>murkier</b> corners of the C language standards, it will helpus appreciate some of the subtleties of integer data types and representations.	dark and unpleasant because of smoke  昏暗的，阴暗的	LongTermLearning
+Although understanding this issue requires us to delve into one of the murkier corners of the C language standards, it will helpus appreciate some of the <b>subtleties</b> of integer data types and representations.	the small but important details or aspects of sth  细小但重要的地方，微妙之处	LongTermLearning
+To convert a decimal number x to hexadecimal, we can repeatedly divide x by 16, giving a <b>quotient</b> q and a remainder r, such that x=q*16+r.	a number which is the result when one number is divided by another  商（除法所得的结果）	LongTermLearning
