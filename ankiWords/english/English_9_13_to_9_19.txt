@@ -1,0 +1,7 @@
+<b>erroneous</b> conclusions	not correct; based on wrong information 错误的
+the <b>graceless</b> architecture of the 1960s	not pleasing or attractive to look at  不优美的，丑陋的
+<b>mnemonic</b>		a word, sentence, poem, etc. that helps you to remember sth  帮助记忆的词句（或诗歌等）；助记符号
+C provides the infinitely-abusable goto statement, and labels to <b>branch</b> to.	分岔，这里的意思是指“跳到另一个分支”
+Although we are not <b>dogmatic</b> about the matter, it does seem that <i>goto</i> statements should be used rarely, if at all.	being certain that your beliefs are right and that others should accept them, without paying attention to evidence or other opinion  武断的，自以为是的
+Although we are not dogmatic about the matter, it does seem that <i>goto</i> statements should be used rarely, <b>if at all</b>.	used to make negative stronger  加强前面的否定语气
+Furthermore, when arguments are properly declared, appropriate type <b>coercion</b> are performed automatically.	the action of making sb do sth that they do not want to do, using force or threatening to use force  强制措施，强制手段
