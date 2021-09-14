@@ -5,3 +5,11 @@ C provides the infinitely-abusable goto statement, and labels to <b>branch</b> t
 Although we are not <b>dogmatic</b> about the matter, it does seem that <i>goto</i> statements should be used rarely, if at all.	being certain that your beliefs are right and that others should accept them, without paying attention to evidence or other opinion  武断的，自以为是的
 Although we are not dogmatic about the matter, it does seem that <i>goto</i> statements should be used rarely, <b>if at all</b>.	used to make negative stronger  加强前面的否定语气
 Furthermore, when arguments are properly declared, appropriate type <b>coercion</b> are performed automatically.	the action of making sb do sth that they do not want to do, using force or threatening to use force  强制措施，强制手段
+Because even superhero developers need a <b>sidekick</b>.	a person who helps another more important or more intelligent person  助手，副手
+On files that support seeking, the read operation <b>commences</b> at the file offset, and the  file offset  is incremented by the number of bytes read.	to begin to happen; to begin sth  开始发生，开始，着手
+<b>vertex</b>	（图的）顶点
+One traditional example of a structure is the <b>payroll</b> record: an employee is described by a setof attributes such as name, address, social security number, salary, etc.	a list of people employed by a company showing the amount of money to be paid to each of them.  （公司员工的）工资名单
+A point is a pair of <b>coordinates</b>	either of two numbers or letters used to fix the position of a point on a map  坐标
+In this example 'X' <b>denotes</b> the time and 'Y' denotes the distance covered.	to mean sth  表示...
+<b>diagonal</b>	对角线
+The following function returns a rectangle guaranteed to be in <b>canonical</b> <b>form</b>	标准形式，最基本形式
