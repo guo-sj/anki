@@ -15,3 +15,6 @@ In this example 'X' <b>denotes</b> the time and 'Y' denotes the distance covered
 The following function returns a rectangle guaranteed to be in <b>canonical</b> <b>form</b>	标准形式，最基本形式
 <b>Adaptive</b> and Non-Adaptive Sorting Algorithm	concerned with changing; able to change when necessary in order to deal with different situations  适应的，有适应能力的
 Coursework is <b>taken</b> <b>into</b> <b>account</b> as well as exam results.	to consider particular facts, circumstances, etc. when making a decision about sth  考虑到，顾及
+a <b>neat</b> explanation	simple but clever  简洁的，睿智的，灵巧的
+The job <b>falls</b> neatly <b>into</b> three pieces.	to be able to be divided into  可以分成，能够分成
+Although it's certainly possible to put the code for all of this in <i>main</i>, a better way is to use the structure to <b>advantage</b> by making each part a separate functions.	to put sb in a better position than other people or than they were in before  使处于有利地位，有利于，有助于
