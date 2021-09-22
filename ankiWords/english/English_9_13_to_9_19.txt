@@ -18,3 +18,11 @@ Coursework is <b>taken</b> <b>into</b> <b>account</b> as well as exam results.	t
 a <b>neat</b> explanation	simple but clever  简洁的，睿智的，灵巧的
 The job <b>falls</b> neatly <b>into</b> three pieces.	to be able to be divided into  可以分成，能够分成
 Although it's certainly possible to put the code for all of this in <i>main</i>, a better way is to use the structure to <b>advantage</b> by making each part a separate functions.	to put sb in a better position than other people or than they were in before  使处于有利地位，有利于，有助于
+PowerShell is an object-oriented language and shell. This is a <b>departure</b> from the traditional shells like cmd and Bash.	an action that is different from what is usual or expected  背离，违反
+<b>buckle</b> <b>up</b>	to fasten your seat belt  系上安全带
+Understanding the <b>Anatomy</b> of an Object	an examination of what sth is like or why it happens  解析，剖析
+Once you get a <b>broad</b> view of what makes an object an object, you’ll then get to dive into some code examples!	general; not detailed  概括的，一般的
+Without going into a lot of detail on object-oriented programming, every object has a “<b>schema</b>”.	an outline of a plan or theory  （计划或理论的）提要，纲要
+An object’s “schema” is a template of sorts that contains the <b>blueprint</b> to create an object.	print of a plan for a building or a machine, with white lines on a blue background  蓝图
+The precise <b>semantics</b> of threads differ from one operating system to another, but in general the threads of a single program are akin to multiple processes--except that they share one address space (that is, they can all examine and modify the same variables). On the other hand, each thread has its own registers and execution stack, and perhaps private memory.	the meaning of words, phrases or systems  （单词，短语或其他符号系统的）含义
+The precise semantics of threads differ from one operating system to another, but in general the threads of a single program are <b>akin</b> to multiple processes--except that they share one address space (that is, they can all examine and modify the same variables). On the other hand, each thread has its own registers and execution stack, and perhaps private memory.	similar to  相似的，类似的
