@@ -1,12 +1,12 @@
-The old System V debugger, sdb, is  a  <b>relic</b> of the dark ages; both gdb and dbx go far beyond its capabilities.	an object, a tradition, a system, etc. that has survived from the past  遗物，遗迹
-Don't <b>despair</b>.	to stop having any hope that a situation will change or improve  绝望
-There are some <b>workarounds</b> that limit the flexibility of these options, but still give a reasonable (if not stunning)  performance.	a way in which you can solve or avoid a problem when the most obvious solution is not possible  变通方法，解决方法
-The fall <b>stunned</b> me for a moment.	to make a person or an animal unconscious for a short time, especially by hitting them on the head  使昏迷，（尤指）打昏
-On some systems, optimizing such code may reveal bugs that were not previously <b>apparent</b>.		easy to see or understand  显而易见的，显然
-You  will see these statements in your listings <b>verbatim</b>.	exactly as spoken or written  一字不差的
-You will use these line numbers to <b>issue</b> many debugging commands.	to give sth to sb/sth  发给，供给   这里的意思是“把行数发给许多debug命令，从而可以运行它们”
-The technology boom sent share prices <b>into</b> <b>the</b> <b>stratosphere</b>.	at or to an extremely high level  在（达到）极高水平 stratosphere: 平流层
-Earlier debuggers didn't have good ways to turn an arbitrary pointer into an array, for example, dbx could print the data at p, and successive elements one at a time, but it didn't have any way to treat them as an <b>aggregate</b>.	a total number or amount made up of smaller amounts that are collected together  总数，合计。这里的意思是：调试器dbx无法把一个任意的指针看成一个数组首地址，即把指向的数据以及之后的数据看成一个总体，像打印数组一样打印数据。
- You can then resume program execution at the point where it <b>left</b> <b>off</b>.	to stop doing sth  停止（做某事），中断
-She walked towards him and then <b>halted</b>.	to stop, to make sb/sth stop  （使）停止，停下
-The path <b>forks</b> at the bottom of the hill.	(not used in the progressive tenses 不用于进行时) (of a road, river, etc. 道路，河流等) to divide into two parts that lead in different directions  分岔，岔开两条分支
+The old System V debugger, sdb, is  a  <b>relic</b> of the dark ages; both gdb and dbx go far beyond its capabilities.	an object, a tradition, a system, etc. that has survived from the past  遗物，遗迹	LongTermLearning
+Don't <b>despair</b>.	to stop having any hope that a situation will change or improve  绝望	LongTermLearning
+There are some <b>workarounds</b> that limit the flexibility of these options, but still give a reasonable (if not stunning)  performance.	a way in which you can solve or avoid a problem when the most obvious solution is not possible  变通方法，解决方法	LongTermLearning
+The fall <b>stunned</b> me for a moment.	to make a person or an animal unconscious for a short time, especially by hitting them on the head  使昏迷，（尤指）打昏	LongTermLearning
+On some systems, optimizing such code may reveal bugs that were not previously <b>apparent</b>.	easy to see or understand  显而易见的，显然	LongTermLearning
+You  will see these statements in your listings <b>verbatim</b>.	exactly as spoken or written  一字不差的	LongTermLearning
+You will use these line numbers to <b>issue</b> many debugging commands.	to give sth to sb/sth  发给，供给   这里的意思是“把行数发给许多debug命令，从而可以运行它们”	LongTermLearning
+The technology boom sent share prices <b>into</b> <b>the</b> <b>stratosphere</b>.	at or to an extremely high level  在（达到）极高水平 stratosphere: 平流层	LongTermLearning
+Earlier debuggers didn't have good ways to turn an arbitrary pointer into an array, for example, dbx could print the data at p, and successive elements one at a time, but it didn't have any way to treat them as an <b>aggregate</b>.	a total number or amount made up of smaller amounts that are collected together  总数，合计。这里的意思是：调试器dbx无法把一个任意的指针看成一个数组首地址，即把指向的数据以及之后的数据看成一个总体，像打印数组一样打印数据。	LongTermLearning
+ You can then resume program execution at the point where it <b>left</b> <b>off</b>.	to stop doing sth  停止（做某事），中断	LongTermLearning
+She walked towards him and then <b>halted</b>.	to stop, to make sb/sth stop  （使）停止，停下	LongTermLearning
+The path <b>forks</b> at the bottom of the hill.	(not used in the progressive tenses 不用于进行时) (of a road, river, etc. 道路，河流等) to divide into two parts that lead in different directions  分岔，岔开两条分支	LongTermLearning
