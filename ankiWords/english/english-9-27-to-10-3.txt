@@ -1,3 +1,13 @@
 The transition from <b>liquid</b> to vapour	a substance that flows freely and is not a solid or a gas, for example, water or oil  液体
 The transition from liquid to <b>vapour</b>	蒸气
 She gave up smoking <b>for the sake of</b> health.	in order to get or keep sth  为了获得（保持）某物
+<b>a lottery ticket</b>	彩票
+The tax increases proved to be the president's political <b>nemesis</b>.	punishment or defeat that is deserved and cannot be avoided  报应，应得的惩罚
+tuple	a structure of data that has several parts  一种数据结构，可以包含不同类型的数据
+<b>Congrats</b> to the Stripe team.	‘congratulations’ 的简写
+I have a stack of emails in my <b>inbox</b>.	the place on a computer where new email messages are shown  （电子邮件）收件箱
+Let's shoot some <b>hoops</b>.	篮框
+<b>Apparently</b>, they are getting divorced soon.	according to what you have heard or read; according to the way sth appears  显然
+I still <b>comb</b> <b>through</b> batch announcements or check out Show HNs to see what's coming, because I feel like there's a good chance another Stripe is launching today.		to search sth carefully in order to find sb/sth  仔细搜索
+Core <b>dumped</b>.	to copy information and move it somewhere to store it  （内存信息）转储，转存
+gdb normally <b>traps</b> most signals that are sent to it.	to catch or keep sth in a place and prevent it from escaping, especially so that you can use it  收集，捕捉
