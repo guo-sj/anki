@@ -1,1 +1,24 @@
 a <b>tone</b> of surprise	the quality of sb's voice, especially expressing a particular emotion  语气
+A <i>page</i> is for <b>standalone</b> content that isn't associated with a specific date, such as an "About" page.	(especially of a computer) able to be operated on its own without being connected to a larger system  独立的
+The pool is open <b>from</b> 7 a.m. <b>onwards</b>.	continuing from a particular time  从（某时）起一直...
+To <b>aid</b> in finding a particular line of source code, gdb provides a command for searching through source files.	to help sb/sth to do sth, especially by making it easier  帮助，援助
+A fish <b>hook</b>	a curved piece of mental, plasic, or wire for hanging things on, catching fish with, etc. 钩，钓钩
+Finding resilience	the ability of people or things to feel better quickly after sth unpleasant, such as shock, injury, etc.  快速恢复能力，适应力
+Learning from those who came before us is <b>instrumental</b> to success, but we often forget an important caveat.	important in making sth happen  起重要作用
+We <b>charged</b> at the enemy.	to rush forward and attack sb/sth  猛冲，冲锋
+He said that the National Health Service had become a vast bureaucratic <b>monolith</b>.	a large, powerful organization that is not willing to change and that does not seem interested in individual people  （少有变化，不关心个人的）单一庞大的组织
+He said that the National Health Service had become a vast <b>bureaucratic</b> monolith.	the system of official rules and ways of doing things that a government or an organization has, especially when these seem to be too complicated  官僚作风的
+I'd like a job working with old <b>folks</b> or kids.	people in general  人们
+a camera with an adjustable <b>lens</b>	a curved piece of glass or plastic that makes things look larger, smaller or clearer when you look through it  透镜
+The changes made the company <b>leaner</b> and more competitive.	(of organizations, etc. ) strong and efficient because the number of employees has been reduced 精干的，效率高的
+I <b>value</b> engineer productivity over most other considerations.	(not used in the progressive tenses ) to think that sb/sth is important  重视，珍视
+I finally managed to <b>whittle</b> <b>down</b> the names on the list to only five.		to reduce the size or number of sth  减少，削减（...的大小或数目）
+This new job could open up whole new <b>vistas</b> for her.	a range of things that might happen in the future  （未来可能发生的）一系列情景，一连串事情
+The meeting <b>went</b> <b>off</b> well.	to happen in a particular way (以某种形式发生)
+The sooner you realize this, the sooner you can start to <b>shed</b> your imposter syndrome and instead delight in learning from and teaching others.	to get rid of sth that is no longer wanted  去除
+The sooner you realize this, the sooner you can start to shed your <b>imposter</b> syndrome and instead delight in learning from and teaching others.	a person who pretends to be sb else in order to trick people  冒名顶替者
+The sooner you realize this, the sooner you can start to shed your imposter <b>syndrome</b> and instead delight in learning from and teaching others.	a set of opinions or a way of behaving that is typical of a particular type of person, attitude or social problem.  典型表现
+That's <b>cliche</b>.	a phrase or an idea that has been used so often that it no longer has much meaning and is not interesting	陈词滥调 
+Designing software is mostly a listening activity, and we often have to be part software engineer, part <b>psychic</b>, and part anthropologist.	(自称)有特异功能的人
+Designing software is mostly a listening activity, and we often have to be part software engineer, part psychic, and part <b>anthropologist</b>.	a person who studies anthropology  人类学家
+Investing in this design process, whether through dedicated UX team members or by simply educating yourself, will deliver enormous <b>dividends</b>.	an amount of the profits that a company pays to people who own shares in the company  红利，股息  这里的意思是“好处”
