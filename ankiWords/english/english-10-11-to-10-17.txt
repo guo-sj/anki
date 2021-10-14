@@ -1,3 +1,6 @@
 <b>In the light of</b> what we have said about how declarations must match definitions, this might seem surprising.	after considering sth  考虑到，鉴于
 4 to the <b>power</b> of 3 is 4³.	the number of times that an amount is to be multiplied by itself  乘方
 Try to avoid using much technical <b>jargon</b>.	(often disapproval) words or expressions that are used by a particular profession or group of people, and are difficult for others to understand  行话，术语
+Prison officers are demanding pay <b>parity</b> with the police force.	the state of being equal, especially the state of having equal pay or status  （尤指薪金或地位）平等，相同，对等
+a <b>relevant</b> suggestion	closely connected with the subject you are discussing or the situation you are thinking about  相关的，紧密的，切题的
+<b>asynchronous</b>	(of two or more objects or events) not existing or happening at the same time 不同时存在（发生）的；也就是我们常说的“异步的”
