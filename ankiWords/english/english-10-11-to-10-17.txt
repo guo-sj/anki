@@ -1,9 +1,12 @@
-<b>In the light of</b> what we have said about how declarations must match definitions, this might seem surprising.	after considering sth  考虑到，鉴于
-4 to the <b>power</b> of 3 is 4³.	the number of times that an amount is to be multiplied by itself  乘方
-Try to avoid using much technical <b>jargon</b>.	(often disapproval) words or expressions that are used by a particular profession or group of people, and are difficult for others to understand  行话，术语
-Prison officers are demanding pay <b>parity</b> with the police force.	the state of being equal, especially the state of having equal pay or status  （尤指薪金或地位）平等，相同，对等
-a <b>relevant</b> suggestion	closely connected with the subject you are discussing or the situation you are thinking about  相关的，紧密的，切题的
-<b>asynchronous</b>	(of two or more objects or events) not existing or happening at the same time 不同时存在（发生）的；也就是我们常说的“异步的”
-What's she <b>gonna</b> do now?	a way of saying or writing 'going to' in informal speech, when it refers to the future  即将，将要（非正式用语，即going to）  You should not write this form unless you are copying somebody's speech. 
-<b>Trim</b> any excess fat <b>off</b> the meat.	to cut away unnecessary parts from sth  修剪，除去（不必要的部分）
-I'd understand if you wanted to <b>bail</b> <b>out</b> of this relationship.	to escape from a situation that you no longer want to be involved in  逃避，摆脱 （不想再牵连其中的情况）
+<b>In the light of</b> what we have said about how declarations must match definitions, this might seem surprising.	after considering sth  考虑到，鉴于	LongTermLearning
+4 to the <b>power</b> of 3 is 4³.	the number of times that an amount is to be multiplied by itself  乘方	LongTermLearning
+Try to avoid using much technical <b>jargon</b>.	(often disapproval) words or expressions that are used by a particular profession or group of people, and are difficult for others to understand  行话，术语	LongTermLearning
+Prison officers are demanding pay <b>parity</b> with the police force.	the state of being equal, especially the state of having equal pay or status  （尤指薪金或地位）平等，相同，对等	LongTermLearning
+a <b>relevant</b> suggestion	closely connected with the subject you are discussing or the situation you are thinking about  相关的，紧密的，切题的	LongTermLearning
+<b>asynchronous</b>	(of two or more objects or events) not existing or happening at the same time 不同时存在（发生）的；也就是我们常说的“异步的”	LongTermLearning
+What's she <b>gonna</b> do now?	a way of saying or writing 'going to' in informal speech, when it refers to the future  即将，将要（非正式用语，即going to）  You should not write this form unless you are copying somebody's speech. 	LongTermLearning
+<b>Trim</b> any excess fat <b>off</b> the meat.	to cut away unnecessary parts from sth  修剪，除去（不必要的部分）	LongTermLearning
+I'd understand if you wanted to <b>bail</b> <b>out</b> of this relationship.	to escape from a situation that you no longer want to be involved in  逃避，摆脱 （不想再牵连其中的情况）	LongTermLearning
+His comments <b>injected</b> a note of humour <b>into</b> the proceedings.	to add a particular quality to sth  （给...）添加，增加（某品质）	LongTermLearning
+His comments injected <b>a note of</b> humour into the proceedings.	一丝，一点	LongTermLearning
+His comments injected a note of humour into the <b>proceedings</b>.	an event or a series of actions  事件，过程	LongTermLearning
