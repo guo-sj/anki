@@ -1,0 +1,3 @@
+<b>agile</b> software development	able to move quickly and easily  （动作）敏捷的，灵活的
+<b>By the way</b>, I found that book you were looking for.	used to introduce a comment or question that is not directly related to what you have talking about  顺便提一下
+<b>It is often the case</b> that a program cannot determine that it hasread enough input until it has read too much.	...通常是...的情况
