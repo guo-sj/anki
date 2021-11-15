@@ -1,2 +1,6 @@
 # anki
-This repository has some my anki files, include some important backup files. 
+这是我的一些anki卡片，还有它们的定期备份文件。
+
+**一些关于制作卡片的规范**：
+- 如果需要记忆的单词在例句中是`其他形态`，那么需要在卡片的背面写出单词的`原型`，太简单的变形
+可以不用写
