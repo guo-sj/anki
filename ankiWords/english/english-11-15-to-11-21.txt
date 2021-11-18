@@ -9,3 +9,4 @@ It's one of the <b>prettiest</b> shell programs we know - a few lines of code th
 <b>snail</b>	a small soft creature with a hard round shell on its back, that moves very slowly and often eats garden plants.  蜗牛
 <b>demystify</b>	to make sth easier to understand and less complicated by explaining it in a clear and simple way  深入浅出地解释
 the writer's striking use of <b>metaphor</b>	a word or phrase used to describe sb/sth else, in a way that is different from its normal use, in order to show that the two things have the same qualities and to make the description more powerful, for example She has a heart of stone; the use of such words and phrases  隐喻
+This report is an <b>acknowledgement</b> of the size of the problem.	an act of accepting that sth exists or is true, or that sth is there （对事实，现实，存在的）承认  这句话的意思是：这个报告承认了问题的严重性。
