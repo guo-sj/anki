@@ -1,0 +1,3 @@
+<b>cloze</b> <b>test</b>	a type of test in which you have to put suitable words in spaces in a text where words have been left out  填空测试
+future <b>perfect</b>	the form of a verb that expresses actions completed by the present or a particular point in the past or future, formed in English with part of the verb 'have' and the past participle of the main 'verb' （动词的）完成时。<br>这个短语的意思是“将来完成时”
+the past participle	a word formed from a verb, ending in '-ing' (THE PRESENT PARTICIPLE) or '-ed', '-en', etc. (THE PAST PARTICIPLE) 分词（现在分词或过去分词）
