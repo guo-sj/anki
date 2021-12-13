@@ -6,3 +6,4 @@ a <b>rational</b> decision	based on reason rather than emotions  合理的	LongT
 The group <b>encompasses</b> all ages.	to include a large number or range of things  包括，包含	LongTermLearning
 A new system has been <b>devised</b> to control traffic in the city.	to invent sth new or a new way of doing sth  发明，设计	LongTermLearning
 the <b>advent</b> of new technology	the coming of an important event, person, invention, etc.  （重要事件，人物，发明等的）<b>到来</b>	LongTermLearning
+<b>significand</b>	科学计数法中，如“1.23 * 10^6”，<b>1.23就是significand</b>
