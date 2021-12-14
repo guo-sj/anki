@@ -5,3 +5,7 @@ areas of <b>dense</b> population	containing a lot of people, things, plants, etc
 Firefighters needed breathing <b>apparatus</b> to enter the burning house.	the tools or other pieces of equipment that are needed for a particular activity or task  仪器
 Who's the likely <b>successor</b> to him as party leader?	a person or thing that comes after sb/sth else and takes their/its place  继任者
 Nothing can <b>compensate</b> for the loss of a loved one.	to provide sth good to balance or reduce the bad effects of damage, loss, etc.  补偿
+The Internet Group Protocol (IGMP) is used by hosts and routers that support <b>multicasting</b> of IP datagrams.	to send data across a computer network to several users at the same time  多播
+I learnt that this house had <b>formerly</b> been a inn.	in early times; previously  以前，从前
+I learnt that this house had formerly been a <b>inn</b>.	客栈
+The TCP/IP protocol suite <b>supplants</b> those old proprietary networking protocols.	supplant:  to take the place of sb/sth  取代，替代
