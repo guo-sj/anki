@@ -1,40 +1,48 @@
-<b>time</b> <b>off</b>	休假
-Why did she <b>turn</b> <b>down</b> your invitation?	to reject or refuse to consider an offer, proposal, etc. or the person who makes it  拒绝
-We're trying to cut down on the amount of <b>paperwork</b> involved.	the written work that is part of a job, such as filling in forms or writing letters and reports  文书工作
-She's on the local <b>council</b>.	a group of people who are elected to govern an area such as a city or country （市、郡等的）政务委员会
-the New York <b>metropolitan</b> area	connected with a large or capital city 大城市的，大都市的
-<b>up-to-date</b> technology	modern; fashionable    最新的
-He received the award <b>in</b> <b>recognition</b> <b>of</b> his success over the past years.	public praise and reward for sb's work or actions  赞赏，奖赏   这个短语的意思是：“<b>做为……奖赏</b>”
-set up an <b>appointment</b>	a formal arrangement to meet or visit sb at a particular time, especially for a reason connected with their work  约会，预约  这个短语的意思是：“<b>发起一个预约</b>”
-<b>a law firm</b>	<b>律师事务所</b>
-pizza <b>topping</b>	a layer of food that you put on top of a dish, cake, etc. to add flavour or to make it look nice  （菜肴、蛋糕等上的）浇汁，浇料。这里指的是：“<b>披萨上的料</b>”
-We asked <b>attendees</b> to vote for the dish they liked the best.	attendee:  a person who attends a meeting, etc.  出席者
-fig	无花果
-a restaurant capable of seating 100 <b>diners</b>	diner:  a person eating a meal, especially in a restaurant  用餐者
-cooking <b>instructor</b>	a person whose job is to teach sb a practical skill or sport  教练
-<b>sweet</b> <b>potato</b>	红薯
-<b>walnut</b>	核桃
-<b>eggplant</b>	茄子
-<b>hustler</b>	a person who tries to trick sb into giving them money  耍诡计骗钱的人
-<b>hustler</b>	a prostitute  妓女
-Could you <b>hand</b> these books <b>out</b>, please?	to give a number of things to the members of a group  分发某物
-They sell a wide range of domestic <b>appliances</b> - washing machines, dishwashers, and so forth.	a machine that is designed to do a particular thing in the home, such as preparing food, heating or cleaning  （家用）电器
-They sell a wide range of <b>domestic</b> appliances - washing machines, dishwashers, and so forth.	used in the home, connected with the home or family  家用的，家庭的
-Dale Department Store will have a speical sale on jewelry <b>immediately</b> <b>before</b> the holidays.	immediately before:  紧接在……之前
-a <b>figurative</b> artist	(of paintings, art, etc.) showing people, animals and objects as they really look  形象的  这个短语的意思是：“<b>形象艺术家</b>”
-Move-It Storage provides a variety of container sizes to help store <b>belongings</b> compactly.	the things that you own which can be moved, for example not land or buildings  动产，财物
-Until last month Kanyan, Inc., <b>manufactured</b> farming equipment for CEK Agriculture.	manufacture:  to make goods in large quantities, using machinery  （用机器）大量生产
-outstanding <b>durability</b>	durable:  likely to last for a long time without breaking or getting weaker 耐用的。这里是名词，意思是“<b>耐用性</b>”
-The area has good natural <b>drainage</b>.	the process by which water or liquid waste is drained from an area  排水（系统）
-Make sure that the product <b>carton</b> contains all the parts needed.	a large container in which goods are packed in smaller containers  （内装小盒的）大包装盒
-Verify that the site you have chosen is <b>generally</b> flat.	in most cases  大体上。这句话的意思是：“确保你所选择的地点（的地势）是大体上平缓的。”
-We meet <b>regularly</b> to discuss the progress of the project.	at regular intervals or times  有规律地
-Please complete the <b>enclosed</b> application form.	sent with a letter, etc.  附上的
-Please complete the enclosed <b>application</b> form.	a formal (often written) request for sth, such as a job, permission to do sth or a place at a college or university  申请，请求
-Let's have lunch out on the <b>patio</b>.	a flat hard area outside, and usually behind, a house where people can sit （房屋外面或后面的）露台，平台
-There are toilets at both front and <b>rear</b> of the plane.	the back part of sth  后部
-Your application will be kept <b>on</b> <b>file</b>.	归档
-During the week <b>prior</b> <b>to</b> the meeting	before sth  在……之前
-<b>enclosure</b>	something that is placed in an envelop with a letter  附件
-<b>refurbished</b> microsoft surface	to clean and decorate sth, in order to make it more attractive, more useful, etc.  翻新
-A town's <b>newsletter</b>	a printed report containing news of the activities of a club or organization that is sent regularity to all its members  （某组织的）内部通讯
+<b>time</b> <b>off</b>	休假	toeic
+Why did she <b>turn</b> <b>down</b> your invitation?	to reject or refuse to consider an offer, proposal, etc. or the person who makes it  拒绝	toeic
+We're trying to cut down on the amount of <b>paperwork</b> involved.	the written work that is part of a job, such as filling in forms or writing letters and reports  文书工作	toeic
+She's on the local <b>council</b>.	a group of people who are elected to govern an area such as a city or country （市、郡等的）政务委员会	toeic
+the New York <b>metropolitan</b> area	connected with a large or capital city 大城市的，大都市的	toeic
+<b>up-to-date</b> technology	modern; fashionable    最新的	toeic
+He received the award <b>in</b> <b>recognition</b> <b>of</b> his success over the past years.	public praise and reward for sb's work or actions  赞赏，奖赏   这个短语的意思是：“<b>做为……奖赏</b>”	toeic
+set up an <b>appointment</b>	a formal arrangement to meet or visit sb at a particular time, especially for a reason connected with their work  约会，预约  这个短语的意思是：“<b>发起一个预约</b>”	toeic
+<b>a law firm</b>	<b>律师事务所</b>	toeic
+pizza <b>topping</b>	a layer of food that you put on top of a dish, cake, etc. to add flavour or to make it look nice  （菜肴、蛋糕等上的）浇汁，浇料。这里指的是：“<b>披萨上的料</b>”	toeic
+We asked <b>attendees</b> to vote for the dish they liked the best.	attendee:  a person who attends a meeting, etc.  出席者	toeic
+fig	无花果	toeic
+a restaurant capable of seating 100 <b>diners</b>	diner:  a person eating a meal, especially in a restaurant  用餐者	toeic
+cooking <b>instructor</b>	a person whose job is to teach sb a practical skill or sport  教练	toeic
+<b>sweet</b> <b>potato</b>	红薯	toeic
+<b>walnut</b>	核桃	toeic
+<b>eggplant</b>	茄子	toeic
+<b>hustler</b>	a person who tries to trick sb into giving them money  耍诡计骗钱的人	toeic
+<b>hustler</b>	a prostitute  妓女	toeic
+Could you <b>hand</b> these books <b>out</b>, please?	to give a number of things to the members of a group  分发某物	toeic
+They sell a wide range of domestic <b>appliances</b> - washing machines, dishwashers, and so forth.	a machine that is designed to do a particular thing in the home, such as preparing food, heating or cleaning  （家用）电器	toeic
+They sell a wide range of <b>domestic</b> appliances - washing machines, dishwashers, and so forth.	used in the home, connected with the home or family  家用的，家庭的	toeic
+Dale Department Store will have a speical sale on jewelry <b>immediately</b> <b>before</b> the holidays.	immediately before:  紧接在……之前	toeic
+a <b>figurative</b> artist	(of paintings, art, etc.) showing people, animals and objects as they really look  形象的  这个短语的意思是：“<b>形象艺术家</b>”	toeic
+Move-It Storage provides a variety of container sizes to help store <b>belongings</b> compactly.	the things that you own which can be moved, for example not land or buildings  动产，财物	toeic
+Until last month Kanyan, Inc., <b>manufactured</b> farming equipment for CEK Agriculture.	manufacture:  to make goods in large quantities, using machinery  （用机器）大量生产	toeic
+outstanding <b>durability</b>	durable:  likely to last for a long time without breaking or getting weaker 耐用的。这里是名词，意思是“<b>耐用性</b>”	toeic
+The area has good natural <b>drainage</b>.	the process by which water or liquid waste is drained from an area  排水（系统）	toeic
+Make sure that the product <b>carton</b> contains all the parts needed.	a large container in which goods are packed in smaller containers  （内装小盒的）大包装盒	toeic
+Verify that the site you have chosen is <b>generally</b> flat.	in most cases  大体上。这句话的意思是：“确保你所选择的地点（的地势）是大体上平缓的。”	toeic
+We meet <b>regularly</b> to discuss the progress of the project.	at regular intervals or times  有规律地	toeic
+Please complete the <b>enclosed</b> application form.	sent with a letter, etc.  附上的	toeic
+Please complete the enclosed <b>application</b> form.	a formal (often written) request for sth, such as a job, permission to do sth or a place at a college or university  申请，请求	toeic
+Let's have lunch out on the <b>patio</b>.	a flat hard area outside, and usually behind, a house where people can sit （房屋外面或后面的）露台，平台	toeic
+There are toilets at both front and <b>rear</b> of the plane.	the back part of sth  后部	toeic
+Your application will be kept <b>on</b> <b>file</b>.	归档	toeic
+During the week <b>prior</b> <b>to</b> the meeting	before sth  在……之前	toeic
+<b>enclosure</b>	something that is placed in an envelop with a letter  附件	toeic
+<b>refurbished</b> microsoft surface	to clean and decorate sth, in order to make it more attractive, more useful, etc.  翻新	toeic
+A town's <b>newsletter</b>	a printed report containing news of the activities of a club or organization that is sent regularity to all its members  （某组织的）内部通讯	toeic
+the spring/fall <b>semester</b>	one of the two periods that the school or college year is divided into  学期	toeic
+experience as a <b>bookkeeper</b>	a person whose job is to keep an accurate record of the accounts of a business	簿记员	toeic
+The campaign needs an effective <b>coordinator</b>.	coordinate:  to organize the different parts of an activity and the people involved in it so that it works well 协调。这里是名词，意思是“<b>协调人</b>”	toeic
+to finalize your plans  to complete the last part of a plan, trip, project, etc.  把（计划、旅行、项目等）最后定下来	toeic
+reading comprehension <b>quizzes</b>	quiz:  an informal test given to students 小测验。这里是复数，双写“zz”加“es”	toeic
+All reports are <b>vetted</b> before publication.	vet:  to check the contents, quality, etc. of sth carefully  仔细检查	toeic
+<b>faculty</b> members	all the teachers of a particular university or college  （某高等院校的）全体教师	toeic
+The work failed to meet their <b>rigorous</b> standards.	demanding that particular rules, processes, etc. are strictly followed  严格的	toeic
