@@ -1,0 +1,4 @@
+It's the job of the police to <b>enforce</b> the law.	to make sure that people obey a particular law or rule  强制执行
+Some of the function <b>synopses</b> in this book ...	synopsis:  a summary of a piece of writing, a play, etc.  （著作、剧本等）大纲，提要。我们经常在Linux man 手册中见到这个词，不信的话，在Linux命令行中输入：“man 3 printf”。这里是它的复数形式“<b>synopses</b>”
+a wide <b>assortment</b> of gifts to choose from	a collection of different things or of different types of the same thing  各种各样（的东西）
+'writ' is the <b>stem</b> of the forms 'writes', 'writing' and 'written'.	the main part of a word that stays the same when endings are added to it  词干
