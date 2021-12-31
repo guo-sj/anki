@@ -2,3 +2,8 @@ It's the job of the police to <b>enforce</b> the law.	to make sure that people o
 Some of the function <b>synopses</b> in this book ...	synopsis:  a summary of a piece of writing, a play, etc.  （著作、剧本等）大纲，提要。我们经常在Linux man 手册中见到这个词，不信的话，在Linux命令行中输入：“man 3 printf”。这里是它的复数形式“<b>synopses</b>”
 a wide <b>assortment</b> of gifts to choose from	a collection of different things or of different types of the same thing  各种各样（的东西）
 'writ' is the <b>stem</b> of the forms 'writes', 'writing' and 'written'.	the main part of a word that stays the same when endings are added to it  词干
+<b>Scalar</b> variable	having size but no direction  标量
+The initialization is done once, <b>conceptually</b> before the program begins execution.	related to or based on ideas  概念上的  这里是副词，意思是：“从概念上来说……”
+<b>In effect</b>, the two system are identical.	used when you are starting what the facts of a situation are 实际上
+In effect, initializations of automatic variables are just <b>shorthand</b> for assignment statements.	a shorter way of saying or referring to sth, which may not be as accurate as the more complicated way of saying it  （对某事）简略的表达方式。这句话的意思是：“在C中，int i = 1 只是int i; i = 1; 的简略表达”
+I've seen him <b>somewhere</b> before.	in, at or to a place that you do not know or do not mention by name  在某处，到某处
