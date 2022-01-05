@@ -17,3 +17,20 @@ The term "cookie" is an <b>allusion</b> to a Unix program called Fortune Cookie 
 a <b>replica</b> of the Eiffel Tower	a very good or exact copy of sth  仿制品  这个短语的意思是“埃菲尔铁塔的仿制品”
 Subsequent experiments failed to <b>replicate</b> these findings.	to copy sth exactly  复制
 <b>transient</b> nature of speech	continuing for only a short time  转瞬即逝的。同义词有“fleeting”，“temporary”。这个短语的意思是：“言语的即逝性”
+Water is a precious <b>commodity</b> that is often taken granted in the West.	a thing that is useful or has a useful quality  有用的东西
+cache	a part of a computer's memory that stores copies of data that is often needed while a program is running. This data can be accessed very quickly.  高速缓冲存储器。这里是名词形式。
+This page is <b>cached</b>.	to store data in a cache  把（数据）存入高速缓冲存储器。这里是动词形式。
+code <b>refactoring</b>	refactor:  restructure (the source code of an application or piece of software) so as to improve operation without altering functionality  （代码）重构
+a little <b>cluster</b> of houses	a group of people, animals or things close together  （人、动物或物品的）群，团
+The sun had <b>melted</b> the snow.	to become or make sth become liquid as a result of heating  （使）熔化
+<b>optimal</b> performance	the best possible; produce the best possible results  最佳的。等同于单词“<b>optimum</b>”
+<b>vacuum</b> cleaner	a space that is completely empty of all substances, including all air or other gas  真空。这个短语的意思是“真空吸尘器”
+Police <b>evacuated</b> nearby buildings.	to move people from a place of danger to a safer place （把人从危险的地方）疏散，撤离
+a <b>needle</b> and thread	a small thin piece of steel that you use for sewing, with a point at one end and a hole for the thread at the other  针。这个短语的意思是“<b>针线</b>”
+<b>haystack</b>	a large pile of HAY, used as a way of storing it until it is needed  干草堆
+Searching for one man in this city is like looking for a <b>needle in a haystack</b>.	a thing that is almost impossible to find  草垛里的针，也就是我们常说的“<b>大海捞针</b>”
+a carefully <b>orchestrated</b> publicity campaign	orchestrate:  to organize a complicated plan or event very carefully or secretly  精心安排
+Mailing lists are updated <b>periodically</b>.	periodic:  happening fairly often and regularly  周期的。这里是副词：“<b>周期地</b>”
+We are <b>mostly</b> out on Sundays.	mainly, generally  主要地，通常地
+The world's resources are rapidly <b>diminishing</b>.	diminish:  to become or to make sth become smaller, weaker, etc. 减少，减弱
+His injuries are <b>severe</b>.	extremely bad or serious  极为恶劣的，极为严重的
