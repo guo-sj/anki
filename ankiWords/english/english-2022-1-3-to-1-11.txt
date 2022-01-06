@@ -34,3 +34,22 @@ Mailing lists are updated <b>periodically</b>.	periodic:  happening fairly often
 We are <b>mostly</b> out on Sundays.	mainly, generally  主要地，通常地
 The world's resources are rapidly <b>diminishing</b>.	diminish:  to become or to make sth become smaller, weaker, etc. 减少，减弱
 His injuries are <b>severe</b>.	extremely bad or serious  极为恶劣的，极为严重的
+She has <b>neglected</b> her studies.	neglect:  to not give enough attention to sth  忽视，忽略
+<b>Pernicious</b> change trades simplicity for its shallow cousin, convenience.	having a very harmful effect on sb/sth, especially in a way that is gradual and not easily notice  有害的（尤其是潜移默化的）
+What looks obvious in <b>hindsight</b> was not at all obvious at the time.	the understanding that you have of a situation only after it has happened and that means you would have done things in a different way  事后的领悟。这句话的意思是：“事后一目了然的事情在当时根本看不清”
+Go has the <b>immutable</b> strings in which text is generally encoded in UTF-8.	that cannot be changed; that will never change  不可改变的
+The project seemed <b>unlikely</b> to succeed.	not likely to happen; not probable  不太可能发生的。注意，“unlikely”是一个形容词
+She spent all her <b>inheritance</b> in a year.	the money, property, etc. that you receive from sb when they die  遗产，继承
+the <b>plague</b> of AIDS	any infectious disease that kills a lot of people  死亡率高的传染病，瘟疫
+a <b>coherent</b> explanation	logical and well organized; easy to understand and clear  有条理的
+There is no airport in the <b>locality</b>.	the area that surrounds the place you are in or are talking about  （围绕所处或提及的）地区
+<b>benchmark</b>	sth that can be measured and used as a standard that other things can be compared with 基准
+It's absolutely <b>imperative</b> that we finish by next week.	very important and needing immediate attention or action  重要紧急的
+a politician who <b>embodied</b> the hopes of black youth	embody:  to express or represent an idea or a quality  代表，体现
+Remember to <b>factor</b> in staffing costs when you are planning the project.	to include a particular fact or situation when you are thinking about or planning sth  把...因素包括进去
+Declaring a standard format by <b>fiat</b>.	an official order given by sb in authority  （当权者的）法令，命令
+a <b>quadratic</b> equation	involving an unknown quantity that is multiplied by itself once only  平方的。这个短语的意思是“二次方程式”
+Your request will be dealt with <b>in due course</b>.	at the right time and not before  在适当的时候
+Buying new furniture may prove too <b>costly</b>.	costing a lot of money, especially more than you want to pay  花钱多的。注意，这里的词性是<b>形容词</b>
+<b>monotonic functions</b>	（数学中的）单调函数
+He took a <b>gulp</b> of coffee.	an amount of sth that you swallow or drink quickly  一大口
