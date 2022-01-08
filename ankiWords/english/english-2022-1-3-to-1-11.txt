@@ -1,55 +1,55 @@
-flexible data <b>placement</b>	the act of placing sth somewhere  （对物件的）安置，放置
-a <b>blob</b> of ink	a small amount or drop of sth, especially a liquid; a small area of colour  （尤指液体的）一点，一滴
-Our plans are fairly <b>elastic</b>.	that can change or be changed 灵活的，弹性的
-They should stop <b>offloading</b> waste from oil tankers into the sea.	offload:  to get rid of sth/sb that you do not need or want by passing it/them to sb else  把（担子等）转移（给别人），减轻（负担）
-<b>in-house</b> language training	existing or happening within a company or an organization  （公司或机构）内部存在的，这个短语的意思是：“公司内的语言训练”
-the accidental <b>erasure</b> of important computer files.	the act of removing or destroying sth  擦掉，删除
-The theatre has a seating <b>capacity</b> of 2000.	the number of things or people that a container or space can hold  容纳能力
-<b>seaweed</b>	a plant that grows in the sea or ocean, or on rocks at the edge of the sea or ocean.  海草
-A CD <b>drive</b>	the part of a computer that reads and stores information on disks or tapes  驱动器
-to <b>vault</b> a fence	to jump over an object in a single movement, using your hands or a pole to push you  （用手支撑或撑杆）跳跃
-<b>author</b> the contents of a website	to be the author of a book, report, etc. 编写
-<b>representational</b> state transfer (REST)	(especially of a style of art or painting) trying to show things as they really are 具象派的
-She has played with great <b>consistency</b> all season.	the quality of always behaving in the same way or of having the same opinions, standard, etc.  一致的，连贯的
-a layer of <b>compacted</b> snow	compact:  to press sth together firmly  把...紧压在一起（或压实）。这里是“compact”动词的意思。这个短语的意思是“压紧的一层雪”
-a plastic <b>bucket</b>	an open container with a handle, used for carrying or holding liquids, sand, etc.  桶
-The term "cookie" is an <b>allusion</b> to a Unix program called Fortune Cookie that produces a different message.	sth that is said or written that refers to or mentions another person or subject in an indirect way  暗指
-a <b>replica</b> of the Eiffel Tower	a very good or exact copy of sth  仿制品  这个短语的意思是“埃菲尔铁塔的仿制品”
-Subsequent experiments failed to <b>replicate</b> these findings.	to copy sth exactly  复制
-<b>transient</b> nature of speech	continuing for only a short time  转瞬即逝的。同义词有“fleeting”，“temporary”。这个短语的意思是：“言语的即逝性”
-Water is a precious <b>commodity</b> that is often taken granted in the West.	a thing that is useful or has a useful quality  有用的东西
-cache	a part of a computer's memory that stores copies of data that is often needed while a program is running. This data can be accessed very quickly.  高速缓冲存储器。这里是名词形式。
-This page is <b>cached</b>.	to store data in a cache  把（数据）存入高速缓冲存储器。这里是动词形式。
-code <b>refactoring</b>	refactor:  restructure (the source code of an application or piece of software) so as to improve operation without altering functionality  （代码）重构
-a little <b>cluster</b> of houses	a group of people, animals or things close together  （人、动物或物品的）群，团
-The sun had <b>melted</b> the snow.	to become or make sth become liquid as a result of heating  （使）熔化
-<b>optimal</b> performance	the best possible; produce the best possible results  最佳的。等同于单词“<b>optimum</b>”
-<b>vacuum</b> cleaner	a space that is completely empty of all substances, including all air or other gas  真空。这个短语的意思是“真空吸尘器”
-Police <b>evacuated</b> nearby buildings.	to move people from a place of danger to a safer place （把人从危险的地方）疏散，撤离
-a <b>needle</b> and thread	a small thin piece of steel that you use for sewing, with a point at one end and a hole for the thread at the other  针。这个短语的意思是“<b>针线</b>”
-<b>haystack</b>	a large pile of HAY, used as a way of storing it until it is needed  干草堆
-Searching for one man in this city is like looking for a <b>needle in a haystack</b>.	a thing that is almost impossible to find  草垛里的针，也就是我们常说的“<b>大海捞针</b>”
-a carefully <b>orchestrated</b> publicity campaign	orchestrate:  to organize a complicated plan or event very carefully or secretly  精心安排
-Mailing lists are updated <b>periodically</b>.	periodic:  happening fairly often and regularly  周期的。这里是副词：“<b>周期地</b>”
-We are <b>mostly</b> out on Sundays.	mainly, generally  主要地，通常地
-The world's resources are rapidly <b>diminishing</b>.	diminish:  to become or to make sth become smaller, weaker, etc. 减少，减弱
-His injuries are <b>severe</b>.	extremely bad or serious  极为恶劣的，极为严重的
-She has <b>neglected</b> her studies.	neglect:  to not give enough attention to sth  忽视，忽略
-<b>Pernicious</b> change trades simplicity for its shallow cousin, convenience.	having a very harmful effect on sb/sth, especially in a way that is gradual and not easily notice  有害的（尤其是潜移默化的）
-What looks obvious in <b>hindsight</b> was not at all obvious at the time.	the understanding that you have of a situation only after it has happened and that means you would have done things in a different way  事后的领悟。这句话的意思是：“事后一目了然的事情在当时根本看不清”
-Go has the <b>immutable</b> strings in which text is generally encoded in UTF-8.	that cannot be changed; that will never change  不可改变的
-The project seemed <b>unlikely</b> to succeed.	not likely to happen; not probable  不太可能发生的。注意，“unlikely”是一个形容词
-She spent all her <b>inheritance</b> in a year.	the money, property, etc. that you receive from sb when they die  遗产，继承
-the <b>plague</b> of AIDS	any infectious disease that kills a lot of people  死亡率高的传染病，瘟疫
-a <b>coherent</b> explanation	logical and well organized; easy to understand and clear  有条理的
-There is no airport in the <b>locality</b>.	the area that surrounds the place you are in or are talking about  （围绕所处或提及的）地区
-<b>benchmark</b>	sth that can be measured and used as a standard that other things can be compared with 基准
-It's absolutely <b>imperative</b> that we finish by next week.	very important and needing immediate attention or action  重要紧急的
-a politician who <b>embodied</b> the hopes of black youth	embody:  to express or represent an idea or a quality  代表，体现
-Remember to <b>factor</b> in staffing costs when you are planning the project.	to include a particular fact or situation when you are thinking about or planning sth  把...因素包括进去
-Declaring a standard format by <b>fiat</b>.	an official order given by sb in authority  （当权者的）法令，命令
-a <b>quadratic</b> equation	involving an unknown quantity that is multiplied by itself once only  平方的。这个短语的意思是“二次方程式”
-Your request will be dealt with <b>in due course</b>.	at the right time and not before  在适当的时候
-Buying new furniture may prove too <b>costly</b>.	costing a lot of money, especially more than you want to pay  花钱多的。注意，这里的词性是<b>形容词</b>
-<b>monotonic functions</b>	（数学中的）单调函数
-He took a <b>gulp</b> of coffee.	an amount of sth that you swallow or drink quickly  一大口
+flexible data <b>placement</b>	the act of placing sth somewhere  （对物件的）安置，放置	LongTermLearning
+a <b>blob</b> of ink	a small amount or drop of sth, especially a liquid; a small area of colour  （尤指液体的）一点，一滴	LongTermLearning
+Our plans are fairly <b>elastic</b>.	that can change or be changed 灵活的，弹性的	LongTermLearning
+They should stop <b>offloading</b> waste from oil tankers into the sea.	offload:  to get rid of sth/sb that you do not need or want by passing it/them to sb else  把（担子等）转移（给别人），减轻（负担）	LongTermLearning
+<b>in-house</b> language training	existing or happening within a company or an organization  （公司或机构）内部存在的，这个短语的意思是：“公司内的语言训练”	LongTermLearning
+the accidental <b>erasure</b> of important computer files.	the act of removing or destroying sth  擦掉，删除	LongTermLearning
+The theatre has a seating <b>capacity</b> of 2000.	the number of things or people that a container or space can hold  容纳能力	LongTermLearning
+<b>seaweed</b>	a plant that grows in the sea or ocean, or on rocks at the edge of the sea or ocean.  海草	LongTermLearning
+A CD <b>drive</b>	the part of a computer that reads and stores information on disks or tapes  驱动器	LongTermLearning
+to <b>vault</b> a fence	to jump over an object in a single movement, using your hands or a pole to push you  （用手支撑或撑杆）跳跃	LongTermLearning
+<b>author</b> the contents of a website	to be the author of a book, report, etc. 编写	LongTermLearning
+<b>representational</b> state transfer (REST)	(especially of a style of art or painting) trying to show things as they really are 具象派的	LongTermLearning
+She has played with great <b>consistency</b> all season.	the quality of always behaving in the same way or of having the same opinions, standard, etc.  一致的，连贯的	LongTermLearning
+a layer of <b>compacted</b> snow	compact:  to press sth together firmly  把...紧压在一起（或压实）。这里是“compact”动词的意思。这个短语的意思是“压紧的一层雪”	LongTermLearning
+a plastic <b>bucket</b>	an open container with a handle, used for carrying or holding liquids, sand, etc.  桶	LongTermLearning
+The term "cookie" is an <b>allusion</b> to a Unix program called Fortune Cookie that produces a different message.	sth that is said or written that refers to or mentions another person or subject in an indirect way  暗指	LongTermLearning
+a <b>replica</b> of the Eiffel Tower	a very good or exact copy of sth  仿制品  这个短语的意思是“埃菲尔铁塔的仿制品”	LongTermLearning
+Subsequent experiments failed to <b>replicate</b> these findings.	to copy sth exactly  复制	LongTermLearning
+<b>transient</b> nature of speech	continuing for only a short time  转瞬即逝的。同义词有“fleeting”，“temporary”。这个短语的意思是：“言语的即逝性”	LongTermLearning
+Water is a precious <b>commodity</b> that is often taken granted in the West.	a thing that is useful or has a useful quality  有用的东西	LongTermLearning
+cache	a part of a computer's memory that stores copies of data that is often needed while a program is running. This data can be accessed very quickly.  高速缓冲存储器。这里是名词形式。	LongTermLearning
+This page is <b>cached</b>.	to store data in a cache  把（数据）存入高速缓冲存储器。这里是动词形式。	LongTermLearning
+code <b>refactoring</b>	refactor:  restructure (the source code of an application or piece of software) so as to improve operation without altering functionality  （代码）重构	LongTermLearning
+a little <b>cluster</b> of houses	a group of people, animals or things close together  （人、动物或物品的）群，团	LongTermLearning
+The sun had <b>melted</b> the snow.	to become or make sth become liquid as a result of heating  （使）熔化	LongTermLearning
+<b>optimal</b> performance	the best possible; produce the best possible results  最佳的。等同于单词“<b>optimum</b>”	LongTermLearning
+<b>vacuum</b> cleaner	a space that is completely empty of all substances, including all air or other gas  真空。这个短语的意思是“真空吸尘器”	LongTermLearning
+Police <b>evacuated</b> nearby buildings.	to move people from a place of danger to a safer place （把人从危险的地方）疏散，撤离	LongTermLearning
+a <b>needle</b> and thread	a small thin piece of steel that you use for sewing, with a point at one end and a hole for the thread at the other  针。这个短语的意思是“<b>针线</b>”	LongTermLearning
+<b>haystack</b>	a large pile of HAY, used as a way of storing it until it is needed  干草堆	LongTermLearning
+Searching for one man in this city is like looking for a <b>needle in a haystack</b>.	a thing that is almost impossible to find  草垛里的针，也就是我们常说的“<b>大海捞针</b>”	LongTermLearning
+a carefully <b>orchestrated</b> publicity campaign	orchestrate:  to organize a complicated plan or event very carefully or secretly  精心安排	LongTermLearning
+Mailing lists are updated <b>periodically</b>.	periodic:  happening fairly often and regularly  周期的。这里是副词：“<b>周期地</b>”	LongTermLearning
+We are <b>mostly</b> out on Sundays.	mainly, generally  主要地，通常地	LongTermLearning
+The world's resources are rapidly <b>diminishing</b>.	diminish:  to become or to make sth become smaller, weaker, etc. 减少，减弱	LongTermLearning
+His injuries are <b>severe</b>.	extremely bad or serious  极为恶劣的，极为严重的	LongTermLearning
+She has <b>neglected</b> her studies.	neglect:  to not give enough attention to sth  忽视，忽略	LongTermLearning
+<b>Pernicious</b> change trades simplicity for its shallow cousin, convenience.	having a very harmful effect on sb/sth, especially in a way that is gradual and not easily notice  有害的（尤其是潜移默化的）	LongTermLearning
+What looks obvious in <b>hindsight</b> was not at all obvious at the time.	the understanding that you have of a situation only after it has happened and that means you would have done things in a different way  事后的领悟。这句话的意思是：“事后一目了然的事情在当时根本看不清”	LongTermLearning
+Go has the <b>immutable</b> strings in which text is generally encoded in UTF-8.	that cannot be changed; that will never change  不可改变的	LongTermLearning
+The project seemed <b>unlikely</b> to succeed.	not likely to happen; not probable  不太可能发生的。注意，“unlikely”是一个形容词	LongTermLearning
+She spent all her <b>inheritance</b> in a year.	the money, property, etc. that you receive from sb when they die  遗产，继承	LongTermLearning
+the <b>plague</b> of AIDS	any infectious disease that kills a lot of people  死亡率高的传染病，瘟疫	LongTermLearning
+a <b>coherent</b> explanation	logical and well organized; easy to understand and clear  有条理的	LongTermLearning
+There is no airport in the <b>locality</b>.	the area that surrounds the place you are in or are talking about  （围绕所处或提及的）地区	LongTermLearning
+<b>benchmark</b>	sth that can be measured and used as a standard that other things can be compared with 基准	LongTermLearning
+It's absolutely <b>imperative</b> that we finish by next week.	very important and needing immediate attention or action  重要紧急的	LongTermLearning
+a politician who <b>embodied</b> the hopes of black youth	embody:  to express or represent an idea or a quality  代表，体现	LongTermLearning
+Remember to <b>factor</b> in staffing costs when you are planning the project.	to include a particular fact or situation when you are thinking about or planning sth  把...因素包括进去	LongTermLearning
+Declaring a standard format by <b>fiat</b>.	an official order given by sb in authority  （当权者的）法令，命令	LongTermLearning
+a <b>quadratic</b> equation	involving an unknown quantity that is multiplied by itself once only  平方的。这个短语的意思是“二次方程式”	LongTermLearning
+Your request will be dealt with <b>in due course</b>.	at the right time and not before  在适当的时候	LongTermLearning
+Buying new furniture may prove too <b>costly</b>.	costing a lot of money, especially more than you want to pay  花钱多的。注意，这里的词性是<b>形容词</b>	LongTermLearning
+<b>monotonic functions</b>	（数学中的）单调函数	LongTermLearning
+He took a <b>gulp</b> of coffee.	an amount of sth that you swallow or drink quickly  一大口	LongTermLearning
