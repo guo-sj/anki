@@ -6,7 +6,7 @@ under the <b>hood</b>	a part of coat, etc. that you can pull up to cover the bac
 the <b>heterogeneous</b> population of the United States	consisting of many different kinds of people or things  由很多种类组成的；各种各样的
 <b>ellipsis</b>	three dots (...) used to show that a word or words have been left out 省略号
 <b>nefarious</b> activities	criminal; immoral  罪恶的；不道德的
-the <b>intricsic</b> value of education	belonging to or part of the real nature of sth/sb  固有的，内在的
+the <b>intrinsic</b> value of education	belonging to or part of the real nature of sth/sb  固有的，内在的
 This decision <b>signified</b> a radical change in their polices.	signify:  to be a sign of sth  表示，预示
 I was supposed to be writing a letter but I'm afraid I got <b>sidetracked</b>.	sidetrack:  to make sb start to talk about or do sth that is different from the main thing that they are supposed to be talking about or doing  使转移话题，使转移目标
 <b>rune</b>	a symbol that has a mysterious or magic meaning  神秘的符号；有魔力的符号
@@ -18,3 +18,13 @@ a <b>fairly</b> easy book	to some extent but not very  相当地，一定地
 She was exaggerating the true <b>extent</b> of the problem.	how large, important, serious, etc. sth is  程度
 My head is <b>spinning</b>.	to turn round and round quickly; to make sth do this  （使）快速旋转
 the Log Structured Merge Tree <b>aka</b> LSMT	an acronym for "<b>also known as</b>"
+<b>geometry</b>	the branch of mathematics that deals with the measurements and relationships of lines, angles, surfaces and solids  几何（学）
+Some of the rare species that <b>inhabit</b> the area.	to live in a particular place  居住在，栖息于
+the <b>perimeter</b> of a right triangle	the total length of the outside edge of an area or a shape  周长。这个短语的意思是：“一个直角三角形的周长”
+a <b>realistic</b> assessment	accepting in a sensible way what it is actually possible to do or achieve in a particular situation  现实的，实际的
+It's generally your job that <b>dictates</b> where you live now.	to control or influence how sth happen  支配，决定
+He was a tall, <b>ungainly</b> boy of 18.	moving in a way that is not smooth or elegant  笨手笨脚的
+<b>invariant</b>	always the same; never changing  不变的，恒定的
+data <b>compression</b>	compress:  to make computer files, etc. smaller so that they use less space on a disk, etc. 压缩。这里是名词形式，意思是“压缩”
+That function <b>is</b> <b>agnostic</b> <b>about</b> what happens to the result it computes.	it is impossible to know ... 对...是不知道的
+It is a <b>hallmark</b> of object-oirented programming.	a feature or quality that is typical of sb/sth  特征，特点
