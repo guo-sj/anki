@@ -1,2 +1,12 @@
 You can't <b>lump</b> all Asian languages together.	to put or consider different things together in the same group 把……归并在一起（或结合起来考虑）
 2001 space <b>odyssey</b>	a long journey full of experiences  艰苦的跋涉  这个短语的意思是“2001 太空漫游”
+The nearest town is about ten miles <b>upstream</b>.	along a river, in the opposite direction to the way in which the water flows  向（或在）上游
+dictionary <b>lookups</b>	lookup:  an act, process, or instance of looking sth up 查找  这里是名词
+Help to <b>conserve</b> energy by insulating your home.	to use as little of sth as possible so that it lasts a long time  节约  这句话的意思是：对房屋做隔热处理来帮助节约能源
+<b>PS</b>: ...	postscript:  extra facts or information about a story, an event, etc. that are added after it has finished  补充  “PS”是“postscript”的缩写
+The announcement has a <b>dramatic</b> effect on house prises.	(of a change, an event, etc) sudden, very great and often surprising  突然的，巨大的
+The risks to health are impossible to <b>quantify</b>.	to describe or express sth as an amount or number  量化
+He tends to <b>overstate</b> his case when talking politics.	to say sth in a way that makes it seem more important than it really is 夸大
+A <b>characterization</b> of the requests made to Face-book’s photo sharing application.	the way that a writer makes characters in a book or play seem real  刻画，描述
+Because of space constraints our discussion of this previous design <b>elides</b> several details of aproduction-level deployment.	elide:  to leave out the sound of part of a word when you are pronouncing it  省略（词的部分）发音  这里的意思是“省略”
+<b>Regrettably</b>, crime has been increasing in this area.	that you are sorry about and wish had not happened  遗憾的  这里是副词，意思是：“令人遗憾地”
