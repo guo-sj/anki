@@ -10,3 +10,11 @@ He tends to <b>overstate</b> his case when talking politics.	to say sth in a way
 A <b>characterization</b> of the requests made to Face-book’s photo sharing application.	the way that a writer makes characters in a book or play seem real  刻画，描述
 Because of space constraints our discussion of this previous design <b>elides</b> several details of aproduction-level deployment.	elide:  to leave out the sound of part of a word when you are pronouncing it  省略（词的部分）发音  这里的意思是“省略”
 <b>Regrettably</b>, crime has been increasing in this area.	that you are sorry about and wish had not happened  遗憾的  这里是副词，意思是：“令人遗憾地”
+<b>emulator</b>	(of a computer program, etc.) to work in the same way as another computer, etc. and perform the same tasks  仿真
+The rope suddenly went <b>slack</b>.	not stretched tight  不紧的，松弛的
+I've placed an <b>asterisk</b> next to the tasks I want you to do first.	the symbol (*) 星号
+<b>placeholder</b>	a symbol or piece of text which replaces sth that is missing  占位符
+After ten years in the job, she felt <b>stale</b> and needed a change.	a person who is stale has done the same thing for too long and so is unable to do it well or produce any new ideas  （因持续做某事时间太长）厌倦的
+Her order was <b>phrased</b> as a suggestion.	to say or write sth in a particular way （以某种方式）表达，措辞
+The dog ran up, wagging its <b>tail</b>.	the part sticks out and can be moved at the back of the body of a bird, an animal or a fish  尾巴
+The dog ran up, <b>wagging</b> its tail.	wag:  摇动
