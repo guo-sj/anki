@@ -18,3 +18,11 @@ After ten years in the job, she felt <b>stale</b> and needed a change.	a person 
 Her order was <b>phrased</b> as a suggestion.	to say or write sth in a particular way （以某种方式）表达，措辞
 The dog ran up, wagging its <b>tail</b>.	the part sticks out and can be moved at the back of the body of a bird, an animal or a fish  尾巴
 The dog ran up, <b>wagging</b> its tail.	wag:  摇动
+In those days, $20 was <b>not</b> a sum <b>to be sneezed at</b>.	not to be sneezed at:  good enough to be accepted or considered seriously  值得认真对待，不可轻视
+If you're a geek, you have to <b>prostrate</b> yourself in the direction of Bell Labs whenever this book is mentioned.	to lie on your front with your face looking downwards, especially as an act of worship  俯伏，拜倒  这句话中提到的“this book”就是K&R的《The C Programming Language》
+action to <b>mitigate</b> poverty	to make sth less harmful, serious, etc.  减轻，缓和  这个短语的意思是“<b>减轻贫穷的行动</b>”
+Trees <b>shelter</b> the house from the wind.	to give sb/sth a place where they are protected from the weather or from danger; to protect sb/sth  保护，掩藏
+Better <b>insulation</b> of your home will help to reduce heating bills.	the act of protecting sth with a material that prevents heat, sound, electricity, etc. from passing through; the materials used for this  隔热，隔音，绝缘的材料 这句话的意思是：“加强房子的隔热性能有助于减少供暖费用”
+Be <b>proactive</b>.	controlling a situation by making things happen rather than waiting for things to happen and then reacting to them  积极主动的
+She would never <b>intentionally</b> hurt anyone.	do deliberatively 故意地
+This knowledge is the <b>keystone</b> of the Haystack design.	the most important part of a plan or argument that the other parts depend on  （计划、论据的）主旨
