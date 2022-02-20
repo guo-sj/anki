@@ -15,3 +15,42 @@ He was trying to make it look like an attractive <b>proposition</b>.	an idea or 
 the <b>silo</b> model	a tall tower on a farm used for storing grain, etc. （存谷物的）筒仓
 America's <b>grain</b> exports	the small hard seeds of food plants such as wheat, rice, etc. ;a single seed of such a plant  谷物，谷粒  这个短语的意思是：“美国的谷物出口”
 She <b>steered</b> the team to victory.	steer:  to take control of a situation and influence the way in which it develops  引导，带领
+the world's <b>foremost</b> authority on the subject	the most important or famous; in a position at the front  最重要的，最著名的
+Please <b>bill</b> me for the books.	to send sb a bill for sth  开账单，要求付款
+to <b>marshal</b> your thoughts	to gather together and organize the people, things, ideas, etc. that you need for a particular purpose 收集，整理
+The call to Decode <b>populates</b> the variable result.	populate:  to add data to a document （给文件）增添数据 这句话的代码为：err := json.NewDecoder(resp.Body).Decode(&result). 意思是“调用method Decode 把数据放于变量result中”
+a research <b>contract</b>	an official written agreement 合同
+<b>canned</b> food	preseved in a can 罐装的
+the <b>transition</b> from school to full-time work	the process or a period of changing from one state or condition to another  过渡，转变
+Plants won't <b>propagate</b> in these conditions.	to produce new plants from a parent plant  繁殖，增殖
+We still <b>lag</b> far behind many of our competitors in using modern technology.	to move or develop slowly or more slowly than other people, organizations, etc. 落后于
+<b>glacier</b>	a large mass of iec, formed by snow on mountains, that moves very slowly down a valley 冰川
+She spent hours <b>fine-tuning</b> her speech.	fine-tune:  to make very small changes to sth in order to make it work as well as possible  调优
+the <b>efficient</b> use of energy	doing sth well and thoroughly with no waste of time, money, or energy 效率高的
+a <b>slab</b> of chocolate	a thick, flat slice or piece of sth  厚片
+There was <b>ample</b> time to get to the airport.	enough or more than enough  足够的
+I was <b>demoted</b> for writing too few lines of code.	demote:  to move sb to a lower position or rank, often as a punishment  降级，降职
+We <b>outsource</b> all our computing work.	to arrange for sb outside a company to do work or provide goods for that company  外包（出去）
+Buying a house can be a very <b>tiresome</b> business.	making you feel annoyed  讨厌的
+Not a building <b>nor</b> a tree was left standing.	and not 也不
+We <b>sneaked</b> a look at her diary.	sneak:  to do sth or take sb/sth somewhere secretly, often without permission. 偷偷地做……
+a <b>portfolio</b> of wines	the range of products or services offered by a particular company or organization  （公司或机构提供的）系列产品，服务。这个短语的意思是：“系列葡萄酒”
+<b>sibling</b> rivalry	a brother or sister 兄；弟；姐；妹  这个短语的意思是：“兄弟姐妹之间的竞争”
+factory <b>closure</b>	the situation when a factory, school, hospital, etc. shuts permenantly  （永久的）停业，倒闭
+<b>discrete</b> math	independent of other things of the same type 离散的
+The graph is <b>acyclic</b>.	not occurring in cycle  非循环的。这句话的意思是：“这个图没有回路”
+It is <b>deterministic</b>.	determinism:  the belief that people are not free to choose what they are like or how they behave, because these things are decided by their surroundings and other things over which they have no control 客观规律。这里是形容词，意思是：“客观规律决定的”
+There's a spider <b>crawling</b> up your leg.	crawl:  when an insect crawls, it moves forward on its legs  （昆虫）爬行
+Her argument doesn't really stand up to <b>scrutiny</b>.	careful and thorough examination 仔细检查
+We'll have to <b>postpone</b> the meeting until next week.	to arrange for an event, etc. to take place at a later time or date  延期，延迟
+I found the software a bit <b>flaky</b>.	that does not work well or foten stops working  运行不正常的，经常出问题的
+He finally agreed, <b>albeit</b> reluctantly, to help us.	although 尽管
+The cost is <b>immaterial</b>.	not important in a particular situation 不重要的
+We got <b>clobbered</b> in the game on Saturday.	clobber:  to defeat sb completely 彻底战胜（或击败）
+A number of measures were taken to <b>alleviate</b> the problem.	to make sth less severe 减轻，缓和
+<b>stub</b>	the small part of a ticket, cheque, etc. that you keep as a record when you have given the main part to sb  票根
+It was only a <b>partial</b> solution to the problem.	not complete or whole 部分的
+<b>idempotent</b>	denoting an element of a set which is unchanged in value when multiplied or otherwise operated on by itself 幂等 a = a^2 = a^3 ... = a^n
+She was not <b>privy</b> to any information contained in the letters.	allowed to know about sth secret 准许知情
+She <b>aspired</b> to a scientific career.	to have strong desire to achieve or to become sth 渴望（成就）这句话的意思是：“她有志于科学事业”
+Violence is <b>inherent</b> in our society.	that is a basic or permanent part of sb/sth and that cannot be removed.  内在的
