@@ -1,28 +1,28 @@
-You can't <b>lump</b> all Asian languages together.	to put or consider different things together in the same group 把……归并在一起（或结合起来考虑）
-2001 space <b>odyssey</b>	a long journey full of experiences  艰苦的跋涉  这个短语的意思是“2001 太空漫游”
-The nearest town is about ten miles <b>upstream</b>.	along a river, in the opposite direction to the way in which the water flows  向（或在）上游
-dictionary <b>lookups</b>	lookup:  an act, process, or instance of looking sth up 查找  这里是名词
-Help to <b>conserve</b> energy by insulating your home.	to use as little of sth as possible so that it lasts a long time  节约  这句话的意思是：对房屋做隔热处理来帮助节约能源
-<b>PS</b>: ...	postscript:  extra facts or information about a story, an event, etc. that are added after it has finished  补充  “PS”是“postscript”的缩写
-The announcement has a <b>dramatic</b> effect on house prises.	(of a change, an event, etc) sudden, very great and often surprising  突然的，巨大的
-The risks to health are impossible to <b>quantify</b>.	to describe or express sth as an amount or number  量化
-He tends to <b>overstate</b> his case when talking politics.	to say sth in a way that makes it seem more important than it really is 夸大
-A <b>characterization</b> of the requests made to Face-book’s photo sharing application.	the way that a writer makes characters in a book or play seem real  刻画，描述
-Because of space constraints our discussion of this previous design <b>elides</b> several details of aproduction-level deployment.	elide:  to leave out the sound of part of a word when you are pronouncing it  省略（词的部分）发音  这里的意思是“省略”
-<b>Regrettably</b>, crime has been increasing in this area.	that you are sorry about and wish had not happened  遗憾的  这里是副词，意思是：“令人遗憾地”
-<b>emulator</b>	(of a computer program, etc.) to work in the same way as another computer, etc. and perform the same tasks  仿真
-The rope suddenly went <b>slack</b>.	not stretched tight  不紧的，松弛的
-I've placed an <b>asterisk</b> next to the tasks I want you to do first.	the symbol (*) 星号
-<b>placeholder</b>	a symbol or piece of text which replaces sth that is missing  占位符
-After ten years in the job, she felt <b>stale</b> and needed a change.	a person who is stale has done the same thing for too long and so is unable to do it well or produce any new ideas  （因持续做某事时间太长）厌倦的
-Her order was <b>phrased</b> as a suggestion.	to say or write sth in a particular way （以某种方式）表达，措辞
-The dog ran up, wagging its <b>tail</b>.	the part sticks out and can be moved at the back of the body of a bird, an animal or a fish  尾巴
-The dog ran up, <b>wagging</b> its tail.	wag:  摇动
-In those days, $20 was <b>not</b> a sum <b>to be sneezed at</b>.	not to be sneezed at:  good enough to be accepted or considered seriously  值得认真对待，不可轻视
-If you're a geek, you have to <b>prostrate</b> yourself in the direction of Bell Labs whenever this book is mentioned.	to lie on your front with your face looking downwards, especially as an act of worship  俯伏，拜倒  这句话中提到的“this book”就是K&R的《The C Programming Language》
-action to <b>mitigate</b> poverty	to make sth less harmful, serious, etc.  减轻，缓和  这个短语的意思是“<b>减轻贫穷的行动</b>”
-Trees <b>shelter</b> the house from the wind.	to give sb/sth a place where they are protected from the weather or from danger; to protect sb/sth  保护，掩藏
-Better <b>insulation</b> of your home will help to reduce heating bills.	the act of protecting sth with a material that prevents heat, sound, electricity, etc. from passing through; the materials used for this  隔热，隔音，绝缘的材料 这句话的意思是：“加强房子的隔热性能有助于减少供暖费用”
-Be <b>proactive</b>.	controlling a situation by making things happen rather than waiting for things to happen and then reacting to them  积极主动的
-She would never <b>intentionally</b> hurt anyone.	do deliberatively 故意地
-This knowledge is the <b>keystone</b> of the Haystack design.	the most important part of a plan or argument that the other parts depend on  （计划、论据的）主旨
+You can't <b>lump</b> all Asian languages together.	to put or consider different things together in the same group 把……归并在一起（或结合起来考虑）	LongTermLearning
+2001 space <b>odyssey</b>	a long journey full of experiences  艰苦的跋涉  这个短语的意思是“2001 太空漫游”	LongTermLearning
+The nearest town is about ten miles <b>upstream</b>.	along a river, in the opposite direction to the way in which the water flows  向（或在）上游	LongTermLearning
+dictionary <b>lookups</b>	lookup:  an act, process, or instance of looking sth up 查找  这里是名词	LongTermLearning
+Help to <b>conserve</b> energy by insulating your home.	to use as little of sth as possible so that it lasts a long time  节约  这句话的意思是：对房屋做隔热处理来帮助节约能源	LongTermLearning
+<b>PS</b>: ...	postscript:  extra facts or information about a story, an event, etc. that are added after it has finished  补充  “PS”是“postscript”的缩写	LongTermLearning
+The announcement has a <b>dramatic</b> effect on house prises.	(of a change, an event, etc) sudden, very great and often surprising  突然的，巨大的	LongTermLearning
+The risks to health are impossible to <b>quantify</b>.	to describe or express sth as an amount or number  量化	LongTermLearning
+He tends to <b>overstate</b> his case when talking politics.	to say sth in a way that makes it seem more important than it really is 夸大	LongTermLearning
+A <b>characterization</b> of the requests made to Face-book’s photo sharing application.	the way that a writer makes characters in a book or play seem real  刻画，描述	LongTermLearning
+Because of space constraints our discussion of this previous design <b>elides</b> several details of aproduction-level deployment.	elide:  to leave out the sound of part of a word when you are pronouncing it  省略（词的部分）发音  这里的意思是“省略”	LongTermLearning
+<b>Regrettably</b>, crime has been increasing in this area.	that you are sorry about and wish had not happened  遗憾的  这里是副词，意思是：“令人遗憾地”	LongTermLearning
+<b>emulator</b>	(of a computer program, etc.) to work in the same way as another computer, etc. and perform the same tasks  仿真	LongTermLearning
+The rope suddenly went <b>slack</b>.	not stretched tight  不紧的，松弛的	LongTermLearning
+I've placed an <b>asterisk</b> next to the tasks I want you to do first.	the symbol (*) 星号	LongTermLearning
+<b>placeholder</b>	a symbol or piece of text which replaces sth that is missing  占位符	LongTermLearning
+After ten years in the job, she felt <b>stale</b> and needed a change.	a person who is stale has done the same thing for too long and so is unable to do it well or produce any new ideas  （因持续做某事时间太长）厌倦的	LongTermLearning
+Her order was <b>phrased</b> as a suggestion.	to say or write sth in a particular way （以某种方式）表达，措辞	LongTermLearning
+The dog ran up, wagging its <b>tail</b>.	the part sticks out and can be moved at the back of the body of a bird, an animal or a fish  尾巴	LongTermLearning
+The dog ran up, <b>wagging</b> its tail.	wag:  摇动	LongTermLearning
+In those days, $20 was <b>not</b> a sum <b>to be sneezed at</b>.	not to be sneezed at:  good enough to be accepted or considered seriously  值得认真对待，不可轻视	LongTermLearning
+If you're a geek, you have to <b>prostrate</b> yourself in the direction of Bell Labs whenever this book is mentioned.	to lie on your front with your face looking downwards, especially as an act of worship  俯伏，拜倒  这句话中提到的“this book”就是K&R的《The C Programming Language》	LongTermLearning
+action to <b>mitigate</b> poverty	to make sth less harmful, serious, etc.  减轻，缓和  这个短语的意思是“<b>减轻贫穷的行动</b>”	LongTermLearning
+Trees <b>shelter</b> the house from the wind.	to give sb/sth a place where they are protected from the weather or from danger; to protect sb/sth  保护，掩藏	LongTermLearning
+Better <b>insulation</b> of your home will help to reduce heating bills.	the act of protecting sth with a material that prevents heat, sound, electricity, etc. from passing through; the materials used for this  隔热，隔音，绝缘的材料 这句话的意思是：“加强房子的隔热性能有助于减少供暖费用”	LongTermLearning
+Be <b>proactive</b>.	controlling a situation by making things happen rather than waiting for things to happen and then reacting to them  积极主动的	LongTermLearning
+She would never <b>intentionally</b> hurt anyone.	do deliberatively 故意地	LongTermLearning
+This knowledge is the <b>keystone</b> of the Haystack design.	the most important part of a plan or argument that the other parts depend on  （计划、论据的）主旨	LongTermLearning
