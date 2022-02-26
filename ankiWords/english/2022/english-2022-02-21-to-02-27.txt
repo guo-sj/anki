@@ -1,0 +1,18 @@
+<b>latitude</b>	the distance of a place north or south of the equator(赤道), measured in degrees  纬度	LongTermLearning
+the <b>longitude</b> of the island	the distance of a place east or west of the Greenwich Meridian, measured in degrees  经度	LongTermLearning
+The party must adopt more <b>inclusive</b> strategies and a broder vision.	including a wide range of people, things, ideas, etc. 包容广阔的，广泛的	LongTermLearning
+Concurrent programming, the expression of a program as a composition of several <b>autonomous</b> activities, has never been more important that it is today.	able to do things and make decisions without help from anyone else 自主的	LongTermLearning
+Everybody is aware of the <b>hazards</b> of smoking.	a thing that can be dangerous or cause damage 危险；危害	LongTermLearning
+I had an <b>intuition</b> that something awful was about to happen.	an idea or a strong feeling that sth is true although you cannot explain why  直觉	LongTermLearning
+Jack's parents thought the other boys might lead him <b>astray</b>.	to go in the wrong direction or to have the wrong result  误入歧途	LongTermLearning
+<b>quantitative</b> analysis	connected with the amount of number of sth rather than with how good it is  定量的	LongTermLearning
+<b>qualitative</b> research	connected with how good it is rather than how much of it there is  定性的	LongTermLearning
+an <b>abrupt</b> departure	sudden and unexpected, often in an unpleasant way 意外的	LongTermLearning
+Each channel is a <b>conduit</b> for values of a particular type, called the channel's element type.	a pipe, channel, or tube which liquid, gas or electrical wire can pass through 导管，管道	LongTermLearning
+an <b>ingenious</b> device	very suitable for a particular purpose and resulting from clever new ideas 精巧的	LongTermLearning
+<b>nanosecond</b>	one thousand milionth of a second 纳秒， 1s = 1 x 10^9 nanoseconds	LongTermLearning
+the <b>atomic</b> bomb	related to the energy that is produced when atoms are split; related to weapons that use this energy 原子能的；这个短语的意思是：“原子弹”	LongTermLearning
+His nervousness was <b>mainfest</b> to all those present.	easy to see or understand  明显的	LongTermLearning
+She stood hesitating on the <b>threshold</b>.	the floor or ground at the bottom of a DOORWAY, considered as the entrance to a building or room.  门槛	LongTermLearning
+<b>metronome</b>	a device that makes a regular sound like a clock and is used by musicians to help them keep the correct rhythm when playing a piece of music  节拍器	LongTermLearning
+He <b>throttled</b> the guard with his bare hands.	throttle:  to attack or kill sb by squeezing their throat in order to stop them from breathing  使窒息，掐死	LongTermLearning
