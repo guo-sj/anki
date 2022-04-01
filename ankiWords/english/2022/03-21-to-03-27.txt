@@ -1,13 +1,16 @@
-<b>obfuscate</b>	to make sth less clear and more difficult to understand, usually deliberately （故意地）混淆
-the human ability to <b>reason</b>	to use your power to think and understand  思考，理解
-There was an <b>astounding</b> 20% increase in sales.	astounding:  so surprising that it is difficult to believe  令人震惊的
-tunny	tuna 金枪鱼
-<b>Cassandra</b>	a person who predicts that sth bad will happen, especially a person who is not believed  （无人相信的）凶事预言者。源自古希腊神话中的一位公主的名字。阿波罗神给她预言能力，她欺骗阿波罗后，阿波罗使人不再相信她
-In the dark I <b>bumped</b> into a chair.	bump: to hit sb/sth by accident （无意地）碰，撞
-<b>tombstone</b>	a large, flat stone that lies over a grave or stands at one end, that shows the name, age, etc. of the person buried there  墓碑
-<b>introspection</b>	the careful examination of your own thoughts, feelings and reasons for behaving in a particular way. 内省，反省
-The metal container began to <b>emit</b> a clicking sound.	to send out sth such as light, heat, sound, gas, etc. 发出，射出
-<b>stargazer</b>	a person who studies ASTROLOGY and ASTRONOMY 天文学家
-Social tension were <b>manifested</b> in the recent political crisis.	to show sth clearly, especially a feeling, an attitude or a quality  表明，清楚的显示
-<b>subsidiary</b>	子公司
-In the silence we could hear the clock <b>ticking</b>.	(of a clock, etc.) to make short, light, regular repeated sounds to mark time passing  发出嘀嗒的走表声
+<b>obfuscate</b>	to make sth less clear and more difficult to understand, usually deliberately （故意地）混淆	LongTermLearning
+the human ability to <b>reason</b>	to use your power to think and understand  思考，理解	LongTermLearning
+There was an <b>astounding</b> 20% increase in sales.	astounding:  so surprising that it is difficult to believe  令人震惊的	LongTermLearning
+tunny	tuna 金枪鱼	LongTermLearning
+<b>Cassandra</b>	a person who predicts that sth bad will happen, especially a person who is not believed  （无人相信的）凶事预言者。源自古希腊神话中的一位公主的名字。阿波罗神给她预言能力，她欺骗阿波罗后，阿波罗使人不再相信她	LongTermLearning
+In the dark I <b>bumped</b> into a chair.	bump: to hit sb/sth by accident （无意地）碰，撞	LongTermLearning
+<b>tombstone</b>	a large, flat stone that lies over a grave or stands at one end, that shows the name, age, etc. of the person buried there  墓碑	LongTermLearning
+<b>introspection</b>	the careful examination of your own thoughts, feelings and reasons for behaving in a particular way. 内省，反省	LongTermLearning
+The metal container began to <b>emit</b> a clicking sound.	to send out sth such as light, heat, sound, gas, etc. 发出，射出	LongTermLearning
+<b>stargazer</b>	a person who studies ASTROLOGY and ASTRONOMY 天文学家	LongTermLearning
+Social tension were <b>manifested</b> in the recent political crisis.	to show sth clearly, especially a feeling, an attitude or a quality  表明，清楚的显示	LongTermLearning
+<b>subsidiary</b>	子公司	LongTermLearning
+In the silence we could hear the clock <b>ticking</b>.	(of a clock, etc.) to make short, light, regular repeated sounds to mark time passing  发出嘀嗒的走表声	LongTermLearning
+Someone had obviously <b>tampered</b> with the brakes of my car.	tamper:  to make changes to sth without permission, especially in order to damage it  篡改，擅自改动	LongTermLearning
+I spent all morning cleaning and <b>tidying</b>.	tidy:  to make sth look neat by putting things in the place where they belong  使整洁，使整齐	LongTermLearning
+the <b>ubiquitous</b> bicycles of university towns	seeming to be everywhere or in several places at the same time; very common  似乎无所不在的	LongTermLearning
