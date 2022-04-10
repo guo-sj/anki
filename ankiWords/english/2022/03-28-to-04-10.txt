@@ -1,34 +1,34 @@
-A <b>curated</b> list of awesome Go frameworks.	to select organize and look after the objects or works of art in a museum or art gallery, etc.  管理。这里是形容词，意思是“管理的”
-<b>capture</b>	to put sth into a computer in a form it can use 把……输入计算机，采集
-A <b>voracious</b> reader	wanting a lot of new information and knowledge （对信息、知识）渴求的
-He seems to have <b>overlooked</b> one important fact.	overlook:  to fail to see or notice sth  忽略
-Should I drop a <b>hint</b> to Matt?	something that you say or do in an indirect way in order to show sb what you are thinking  暗示
-A <b>whirlwind</b> tour of Python	happening very fast 快速的，匆匆忙忙的
-<b>nomenclature</b>	a system of naming things, especially in a branch of science  （尤指某学科的）命名方法
-<b>prime</b> <b>number</b>	a number that can be divided exactly only by itself and 1 素数
-the many <b>anomalies</b> in the tax system	<b>anomaly</b>:  a thing, situation, etc. that is different from what is normal or expected 异常现象
-course <b>syllabus</b>	a list of the topics, books, etc. that students should study in a particular subject at school or college 教学大纲
-<b>rolling</b> <b>a die</b>	摇色子
-<b>dice</b>	色子
-<b>lumberjack</b>	(especially in the US and Canada) a person whose job is cutting down trees or cutting or transporting wood （尤指美国和加拿大的）伐木工人
-We had to make a <b>detour</b> around the flooded fields.	a longer route that you take in order to avoid a problem or to visit a place  绕路
-It was a shock to discover the truth about his <b>sordid</b> past.	immoral or dishonest  卑鄙的，丑恶的
-a <b>fruitful</b> collaboration	producing many useful results  富有成效的
-a <b>pragmatic</b> approach to management problems	solving problems in a practical and sensible way rather than by having fixed ideas or theories  实用的，讲求实效的
-The meal was <b>ridiculously</b> expensive.	very silly or unreasonable  愚蠢的，荒谬的
-a <b>reassuring</b> smile	making you feel less worried or uncertain about sth  令人放心的
-Would you care to <b>partake</b> <b>of</b> some refreshment?	to eat or drink sth especially sth that is offered to you 吃，喝（别人给人的东西）
-to send an <b>invoice</b> for the goods	a list of goods that have been sold, work that has been done, etc., showing what you must pay. 发票
-<b>python</b>	a very large snake that kills animals for food by wrapping itself around them and crushing them  巨蟒
-everal people were <b>crushed</b> to death in the accident.	<b>crush</b>:  to press or squeeze sth so hard that it is damaged or injured, so loses its shape  压坏，压伤
-an <b>imperative</b> sentence	expressing an order  表示命令的，祈使的。这个短语的意思是“祈使句”
-the central <b>pillar</b> of this theory	a basic part of feature of a system, organization, belief etc.  （组织、制度、信仰等的）核心
-the <b>organic</b> growth of foreign markets	happening in a slow and natural way, rather than suddenly 逐渐的
-<b>moat</b>	a deep wide channel that was dug around a castle, etc. and filled with water to make it more difficult for enemies to attack 护城河
-Gradually factory workers have been <b>displaced</b> by machines.	<b>displace</b>: to take the place of sb/sth 取代
-<b>funnle</b>	a device that is wide at the top and narrow at the bottom, used for pouring liquids or powders into a small opening 漏斗
-The biography <b>weaves</b> together the various strands of Einsteins's life.	<b>weave</b>:  to put facts, events, details, etc. together to make a story or a closely connected whole  （把……）编成
-The biography weaves together the various <b>strands</b> of Einsteins's life.	<b>strand</b>:  one of the different parts of an idea, a plan, a story, etc. （观点，计划，故事等的）部分，方面
-The top and bottom line of each column on the page should <b>align</b>.	to arrange sth in the correct position, or to be in the correct position, in relation to sth else, especially in a straight line 排列
-The cliff face has been steadily <b>eroded</b> by the sea.	<b>erode</b>:  to gradually destroy the surface of sth through the action of wind, rain, etc.; to be gradually destroyed in this way  侵蚀
-tomato <b>sauce</b>	a thick liquid that is eaten with food to add flavour to it  酱料，调味汁
+A <b>curated</b> list of awesome Go frameworks.	to select organize and look after the objects or works of art in a museum or art gallery, etc.  管理。这里是形容词，意思是“管理的”	LongTermLearning
+<b>capture</b>	to put sth into a computer in a form it can use 把……输入计算机，采集	LongTermLearning
+A <b>voracious</b> reader	wanting a lot of new information and knowledge （对信息、知识）渴求的	LongTermLearning
+He seems to have <b>overlooked</b> one important fact.	overlook:  to fail to see or notice sth  忽略	LongTermLearning
+Should I drop a <b>hint</b> to Matt?	something that you say or do in an indirect way in order to show sb what you are thinking  暗示	LongTermLearning
+A <b>whirlwind</b> tour of Python	happening very fast 快速的，匆匆忙忙的	LongTermLearning
+<b>nomenclature</b>	a system of naming things, especially in a branch of science  （尤指某学科的）命名方法	LongTermLearning
+<b>prime</b> <b>number</b>	a number that can be divided exactly only by itself and 1 素数	LongTermLearning
+the many <b>anomalies</b> in the tax system	<b>anomaly</b>:  a thing, situation, etc. that is different from what is normal or expected 异常现象	LongTermLearning
+course <b>syllabus</b>	a list of the topics, books, etc. that students should study in a particular subject at school or college 教学大纲	LongTermLearning
+<b>rolling</b> <b>a die</b>	摇色子	LongTermLearning
+<b>dice</b>	色子	LongTermLearning
+<b>lumberjack</b>	(especially in the US and Canada) a person whose job is cutting down trees or cutting or transporting wood （尤指美国和加拿大的）伐木工人	LongTermLearning
+We had to make a <b>detour</b> around the flooded fields.	a longer route that you take in order to avoid a problem or to visit a place  绕路	LongTermLearning
+It was a shock to discover the truth about his <b>sordid</b> past.	immoral or dishonest  卑鄙的，丑恶的	LongTermLearning
+a <b>fruitful</b> collaboration	producing many useful results  富有成效的	LongTermLearning
+a <b>pragmatic</b> approach to management problems	solving problems in a practical and sensible way rather than by having fixed ideas or theories  实用的，讲求实效的	LongTermLearning
+The meal was <b>ridiculously</b> expensive.	very silly or unreasonable  愚蠢的，荒谬的	LongTermLearning
+a <b>reassuring</b> smile	making you feel less worried or uncertain about sth  令人放心的	LongTermLearning
+Would you care to <b>partake</b> <b>of</b> some refreshment?	to eat or drink sth especially sth that is offered to you 吃，喝（别人给人的东西）	LongTermLearning
+to send an <b>invoice</b> for the goods	a list of goods that have been sold, work that has been done, etc., showing what you must pay. 发票	LongTermLearning
+<b>python</b>	a very large snake that kills animals for food by wrapping itself around them and crushing them  巨蟒	LongTermLearning
+everal people were <b>crushed</b> to death in the accident.	<b>crush</b>:  to press or squeeze sth so hard that it is damaged or injured, so loses its shape  压坏，压伤	LongTermLearning
+an <b>imperative</b> sentence	expressing an order  表示命令的，祈使的。这个短语的意思是“祈使句”	LongTermLearning
+the central <b>pillar</b> of this theory	a basic part of feature of a system, organization, belief etc.  （组织、制度、信仰等的）核心	LongTermLearning
+the <b>organic</b> growth of foreign markets	happening in a slow and natural way, rather than suddenly 逐渐的	LongTermLearning
+<b>moat</b>	a deep wide channel that was dug around a castle, etc. and filled with water to make it more difficult for enemies to attack 护城河	LongTermLearning
+Gradually factory workers have been <b>displaced</b> by machines.	<b>displace</b>: to take the place of sb/sth 取代	LongTermLearning
+<b>funnle</b>	a device that is wide at the top and narrow at the bottom, used for pouring liquids or powders into a small opening 漏斗	LongTermLearning
+The biography <b>weaves</b> together the various strands of Einsteins's life.	<b>weave</b>:  to put facts, events, details, etc. together to make a story or a closely connected whole  （把……）编成	LongTermLearning
+The biography weaves together the various <b>strands</b> of Einsteins's life.	<b>strand</b>:  one of the different parts of an idea, a plan, a story, etc. （观点，计划，故事等的）部分，方面	LongTermLearning
+The top and bottom line of each column on the page should <b>align</b>.	to arrange sth in the correct position, or to be in the correct position, in relation to sth else, especially in a straight line 排列	LongTermLearning
+The cliff face has been steadily <b>eroded</b> by the sea.	<b>erode</b>:  to gradually destroy the surface of sth through the action of wind, rain, etc.; to be gradually destroyed in this way  侵蚀	LongTermLearning
+tomato <b>sauce</b>	a thick liquid that is eaten with food to add flavour to it  酱料，调味汁	LongTermLearning
