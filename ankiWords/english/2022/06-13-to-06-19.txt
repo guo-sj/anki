@@ -1,11 +1,11 @@
-<b>polymorphic</b>	having or passing through many stages of development （发展）呈多种形式的，多态的
-The chairman <b>overrode</b> the committee's objections and signed the agreement.	<b>override</b>:  to use your authority to reject sb's decision, order, etc. （以权力）否决，推翻
-He'll have to learn to <b>pace</b> himself in this job.	to find the right speed or rhythm for your work or an activity so that you have enough energy to do what you have to do 调整自己的工作（或活动）节奏
-a <b>frugal</b> life	using only as much money or food as is necessary （对金钱、食物等）节约的，节俭的
-He's <b>obsessed</b> by computers.	<b>obsess</b>:  to completely fill your mind so that you cannot think of anything else, in a way that is not normal 使痴迷
-The players are <b>barred</b> from drinking alcohol the night before a match.	<b>bar</b>:  to ban or prevent sb from doing sth  禁止
-What's that tune you're <b>humming</b>?	<b>hum</b>:  to sing a tune with your lips closed  哼（曲子）
-Code examples <b>flesh</b> <b>out</b> the details.	<b>flesh</b>:  to add more information or details to a plan, an argumentm, etc. 充实（计划，论据）
-The animals were left to <b>starve</b> to death.	to suffer or die because you do not have enough food to eat; to make sb suffer or die in this way （使）挨饿
-She will be away for the <b>indefinite</b> future.	lasting for a period of time that has no fixed end  无限期的
-The dancers were all tall and <b>graceful</b>.	moving in a controlled, attractive way or having a smooth, attractive form  优美的
+<b>polymorphic</b>	having or passing through many stages of development （发展）呈多种形式的，多态的	LongTermLearning
+The chairman <b>overrode</b> the committee's objections and signed the agreement.	<b>override</b>:  to use your authority to reject sb's decision, order, etc. （以权力）否决，推翻	LongTermLearning
+He'll have to learn to <b>pace</b> himself in this job.	to find the right speed or rhythm for your work or an activity so that you have enough energy to do what you have to do 调整自己的工作（或活动）节奏	LongTermLearning
+a <b>frugal</b> life	using only as much money or food as is necessary （对金钱、食物等）节约的，节俭的	LongTermLearning
+He's <b>obsessed</b> by computers.	<b>obsess</b>:  to completely fill your mind so that you cannot think of anything else, in a way that is not normal 使痴迷	LongTermLearning
+The players are <b>barred</b> from drinking alcohol the night before a match.	<b>bar</b>:  to ban or prevent sb from doing sth  禁止	LongTermLearning
+What's that tune you're <b>humming</b>?	<b>hum</b>:  to sing a tune with your lips closed  哼（曲子）	LongTermLearning
+Code examples <b>flesh</b> <b>out</b> the details.	<b>flesh</b>:  to add more information or details to a plan, an argumentm, etc. 充实（计划，论据）	LongTermLearning
+The animals were left to <b>starve</b> to death.	to suffer or die because you do not have enough food to eat; to make sb suffer or die in this way （使）挨饿	LongTermLearning
+She will be away for the <b>indefinite</b> future.	lasting for a period of time that has no fixed end  无限期的	LongTermLearning
+The dancers were all tall and <b>graceful</b>.	moving in a controlled, attractive way or having a smooth, attractive form  优美的	LongTermLearning
