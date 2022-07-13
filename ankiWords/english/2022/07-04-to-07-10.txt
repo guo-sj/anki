@@ -1,21 +1,21 @@
-a <b>dispute</b> the two countries about the border	an argument or disagreement between two people, groups or countries  争论
-<b>analytic</b>	using word order rather than word endings to show the functions of words in a sentence  分析的（用词序而非词尾显示在句中的功能）
-the <b>forthcoming</b> elections	going to happen, be published, etc. very soon  即将发生的
-All his work bears the <b>stamp</b> of authority.	the mark or sign of a particular quality or person 特征 这句话的意思是：“他的一切工作都具有权威性”
-a <b>contrived</b> situation	planned in advance and not natural or genuine; written or arranged in a way that is not natural or realistic  预谋的
-Is the painting a <b>genuine</b> Picasso?	real; exactly what it appears to be; not artificial  真的，名副其实的
-The nuts are ready to <b>harvest</b> in September.	to cut and gather a crop; to catch a number of animals or fish to eat  收割（粮食）
-to crack a <b>nut</b>	a small hard fruit with a very hard shell that grows on some trees  坚果
-a culture in which women are <b>segregated</b> from men	<b>segregate</b>:  to separate people of different races, religions or sexes and treat them in a different way  区分，区别
-There was a nationwide debate on whether the <b>asylum</b> laws should be changed.	also 'political asylum', it is a protection that a government gives to people who have left their own country, usually because they were in danger for polical reasons  政治庇护
-safety <b>precautions</b>	<b>precaution</b>:  something that is done in advance in order to prevent problems or to avoid danger  预防措施
-<b>So</b> <b>long</b> <b>as</b> there is a demand for these drugs, the financial incentive for drug dealers will be there.	<b>so long as</b>:  as long as  只要
-Did you notice how she neatly <b>sidestepped</b> the question?	sidestep:  to avoid answering a question or dealing with a problem  避免
-to get the <b>gist</b> of an argument	the main or general meaning of a piece of writing, a speech or a conversation  主旨
-a <b>seamless</b> flow of talk	with no spaces or pauses between one part and the next  （两部分之间）不停顿的，流畅的
-mathematic <b>theorem</b>	a rule or principle, especially in mathematics, that can be proved to be true  （尤其指数学）定理
-<b>unidirectional</b> data flow	moving or operating in a single direction  单向的
-<b>regression</b>	the process of going back to an earlier or less advanced form or state  倒退，回退
-<b>grapefruit</b>	柚子，西柚
-In this section, you'll find <b>horror</b> and science fiction.	a type of book, film/movie, etc. that is designed to frighten people  恐怖故事（或电影等）
-a <b>loaf</b> of bread	an amount of bread that has been shaped and baked in one piece  一条（面包）
+a <b>dispute</b> the two countries about the border	an argument or disagreement between two people, groups or countries  争论	LongTermLearning
+<b>analytic</b>	using word order rather than word endings to show the functions of words in a sentence  分析的（用词序而非词尾显示在句中的功能）	LongTermLearning
+the <b>forthcoming</b> elections	going to happen, be published, etc. very soon  即将发生的	LongTermLearning
+All his work bears the <b>stamp</b> of authority.	the mark or sign of a particular quality or person 特征 这句话的意思是：“他的一切工作都具有权威性”	LongTermLearning
+a <b>contrived</b> situation	planned in advance and not natural or genuine; written or arranged in a way that is not natural or realistic  预谋的	LongTermLearning
+Is the painting a <b>genuine</b> Picasso?	real; exactly what it appears to be; not artificial  真的，名副其实的	LongTermLearning
+The nuts are ready to <b>harvest</b> in September.	to cut and gather a crop; to catch a number of animals or fish to eat  收割（粮食）	LongTermLearning
+to crack a <b>nut</b>	a small hard fruit with a very hard shell that grows on some trees  坚果	LongTermLearning
+a culture in which women are <b>segregated</b> from men	<b>segregate</b>:  to separate people of different races, religions or sexes and treat them in a different way  区分，区别	LongTermLearning
+There was a nationwide debate on whether the <b>asylum</b> laws should be changed.	also 'political asylum', it is a protection that a government gives to people who have left their own country, usually because they were in danger for polical reasons  政治庇护	LongTermLearning
+safety <b>precautions</b>	<b>precaution</b>:  something that is done in advance in order to prevent problems or to avoid danger  预防措施	LongTermLearning
+<b>So</b> <b>long</b> <b>as</b> there is a demand for these drugs, the financial incentive for drug dealers will be there.	<b>so long as</b>:  as long as  只要	LongTermLearning
+Did you notice how she neatly <b>sidestepped</b> the question?	sidestep:  to avoid answering a question or dealing with a problem  避免	LongTermLearning
+to get the <b>gist</b> of an argument	the main or general meaning of a piece of writing, a speech or a conversation  主旨	LongTermLearning
+a <b>seamless</b> flow of talk	with no spaces or pauses between one part and the next  （两部分之间）不停顿的，流畅的	LongTermLearning
+mathematic <b>theorem</b>	a rule or principle, especially in mathematics, that can be proved to be true  （尤其指数学）定理	LongTermLearning
+<b>unidirectional</b> data flow	moving or operating in a single direction  单向的	LongTermLearning
+<b>regression</b>	the process of going back to an earlier or less advanced form or state  倒退，回退	LongTermLearning
+<b>grapefruit</b>	柚子，西柚	LongTermLearning
+In this section, you'll find <b>horror</b> and science fiction.	a type of book, film/movie, etc. that is designed to frighten people  恐怖故事（或电影等）	LongTermLearning
+a <b>loaf</b> of bread	an amount of bread that has been shaped and baked in one piece  一条（面包）	LongTermLearning
