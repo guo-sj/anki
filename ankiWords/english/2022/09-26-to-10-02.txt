@@ -1,0 +1,6 @@
+He was arrested for <b>impersonating</b> an officer.	<b>impersonate</b>:  pretend to be 假冒	LongTermLearning
+<b>forgery</b>	Entity fabricates information and claims that such information was received from another entity or sent to another entity 信息伪造	LongTermLearning
+The <b>aforementioned</b> person was seen acting suspiciously.	mentioined before, in an earlier sentence  上述的，前面提到的	LongTermLearning
+The <b>proximity</b> of the college to London makes it very popular.	the state of being near sb/sth in distance or time  （时间或空间）接近，邻近，靠近	LongTermLearning
+The computer program was unable to <b>discriminate</b> between letters and numbers.	to recognize that there is a difference between people or things 区别，区分	LongTermLearning
+<b>reentrancy</b>	可重入的	LongTermLearning
