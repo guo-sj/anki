@@ -9,8 +9,8 @@ $(RESULT): $(TARGET) $(BACKUP_FILE)
 	cat ./$(BACKUP_FILE) |\
 	./$(TARGET) |\
 	tr A-Z a-z |\
-	sed 's/^[\t ]\+//g' |\
-	sed 's/[\t ]\+$$//g' |\
+	sed -E 's/^[\t ]+//g' |\
+	sed -E 's/[\t ]+$$//g' |\
 	sort |\
 	uniq >$(RESULT)
 	
