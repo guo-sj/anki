@@ -32,7 +32,7 @@ anki从来不保证它可以让你记住所有的卡片，这很大程度上取�
 ## 用 vim 编辑时的命令
 在用 vim 编辑时，首先在命令模式输入：
 ```vimscript
-:set noexpandtab | set tw=0 | ab <  <>
+set noexpandtab | set tw=0 | ab <  <>
 ```
 
 然后使用 `@q` 来触发宏，给需要记忆的单词加上`<b></b>` 的标签。
