@@ -38,3 +38,8 @@ set noexpandtab | set tw=0 | ab <  <>
 然后使用 `@q` 来触发宏，给需要记忆的单词加上`<b></b>` 的标签。
 
 当编辑完成后，我们再使用命令：`:%s/$/	LongTermLearning/g` 来给每行末尾加上 Anki Tag。
+
+## awosomeTTS
+为了可以在 android 设备上也使用 TTS，当前采用的方式是 [batch generation](https://www.vocab.ai/tutorials/awesometts-batch-generation)。所以在导入卡片的时候，
+需要先把卡片导入到 `default` deck，然后 Browser default deck，选中所有的卡片，使用 awosomeTTS
+生成一下音频；再将所有的卡片 move 到对应的 deck。
