@@ -43,3 +43,7 @@ set noexpandtab | set tw=0 | ab <  <>
 为了可以在 android 设备上也使用 TTS，当前采用的方式是 [batch generation](https://www.vocab.ai/tutorials/awesometts-batch-generation)。所以在导入卡片的时候，
 需要先把卡片导入到 `default` deck，然后 Browser default deck，选中所有的卡片，使用 awosomeTTS
 生成一下音频；再将所有的卡片 move 到对应的 deck。
+
+## 文件
+我从 2025/04 开始恢复了 anki 的使用，坚持了一段时间，觉得还不错。是时候 move on 了。从 2025 年开始，目录从 `07-15-to-07-21.txt` -> `06.txt`，即
+从每周一个文件变成每月一个文件。
